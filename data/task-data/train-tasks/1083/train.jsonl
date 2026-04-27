@@ -1,0 +1,800 @@
+{"text":"I need to find out if my items have been dispatched yet. I ordered them on Tuesday, and I'm getting a bit anxious about the delivery.","labels":"Order Status"}
+{"text":"Can you tell me if there's any way to get a discount on bulk orders for office supplies? I might need to restock soon.","labels":"Promotional Inquiry"}
+{"text":"Could you tell me if there are seasonal promotions available? I want to get the best deals on my next purchase!","labels":"Promotional Inquiry"}
+{"text":"I received my order yesterday, but the shirt I got is the wrong size. Is it possible to send it back and get the correct one?","labels":"Return Request"}
+{"text":"Hello, I wanted to ask if I can return my item. It doesn't match the description on your site. What\u2019s the process like?","labels":"Return Request"}
+{"text":"Is there a time limit on returns? I need to send an item back because it doesn\u2019t fit, and I\u2019m worried I might miss the deadline.","labels":"Return Request"}
+{"text":"I received an email mentioning a limited-time offer on select items. Are those items still on sale? I'm particularly interested in the electronics section.","labels":"Promotional Inquiry"}
+{"text":"I'm interested in knowing if the jacket is waterproof and how warm it is for winter?","labels":"Product Inquiry"}
+{"text":"I'm looking for a gift for my daughter. Do you have any recommendations for toys that are safe for 3 year olds?","labels":"Product Inquiry"}
+{"text":"Hi, I received an email saying my package has shipped, but it doesn't say when I should get it. Could you clarify?","labels":"Order Status"}
+{"text":"I want to return a pair of shoes I bought last week because they don't fit properly. What's the process?","labels":"Return Request"}
+{"text":"My recent order was supposed to arrive yesterday, but I received nothing. I've checked my tracking information, but it's not updating. What should I do?","labels":"Customer Support Issue"}
+{"text":"My recent transaction was charged twice, and I can\u2019t figure out how to get this resolved. I need assistance urgently!","labels":"Customer Support Issue"}
+{"text":"Hi, I saw the new running shoes on your website. Do you have them in stock in size 10, and can you share the color options available?","labels":"Product Inquiry"}
+{"text":"I need assistance with an item I purchased. It's not functioning as expected, and I'm not sure what to do next. Can I get some guidance on this?","labels":"Customer Support Issue"}
+{"text":"Can you tell me more about the specifications of the new laptop model that was released this week?","labels":"Product Inquiry"}
+{"text":"I ordered a laptop last month and the website said it would be here by now. I'm starting to get a bit anxious about it. Can you help?","labels":"Order Status"}
+{"text":"Hi, I was just wondering if my package has shipped yet? It's been over a week since I placed my order. Thanks!","labels":"Order Status"}
+{"text":"The item I received is damaged and I\u2019d like to know what steps I should take to get it replaced. Please advise.","labels":"Customer Support Issue"}
+{"text":"I received my order yesterday, but the shirt is way too small for me. Is there any way I can get a different size?","labels":"Return Request"}
+{"text":"This blender I ordered is not blending properly. I want to return it. What\u2019s the procedure for that?","labels":"Return Request"}
+{"text":"Could you please provide me with the details of your current offers? I'm interested in what discounts you have running right now.","labels":"Promotional Inquiry"}
+{"text":"Hi, I ordered a pair of shoes and it\u2019s been almost a week now. Is there a way to speed up the delivery?","labels":"Order Status"}
+{"text":"I tried reaching out via chat yesterday, but no one responded. I have a question regarding my recent purchase that I need answered ASAP!","labels":"Customer Support Issue"}
+{"text":"What are the differences between the standard and premium versions of your software?","labels":"Product Inquiry"}
+{"text":"Hello, I want to know if this blender can crush ice and make smoothies. I\u2019ve read mixed reviews about different models. Any insights would help!","labels":"Product Inquiry"}
+{"text":"I don\u2019t see any shipping info on my account for the items I bought. Is there a way to find out the status of my delivery?","labels":"Order Status"}
+{"text":"Hey, I saw an ad about a discount on winter jackets but I can't seem to find the promotion on the website. Can you help me with this?","labels":"Promotional Inquiry"}
+{"text":"What types of seasonal sales do you typically offer? I want to know when is the best time to shop for great deals at your store.","labels":"Promotional Inquiry"}
+{"text":"I saw a social media post mentioning a flash sale on selected items. What are the terms and conditions for that?","labels":"Promotional Inquiry"}
+{"text":"I saw a cellphone on the website, but I'm not sure if it works with my carrier. Could you clarify?","labels":"Product Inquiry"}
+{"text":"Are there any discounts available if I purchase multiple items together? I\u2019m planning to buy several gifts for my friends and family.","labels":"Product Inquiry"}
+{"text":"I received a pair of shoes today, but they are too small. How can I send them back?","labels":"Return Request"}
+{"text":"Is there a difference in the battery life between the standard and the premium versions of the smartwatch?","labels":"Product Inquiry"}
+{"text":"Is there a difference between the basic and premium versions of this vacuum cleaner? I'm trying to decide which one to buy.","labels":"Product Inquiry"}
+{"text":"I ordered a new laptop last week and the tracking information hasn\u2019t updated at all. Is there a delay or something?","labels":"Order Status"}
+{"text":"I can't seem to log into my account, and I really need to access my order history. Can you help me reset my password?","labels":"Customer Support Issue"}
+{"text":"My recent purchase was defective upon arrival, and I need assistance figuring out how to get a replacement. What should I do?","labels":"Customer Support Issue"}
+{"text":"There seems to be a glitch when I try to apply filters to search for products on your website. It keeps showing me the wrong items. Can this be fixed?","labels":"Customer Support Issue"}
+{"text":"Can you provide more information about the warranty on your kitchen appliances? It\u2019s hard to find that info on your website.","labels":"Product Inquiry"}
+{"text":"Quick question! Is the coffee maker compatible with my K-cups? Also, are there any warranties on it?","labels":"Product Inquiry"}
+{"text":"I'm having trouble logging into my account, and I need help resetting my password so I can access my orders.","labels":"Customer Support Issue"}
+{"text":"Hi, I\u2019m interested in the specifications of your new laptop. Does it have a dedicated graphics card?","labels":"Product Inquiry"}
+{"text":"I'm considering purchasing an electric bike, but I\u2019m unsure about the range it offers on a single charge. Can you provide some details on that?","labels":"Product Inquiry"}
+{"text":"I'm looking for a pair of headphones that are good for noise cancellation. Can you recommend any from your current inventory?","labels":"Product Inquiry"}
+{"text":"I'm not happy with the size I ordered. Is there a way to exchange it for a smaller one? I just realized it doesn't fit me at all!","labels":"Return Request"}
+{"text":"I placed an order for a laptop and the estimated delivery was two days ago. Where is it?","labels":"Order Status"}
+{"text":"Hi, I was wondering if my package has shipped yet? I expected to receive it by now and haven\u2019t seen any updates.","labels":"Order Status"}
+{"text":"I\u2019m really anxious about my delivery. It\u2019s already past the estimated delivery date. Can you assist me with this?","labels":"Order Status"}
+{"text":"I found the same item cheaper elsewhere and want to return the one I bought from you. Can you explain how to send it back?","labels":"Return Request"}
+{"text":"Hey, I was wondering if you could help me track down my recent purchase? I thought it would have arrived by now but I haven't seen it yet!","labels":"Order Status"}
+{"text":"My order arrived, but it looks used and the packaging was damaged. Is this something I can return for a full refund? Please let me know!","labels":"Return Request"}
+{"text":"Can you provide details on any available coupons for your products? I\u2019ve heard there might be a promotion going on!","labels":"Promotional Inquiry"}
+{"text":"I'd like to know if the kitchen blender comes with any additional attachments or accessories. Are they included in the package?","labels":"Product Inquiry"}
+{"text":"What color options do you have for the running shoes? I'm looking for something vibrant, but I'm unsure what shades are available right now.","labels":"Product Inquiry"}
+{"text":"I\u2019m interested in your loyalty program\u2014are there any current promotions for members?","labels":"Promotional Inquiry"}
+{"text":"I noticed that some products are tagged as 'on sale' in your online store. Do you have a specific time limit for these discounts? Just trying to plan my purchases accordingly!","labels":"Promotional Inquiry"}
+{"text":"Is this camera lens waterproof? I\u2019d like to use it while traveling in different weather conditions.","labels":"Product Inquiry"}
+{"text":"My recent order was delivered, but the item is damaged. What do I need to do to get a refund? I appreciate any help you can provide!","labels":"Return Request"}
+{"text":"I received an email saying my item was shipped, but I still haven't gotten any tracking information. Can someone clarify what's going on?","labels":"Customer Support Issue"}
+{"text":"I called support earlier, but my issue with the billing discrepancies still isn't resolved. Can someone assist me in getting this sorted?","labels":"Customer Support Issue"}
+{"text":"Is there a difference between the standard and deluxe versions of your coffee maker?","labels":"Product Inquiry"}
+{"text":"I received an email saying my order was dispatched, but it\u2019s been two days and I still don\u2019t have it. Can you provide any updates?","labels":"Order Status"}
+{"text":"Do you guys send out any coupons or promo codes through email? I wouldn't want to miss out on a good deal if you do!","labels":"Promotional Inquiry"}
+{"text":"I placed an order over a week ago, but there\u2019s no tracking info available. Can you help me figure out when I might expect it?","labels":"Order Status"}
+{"text":"Hello, I placed an order last week and I haven't received any confirmation about shipping. Can you provide any information?","labels":"Order Status"}
+{"text":"Hi! I\u2019m curious if you have any ongoing promotions or upcoming sales that could help me get a better deal on electronics.","labels":"Promotional Inquiry"}
+{"text":"I attempted to apply a discount code during checkout, but it didn't work. What\u2019s the process for resolving this?","labels":"Customer Support Issue"}
+{"text":"I saw a listing for a smartphone on your site, but the description doesn't mention the battery specs. Is it a long-lasting battery?","labels":"Product Inquiry"}
+{"text":"Is the new line of sneakers available in wide sizes? I've had trouble finding them elsewhere.","labels":"Product Inquiry"}
+{"text":"I received my order yesterday but unfortunately the shoes are the wrong size. How do I go about sending them back?","labels":"Return Request"}
+{"text":"Could you let me know if the coffee maker has a built-in grinder? I'm very interested in that feature before making a purchase.","labels":"Product Inquiry"}
+{"text":"Are there any membership programs that offer exclusive discounts or promos?","labels":"Promotional Inquiry"}
+{"text":"Hey, I'm curious about the difference between your organic and non-organic skincare lines. Can you explain?","labels":"Product Inquiry"}
+{"text":"Does this smartphone have expandable storage, and if so, what is the maximum supported size?","labels":"Product Inquiry"}
+{"text":"Hi, I tried to reach out regarding my last purchase but I didn\u2019t get any response. I need to know what\u2019s happening with my account.","labels":"Customer Support Issue"}
+{"text":"What are the specifications of the latest gaming console you have available?","labels":"Product Inquiry"}
+{"text":"My account has been locked for some reason, and I can't access my previous orders. I'm really worried about it!","labels":"Customer Support Issue"}
+{"text":"I'm not satisfied with my latest purchase. The shoes I ordered are too tight, and I don't have the packaging anymore. What are my options?","labels":"Return Request"}
+{"text":"Is there a chance you will be having a Black Friday sale? I want to plan my purchases accordingly to maximize savings.","labels":"Promotional Inquiry"}
+{"text":"Unfortunately, my last order didn't meet my expectations, and I'd like to return it. What steps should I follow?","labels":"Return Request"}
+{"text":"I\u2019m interested in your loyalty program and whether it offers any exclusive discounts or deals. Can you tell me how it works?","labels":"Promotional Inquiry"}
+{"text":"I changed my mind about the watch I purchased, and I need instructions on how to proceed with sending it back. Please advise!","labels":"Return Request"}
+{"text":"Is there a newsletter I can sign up for to stay updated on special promotions or limited-time offers?","labels":"Promotional Inquiry"}
+{"text":"I\u2019m curious if the running shoes come in wide sizes and what the return policy is on them if they don't fit well. Thanks!","labels":"Product Inquiry"}
+{"text":"Is there a loyalty program or any rewards system that I can join to get discounts on my future purchases?","labels":"Promotional Inquiry"}
+{"text":"I was looking at my order history and saw my latest order is still showing as 'pending'. What does that mean for the estimated delivery?","labels":"Order Status"}
+{"text":"Hey, I heard about your new discount on shoes. Can you tell me how long that lasts?","labels":"Promotional Inquiry"}
+{"text":"The dress I bought isn\u2019t fitting right and I\u2019m not happy with it. Could you guide me on how to proceed?","labels":"Return Request"}
+{"text":"I'm curious about whether the fabric of the yoga mat is eco-friendly. Could you provide more details?","labels":"Product Inquiry"}
+{"text":"The item I received was not what I expected, and I would like to return it. Can you let me know how I can initiate this process?","labels":"Return Request"}
+{"text":"I just saw an advertisement for your seasonal clearance sale. Can you provide details on what items are included?","labels":"Promotional Inquiry"}
+{"text":"Are there any special offers for first-time buyers? I want to make sure I don't miss out!","labels":"Promotional Inquiry"}
+{"text":"I just came across your collection of organic skincare products. Could you explain the differences between the face cream and the serum?","labels":"Product Inquiry"}
+{"text":"I'm really excited about the launch of your new line. Are there any introductory discounts available?","labels":"Promotional Inquiry"}
+{"text":"Is my order still on track for delivery? I was told 3-5 business days, but I haven\u2019t seen any movement yet.","labels":"Order Status"}
+{"text":"Could you look into my recent purchase? The last update I saw said it would ship, but it\u2019s been days without any movement.","labels":"Order Status"}
+{"text":"What are the latest promotions or exclusive deals that I can benefit from this month? I\u2019d hate to miss out!","labels":"Promotional Inquiry"}
+{"text":"I tried to get in touch with customer service, but I'm having trouble reaching them. Is there a better way to contact support?","labels":"Customer Support Issue"}
+{"text":"Could someone explain how the warranty works for this camera? I want to ensure I understand the coverage before making a decision.","labels":"Product Inquiry"}
+{"text":"The sofa I ordered has a scratch on it, and I\u2019m not happy with the condition. How do I initiate a return process?","labels":"Return Request"}
+{"text":"Do you have any information on whether this kitchen appliance is suitable for vegan cooking? I want to make sure it meets my needs.","labels":"Product Inquiry"}
+{"text":"Is there a warranty included with the hiking gear I purchased? I want to make sure I understand the coverage before I buy it.","labels":"Product Inquiry"}
+{"text":"Hi, I\u2019m curious when I can expect the delivery of my recent order. I thought it would ship by now but I\u2019ve got nothing. Thank you!","labels":"Order Status"}
+{"text":"I'm having trouble logging into my account, can you help me reset my password? I've tried multiple times and it's really frustrating.","labels":"Customer Support Issue"}
+{"text":"Hi there! I was just checking in to see if the package I ordered last week has shipped yet.","labels":"Order Status"}
+{"text":"I was checking my order and noticed it hasn\u2019t moved in transit. Can you confirm if everything is okay with the shipping?","labels":"Order Status"}
+{"text":"I saw this blender on your site, but what is the wattage? Also, can it crush ice?","labels":"Product Inquiry"}
+{"text":"I\u2019m curious if there are any promotional codes available at the moment for my favorite skincare products. I really want to stock up soon!","labels":"Promotional Inquiry"}
+{"text":"Can you tell me if this item is available in different colors? I really want to know if I can get it in blue or red before making a decision.","labels":"Product Inquiry"}
+{"text":"Could you tell me where my shipment is? I received an email saying it was shipped, but the tracking link does not work.","labels":"Order Status"}
+{"text":"I received my order, but the sweater is the wrong size. Can I send it back?","labels":"Return Request"}
+{"text":"What kind of offers do you have this month? I\u2019d like to take advantage of any discounts before I buy!","labels":"Promotional Inquiry"}
+{"text":"Every time I call the customer service line, I get placed on hold for too long and the call drops. This has happened multiple times now!","labels":"Customer Support Issue"}
+{"text":"I received the wrong item and would like to send it back. Can you help me with the process?","labels":"Return Request"}
+{"text":"Quick question\u2014do these running shoes come in wide sizes? My last pair was too tight, and I want to make sure I get the right fit.","labels":"Product Inquiry"}
+{"text":"Do you guys have any promotions going on for the holiday season? I want to surprise my family with gifts!","labels":"Promotional Inquiry"}
+{"text":"Can you tell me more about the specifications of the new wireless headphones?","labels":"Product Inquiry"}
+{"text":"Can you let me know if you have any upcoming sales events planned for this month? I want to take advantage of any deals!","labels":"Promotional Inquiry"}
+{"text":"I am unable to access my purchase history on the site. I need to find an order from last month but the page keeps crashing. Is there a fix for this?","labels":"Customer Support Issue"}
+{"text":"I noticed a blender advertised on your site, but I want to know if it has a glass or plastic jar, as I prefer glass for my smoothies.","labels":"Product Inquiry"}
+{"text":"I've been waiting for my stuff to get delivered, but there's no movement on the tracking link. Can I get a status update?","labels":"Order Status"}
+{"text":"I need some clarification on the warranty for the kitchen blender I read about. What does it cover and how long is it effective for?","labels":"Product Inquiry"}
+{"text":"Hi, I purchased a blender last week, but it arrived damaged. What steps should I take to return it?","labels":"Return Request"}
+{"text":"The dress I purchased is not the color as described on the website and I want to send it back. What are my options for this?","labels":"Return Request"}
+{"text":"Could you let me know what the status is on my order? I am planning a gift and would love to have it on time. Thank you!","labels":"Order Status"}
+{"text":"I received the wrong product in my shipment and need assistance with correcting this. Can you guide me on what steps to take?","labels":"Customer Support Issue"}
+{"text":"Hi! I noticed that my order hasn\u2019t arrived yet, and I\u2019m getting a bit worried. What\u2019s going on with it?","labels":"Order Status"}
+{"text":"Could you provide an update on my recent order? I\u2019m eager to know when it will arrive as it\u2019s a gift for someone special.","labels":"Order Status"}
+{"text":"Hello! I ordered some shoes and they were supposed to arrive yesterday, but they didn\u2019t. Can you give me an update?","labels":"Order Status"}
+{"text":"Can you please check if my order for the kitchenware is still on track? I need it by the weekend if possible!","labels":"Order Status"}
+{"text":"I love your product line! Do you plan on having any buy-one-get-one-free events anytime soon?","labels":"Promotional Inquiry"}
+{"text":"Are there any special offers or discounts on your products this week?","labels":"Promotional Inquiry"}
+{"text":"I can\u2019t track my shipment. The status hasn\u2019t updated in days, and I\u2019m not sure when it will arrive. Can you provide some clarity?","labels":"Customer Support Issue"}
+{"text":"I\u2019m worried because I ordered a birthday gift for my son and it hasn\u2019t shipped yet. Can you help me figure out when I can expect it?","labels":"Order Status"}
+{"text":"What are the warranty terms for the appliances you sell? I'd like to know more about the coverage before making a decision.","labels":"Product Inquiry"}
+{"text":"Hi there, I placed an order a week ago and I haven't received any tracking information yet. Can you help me with that?","labels":"Order Status"}
+{"text":"I'm planning to order some items soon and I saw your ad online about a buy one get one free offer. How do I take advantage of that?","labels":"Promotional Inquiry"}
+{"text":"I just got a newsletter that mentioned something about a flash sale but I didn't catch the details. What items are included in that sale?","labels":"Promotional Inquiry"}
+{"text":"I was really excited to get my order, but the headphones are defective. What\u2019s the protocol for sending them back?","labels":"Return Request"}
+{"text":"After placing my order, I realized I made a mistake in my shipping address. Is there a way to correct it before it ships?","labels":"Customer Support Issue"}
+{"text":"My order arrived but has a manufacturing defect. I want to make sure I can get a new one. How do I go about that?","labels":"Return Request"}
+{"text":"My recent purchase didn't come with an instruction manual, and I'm lost on how to use it. Please assist!","labels":"Customer Support Issue"}
+{"text":"Hi, I wanted to check on my recent purchase. I got a confirmation email, but no updates since then. Is there a way to find out the estimated delivery date?","labels":"Order Status"}
+{"text":"Hey, do you have any discounts available right now? I'm looking to buy a few items!","labels":"Promotional Inquiry"}
+{"text":"I\u2019m concerned that my shipment hasn\u2019t moved from the warehouse. Can you provide any updates on its delivery? Thank you!","labels":"Order Status"}
+{"text":"Hello! I recently purchased a pair of shoes but they don't fit as expected. I would like to initiate the process of getting a different size. Any help would be appreciated!","labels":"Return Request"}
+{"text":"Is the blender that you sell capable of crushing ice, or is it just for smoothies?","labels":"Product Inquiry"}
+{"text":"Can someone help me understand the difference between the two types of noise-canceling headphones listed on your website? I want to choose the best one for traveling.","labels":"Product Inquiry"}
+{"text":"I received a notification about my refund, but the amount seems incorrect. Can I get clarification on that?","labels":"Customer Support Issue"}
+{"text":"I placed an order last week, and I haven't gotten any updates on shipping. Could you check if it has been dispatched?","labels":"Order Status"}
+{"text":"Hey, I need more details on how many colors the smartwatch is available in and if it's compatible with both iOS and Android.","labels":"Product Inquiry"}
+{"text":"I\u2019m interested in the new line of organic skincare products. Are the ingredients completely natural? Also, do you have samples available?","labels":"Product Inquiry"}
+{"text":"I was double charged for my recent purchase and I need a refund. How can I get that sorted out?","labels":"Customer Support Issue"}
+{"text":"I'm looking for more information on the features of your latest smartphone model. What are the differences compared to the previous version?","labels":"Product Inquiry"}
+{"text":"I'm trying to return an item, but the return label isn't working. Could you please provide guidance on how to proceed?","labels":"Customer Support Issue"}
+{"text":"Hi! Is there a way to get a voucher or coupon for my next purchase? I\u2019ve seen some ads online. Just curious!","labels":"Promotional Inquiry"}
+{"text":"I love your products! Do you have any current promotions that I should be aware of? Perhaps a buy one get one free offer?","labels":"Promotional Inquiry"}
+{"text":"I just got my order, but unfortunately, the item is damaged. What should I do to initiate a return?","labels":"Return Request"}
+{"text":"The item I bought doesn't match the description on your website, and I'm really disappointed. Can you tell me how I can return it?","labels":"Return Request"}
+{"text":"Can you please let me know if there are any upcoming sales or promotional events? I want to make the most of my shopping!","labels":"Promotional Inquiry"}
+{"text":"I recently joined your newsletter and wanted to know if there are exclusive deals for subscribers.","labels":"Promotional Inquiry"}
+{"text":"My order was supposed to arrive yesterday, but it hasn't shown up yet. It says delivered but I can't find it anywhere. What can be done?","labels":"Customer Support Issue"}
+{"text":"I noticed a banner on your site about a flash sale. Can you confirm when it will take place?","labels":"Promotional Inquiry"}
+{"text":"The dress I ordered arrived, but it doesn't match the description at all. What should I do to send it back?","labels":"Return Request"}
+{"text":"I just wanted to follow up on my order made last week. I didn\u2019t receive a confirmation email, and I\u2019m not sure if it went through. Can you help?","labels":"Order Status"}
+{"text":"Hey, can someone explain how to handle a return if I ordered something online that I changed my mind about?","labels":"Return Request"}
+{"text":"I received an email about a flash sale but couldn't check it out in time. Is there a chance those deals will come back?","labels":"Promotional Inquiry"}
+{"text":"I just checked my tracking number, and it still shows 'processing'. What does that mean? Will it be shipped soon?","labels":"Order Status"}
+{"text":"I purchased a blender last week, but it's not blending properly. Can I send it back for a refund?","labels":"Return Request"}
+{"text":"I just wanted to check in about my recent purchase. I was told I would get a tracking number, but I haven\u2019t received anything yet. Any info would be appreciated!","labels":"Order Status"}
+{"text":"Is the smartwatch you sell compatible with both Android and iOS devices? I'm planning to buy one as a gift and want to make sure it works for both.","labels":"Product Inquiry"}
+{"text":"Can you provide more information about your referral program? How does it benefit both the person referring and the new customer?","labels":"Promotional Inquiry"}
+{"text":"What materials are used in your eco-friendly yoga mats? I'm curious about their durability and grip.","labels":"Product Inquiry"}
+{"text":"Hello, I saw that my order was marked as shipped, but the tracking number doesn\u2019t show any information. What\u2019s going on?","labels":"Order Status"}
+{"text":"I ordered a pair of shoes on Monday, but my account still shows it as processing. What\u2019s going on?","labels":"Order Status"}
+{"text":"I received an email saying my order was delayed, but it didn\u2019t provide a new estimated arrival date. Can you help me figure this out?","labels":"Order Status"}
+{"text":"I\u2019m looking to grab some gifts for the holidays; do you have a list of current promotions I should check out?","labels":"Promotional Inquiry"}
+{"text":"My order arrived today, but it\u2019s not what I expected. Is there a way to return it for a refund? Please help me with this.","labels":"Return Request"}
+{"text":"Hi, I have a technical issue with the app crashing every time I try to use it. I'm not sure what to do. Can you assist?","labels":"Customer Support Issue"}
+{"text":"There seems to be a glitch with my order history; it\u2019s not displaying anything recent. Can someone look into this?","labels":"Customer Support Issue"}
+{"text":"What\u2019s the difference between your basic and premium memberships? I\u2019d like to understand the additional benefits included in the premium.","labels":"Product Inquiry"}
+{"text":"Could you please tell me when my order will arrive? I really need the items for an event this weekend. Thanks!","labels":"Order Status"}
+{"text":"Hello, I believe I've been overcharged for my last order, and I've reached out for assistance but have yet to hear back. What's going on?","labels":"Customer Support Issue"}
+{"text":"I bought a jacket last week, and it's not fitting well. What\u2019s the process for returning it?","labels":"Return Request"}
+{"text":"I'm really anxious about my recent order; it's been pending for a long time now. Is everything okay with it?","labels":"Order Status"}
+{"text":"Can you tell me more about the specifications and features of the latest smartphone model?","labels":"Product Inquiry"}
+{"text":"Do you guys have any discounts right now? I heard there might be a sale, not sure if it's true though!","labels":"Promotional Inquiry"}
+{"text":"Do you have any information on the warranty for the shoes? I\u2019m concerned about durability over time.","labels":"Product Inquiry"}
+{"text":"I'm having technical issues with your website; it's not allowing me to place an order and it's really frustrating! Can you help?","labels":"Customer Support Issue"}
+{"text":"I'm interested in knowing more about the features of the latest smartphone you have available. Is the camera really that good?","labels":"Product Inquiry"}
+{"text":"I was checking the website for my order updates, but it doesn\u2019t show anything. Can you help me figure out what\u2019s going on?","labels":"Order Status"}
+{"text":"Could you please share if there are any seasonal discounts available? I\u2019m ready to make a purchase but would love to save some money if possible.","labels":"Promotional Inquiry"}
+{"text":"I made a purchase recently, and one of the items was damaged when it arrived. Can I send it back for a replacement?","labels":"Return Request"}
+{"text":"Can you tell me if there are any upcoming sales or promotions for this holiday season? I'm looking to buy gifts and want to make sure I get the best deals.","labels":"Promotional Inquiry"}
+{"text":"I placed an order last week and I've yet to receive any updates. Is there a way to check when it should be delivered?","labels":"Order Status"}
+{"text":"The promo code I applied didn\u2019t work at checkout, and I am unsure how to proceed. Can you look into this?","labels":"Customer Support Issue"}
+{"text":"I accidentally ordered the wrong size for my jacket. Can you please provide me with the steps to return it for the correct size?","labels":"Return Request"}
+{"text":"I heard there was a new line of organic skincare products. Can you provide details on the ingredients and any customer feedback?","labels":"Product Inquiry"}
+{"text":"Can you tell me where my package is? I ordered a pair of shoes and I'm really hoping to get them by the weekend.","labels":"Order Status"}
+{"text":"Hey, I was just wondering if my package has shipped yet? It's been a few days since I placed my order and I want to know when to expect it.","labels":"Order Status"}
+{"text":"Are there any loyalty programs or discounts for returning customers? I\u2019d love to know how to save!","labels":"Promotional Inquiry"}
+{"text":"Could you give me a rundown on the warranty options for the gaming console? I want to make sure I\u2019m covered in case of any issues.","labels":"Product Inquiry"}
+{"text":"I want to return a dress I bought for my sister\u2019s wedding because it doesn\u2019t fit her well. Can you guide me through the process?","labels":"Return Request"}
+{"text":"I need clarification on how to return an item that was sent to me by mistake. The return policy was unclear.","labels":"Customer Support Issue"}
+{"text":"Could you provide me details about any bundled offers you have? I\u2019m looking to buy multiple items and would love to take advantage of any deals.","labels":"Promotional Inquiry"}
+{"text":"Hi, I ordered a pair of shoes but they were damaged upon arrival. What steps do I take to get this resolved?","labels":"Customer Support Issue"}
+{"text":"I found a defective product after opening it and I want to know how to proceed with a return. What steps do I take?","labels":"Customer Support Issue"}
+{"text":"I tried to use the dress I bought, but it\u2019s not what I expected. Can I send it back?","labels":"Return Request"}
+{"text":"I\u2019m interested in the specs of that fitness tracker you have. Can it monitor sleep patterns and heart rate, and is it waterproof?","labels":"Product Inquiry"}
+{"text":"I have a problem with my account settings; I cannot seem to change my email address. Can someone help me figure out what\u2019s going on?","labels":"Customer Support Issue"}
+{"text":"What\u2019s the best way to find out about flash sales? I don\u2019t want to miss any great products at reduced prices!","labels":"Promotional Inquiry"}
+{"text":"Hello, I would like to know if you have any updates regarding the delivery of my recent purchase. It's supposed to arrive today, but I haven't received any notification yet.","labels":"Order Status"}
+{"text":"I am really worried because my delivery was supposed to arrive on Monday and now it\u2019s already Friday. Is there a reason for the delay?","labels":"Order Status"}
+{"text":"I can't log into my account, and it's really frustrating. Can someone help me recover my password?","labels":"Customer Support Issue"}
+{"text":"Hi! I'm just curious about the delivery timeline for my order. I ordered a pair of shoes last week, and I'm eager to know when they'll ship.","labels":"Order Status"}
+{"text":"I was browsing the website and noticed a banner about a loyalty program. Can you give me more details on how it works and what perks are included?","labels":"Promotional Inquiry"}
+{"text":"Will there be any promotions this month? I'm looking to buy a few things and would like to save a bit!","labels":"Promotional Inquiry"}
+{"text":"I\u2019ve been waiting for a while now for my order to arrive, do you have any information on its whereabouts?","labels":"Order Status"}
+{"text":"Hi, I was wondering if I could return a dress that I bought last month. I loved it online, but it just doesn\u2019t look right on me.","labels":"Return Request"}
+{"text":"Hi, I'm checking in about a recent purchase. I know it may take some time, but I'm really hoping for an update on the delivery date. Thanks!","labels":"Order Status"}
+{"text":"Could you provide details on the warranty for the vacuum cleaner I found on your site? I'm curious if it covers parts and labor.","labels":"Product Inquiry"}
+{"text":"I am considering buying running shoes, but I would like to know which ones offer better support for flat feet.","labels":"Product Inquiry"}
+{"text":"The item I bought is damaged and I want to know how to initiate the return process.","labels":"Return Request"}
+{"text":"I came across an advertisement for a clearance event. Could you give me more details about what\u2019s available?","labels":"Promotional Inquiry"}
+{"text":"I wanted to report that the product I bought is not working as expected. I think it might be defective, how can I get a replacement?","labels":"Customer Support Issue"}
+{"text":"There's an issue with my refund request that was supposed to be processed last week. Is there a way to speed this up?","labels":"Customer Support Issue"}
+{"text":"My package arrived today, but the item was not what I expected. I\u2019d like to return it, how do I proceed?","labels":"Return Request"}
+{"text":"I received an email that said I might be eligible for a loyalty discount but I\u2019m not sure how it works. Can you clarify that for me?","labels":"Promotional Inquiry"}
+{"text":"Is the blender you're selling capable of making smoothies? What kind of settings does it have?","labels":"Product Inquiry"}
+{"text":"Is there a warranty for this gaming laptop? And can you confirm whether it has a dedicated graphics card or not?","labels":"Product Inquiry"}
+{"text":"I made a purchase on the weekend, but I haven\u2019t seen any tracking information yet. Can someone assist me with that?","labels":"Order Status"}
+{"text":"The item I received was not what I ordered, and I need to resolve this issue quickly. Can someone please assist me with the correct order?","labels":"Customer Support Issue"}
+{"text":"What\u2019s going on with my order? I expected it to get here by now, but I haven\u2019t seen any updates. Can someone please assist me with this?","labels":"Order Status"}
+{"text":"The product I ordered has not arrived, and it\u2019s past the estimated delivery date. Can someone check on it?","labels":"Customer Support Issue"}
+{"text":"The product I ordered is not working as described. I've followed all the instructions, but it's still malfunctioning. What can I do?","labels":"Customer Support Issue"}
+{"text":"Is there any way to find out if the wireless earbuds are compatible with my device? I\u2019d like to confirm before making a decision.","labels":"Product Inquiry"}
+{"text":"Hi, I'm looking for more information regarding the sizes available for the dress. Just want to make sure it will fit before purchasing!","labels":"Product Inquiry"}
+{"text":"Is there a warranty on the kitchen appliances you sell? I\u2019d like to know how long it lasts and what it covers before I buy.","labels":"Product Inquiry"}
+{"text":"The reviews for your skincare line are great! Can someone tell me if these products are cruelty-free?","labels":"Product Inquiry"}
+{"text":"I saw a pair of running shoes on your site, but I can't find any details about the material used. Can you provide more info?","labels":"Product Inquiry"}
+{"text":"I received an email about a limited-time discount; can you explain what products it applies to and when it expires?","labels":"Promotional Inquiry"}
+{"text":"I was wondering if the sunglasses come with a protective case or any additional lenses? I'd like to be prepared when I make my purchase.","labels":"Product Inquiry"}
+{"text":"My product arrived with the wrong size. I need guidance on how to get the right one sent to me. Can you help?","labels":"Customer Support Issue"}
+{"text":"Just following up on my recent order. It seems like it\u2019s taking longer than usual to ship. Any idea what\u2019s going on?","labels":"Order Status"}
+{"text":"I received my order yesterday, but unfortunately, the dress I got doesn\u2019t fit. Can you tell me how I can send it back?","labels":"Return Request"}
+{"text":"I keep receiving notifications about my order, but the updates are contradictory. I need some clarity on this matter.","labels":"Customer Support Issue"}
+{"text":"I want to confirm if the dress I bought has a lining or if it's sheer. What materials were used in making it?","labels":"Product Inquiry"}
+{"text":"There seems to be a problem with my account. I can't log in, and it keeps saying my password is incorrect. Can you assist?","labels":"Customer Support Issue"}
+{"text":"What are the current promo codes for fashion items? I'm planning to shop for some new clothes soon!","labels":"Promotional Inquiry"}
+{"text":"Is there a way to send back the laptop I bought? I don\u2019t like how it functions and it\u2019s not what I thought.","labels":"Return Request"}
+{"text":"I got this gadget, but it doesn't work properly. Could you assist me with returning it for a different one?","labels":"Return Request"}
+{"text":"The item I bought arrived with a defect. I am considering returning it, but I need details about your policy on exchanges and returns.","labels":"Return Request"}
+{"text":"My order of headphones arrived, but they were the wrong color. What\u2019s the procedure for sending them back and getting the right ones?","labels":"Return Request"}
+{"text":"Could you help me with the delivery information for my order? It seems to be taking longer than expected.","labels":"Order Status"}
+{"text":"I can't find the tracking information for my shipment. Can you provide me with an update on where it is?","labels":"Customer Support Issue"}
+{"text":"I received an email saying my item shipped, but there\u2019s no tracking info. Can you help me find out where it is?","labels":"Order Status"}
+{"text":"I\u2019m curious if you have any bundle offers for buying multiple items at once. How does that work?","labels":"Promotional Inquiry"}
+{"text":"I know I should have received my order by now, but it still hasn\u2019t arrived. I need to know what\u2019s happening. Thanks!","labels":"Order Status"}
+{"text":"Every time I try to check out, I get an error message. I've cleared my cache, tried different browsers, and nothing works. Please assist!","labels":"Customer Support Issue"}
+{"text":"It would be great if someone could provide information about the shipping process for my recent order. I\u2019m really looking forward to it!","labels":"Order Status"}
+{"text":"I placed an order last week and haven\u2019t heard anything about the shipping details. Could you check that for me?","labels":"Order Status"}
+{"text":"I'm looking for details on the battery life of the latest smartwatch. How long does it last on a full charge?","labels":"Product Inquiry"}
+{"text":"I'm having issues with the app crashing every time I try to scan a barcode. Has anyone else had this problem, or is it just me?","labels":"Customer Support Issue"}
+{"text":"Is there a loyalty program for frequent buyers? I'd love to know how I can earn rewards while shopping.","labels":"Promotional Inquiry"}
+{"text":"Just wondering if you\u2019re running any special events or discounts this weekend? I\u2019d love to check it out before buying.","labels":"Promotional Inquiry"}
+{"text":"I ordered a few products about a week ago, and I'm concerned they might have been delayed. Any way to check their status?","labels":"Order Status"}
+{"text":"I'm looking for a running shoe that offers good support for flat feet. Which models do you recommend? Also, what are the price ranges?","labels":"Product Inquiry"}
+{"text":"Hey, I received an ad about your latest sale on shoes. Can you give me more details about what products are included?","labels":"Promotional Inquiry"}
+{"text":"I made an order a few days ago and was expecting it today, but it hasn\u2019t shown up. Can you help me track it down?","labels":"Order Status"}
+{"text":"Hi, I just wanted to check in on the delivery of my item. I ordered some shoes, and I'm eagerly waiting for them to come.","labels":"Order Status"}
+{"text":"My account has been locked after too many failed attempts to login. I need immediate assistance to regain access so that I can complete my purchase.","labels":"Customer Support Issue"}
+{"text":"Can you tell me where my package is currently? I placed an order last week and I just want to make sure it's on track for delivery.","labels":"Order Status"}
+{"text":"What\u2019s going on with your Black Friday special? I'm really curious to know if certain items will be on sale.","labels":"Promotional Inquiry"}
+{"text":"Can you tell me when my package is going to arrive?","labels":"Order Status"}
+{"text":"Are there any discounts available for first-time shoppers?","labels":"Promotional Inquiry"}
+{"text":"My order arrived, but it was not what I expected based on the description. How can I go about getting a refund or sending it back?","labels":"Return Request"}
+{"text":"I\u2019m looking for an ergonomic office chair. What materials are used, and do you have any recommendations based on comfort and durability?","labels":"Product Inquiry"}
+{"text":"I received my order today, but the item is not what I expected. Can I send it back?","labels":"Return Request"}
+{"text":"Can you explain your return policy? I received a damaged item and I\u2019m unsure about my options moving forward.","labels":"Customer Support Issue"}
+{"text":"There's a discrepancy with the charges on my credit card for the last order. I need clarification on this before I can proceed further.","labels":"Customer Support Issue"}
+{"text":"Could you please clarify if that dress comes in other sizes or colors? I'm really interested, but I want to explore my options.","labels":"Product Inquiry"}
+{"text":"I recently saw a set of cookware on your website. Are they oven-safe, and what\u2019s the maximum temperature they can withstand?","labels":"Product Inquiry"}
+{"text":"I received my order, but it's missing a few items. What should I do to get the rest of my stuff?","labels":"Customer Support Issue"}
+{"text":"I received the wrong item in my order, and I'm not sure what to do next. Can you help me?","labels":"Customer Support Issue"}
+{"text":"Could you tell me if there are any buy-one-get-one-free offers available right now? I'd love to take advantage of those!","labels":"Promotional Inquiry"}
+{"text":"I ordered a pair of shoes but haven\u2019t received any confirmation on shipping yet. Can you check if it has been dispatched?","labels":"Order Status"}
+{"text":"What materials are used to make your eco-friendly yoga mats?","labels":"Product Inquiry"}
+{"text":"I got an error message when I tried to check out, and now I'm worried my payment went through twice. Can you verify if my order was processed?","labels":"Customer Support Issue"}
+{"text":"Are the kitchen knives dishwasher safe? I\u2019m looking to get a set for my home and want them to be easy to clean.","labels":"Product Inquiry"}
+{"text":"I'm looking for a new smartphone and I want to know what features come with the latest model. Can you provide me with details?","labels":"Product Inquiry"}
+{"text":"My order arrived, but the item was damaged during shipping. Can you guide me on how to handle this situation?","labels":"Return Request"}
+{"text":"Hey, I ordered a pair of shoes and they were supposed to be here by now. What\u2019s going on with the delivery? I really need them by this weekend!","labels":"Order Status"}
+{"text":"Can I get more details about the fabric used in your outdoor furniture? I want to ensure it's weather resistant.","labels":"Product Inquiry"}
+{"text":"I have a question about the materials used in your eco-friendly tote bags. Are they all recyclable?","labels":"Product Inquiry"}
+{"text":"I\u2019ve sent multiple emails about an issue with my subscription but haven\u2019t received any help. Is there a better way to get this resolved?","labels":"Customer Support Issue"}
+{"text":"Hello, I'm facing an issue with my account access, and I can't seem to reset my password. Could someone guide me through the process?","labels":"Customer Support Issue"}
+{"text":"Hello! I wanted to ask when I can expect my package to arrive. It was supposed to be here a few days ago, but I haven't received it.","labels":"Order Status"}
+{"text":"I'm interested in knowing if this dress comes in different colors and what sizes are available.","labels":"Product Inquiry"}
+{"text":"I bought a pair of shoes and they don't fit properly. Is there a way to get a size exchange instead of a return?","labels":"Customer Support Issue"}
+{"text":"Can you provide more information about the features of this air purifier? I\u2019m particularly interested in the noise levels and filter replacement frequency.","labels":"Product Inquiry"}
+{"text":"Hey, I heard there's a sale going on. Can you tell me more about the discounts available?","labels":"Promotional Inquiry"}
+{"text":"I'm curious if there are any special promotions or coupons available for new customers when making a purchase. Also, how do I apply them during checkout?","labels":"Promotional Inquiry"}
+{"text":"Hello! I'm interested in your hiking boots, but I need to know if they are waterproof and what the user ratings are like. Thanks!","labels":"Product Inquiry"}
+{"text":"I\u2019ve been having issues with the app crashing every time I try to place an order. It\u2019s been a couple of days now, and I haven\u2019t been able to buy anything.","labels":"Customer Support Issue"}
+{"text":"The dress I ordered for an event doesn\u2019t match the description on the website. I need to get a refund or exchange it for something else, what do I need to do?","labels":"Return Request"}
+{"text":"Hey, I saw your ad for the skincare line. What are the main ingredients in the face moisturizer, and are there any for sensitive skin?","labels":"Product Inquiry"}
+{"text":"I realized I need to return an item from my last order due to a color mismatch. What do I need to do?","labels":"Return Request"}
+{"text":"Hi, I'm trying to compare the specifications of two different models of vacuum cleaners you carry. Can you help me find a comparison chart?","labels":"Product Inquiry"}
+{"text":"Are there any promotional codes I can use for my next checkout? I want to make sure I get the best deal possible!","labels":"Promotional Inquiry"}
+{"text":"My package arrived damaged and I would like to initiate a process for getting a refund or exchanging it. What should I do?","labels":"Return Request"}
+{"text":"What\u2019s the difference between the basic and premium versions of your subscription box? I'm trying to decide which is better for my needs.","labels":"Product Inquiry"}
+{"text":"My recent order arrived damaged, and I'm not sure how to go about getting a replacement. It was supposed to be a gift, and now I'm in a bit of a bind.","labels":"Customer Support Issue"}
+{"text":"I submitted a ticket regarding a product malfunction, but I haven't received any updates yet. Can you check the status for me?","labels":"Customer Support Issue"}
+{"text":"I accidentally ordered the wrong size, and I\u2019m not sure if I can exchange it without any hassle. What should I do?","labels":"Customer Support Issue"}
+{"text":"I\u2019m curious about the sizing for your furniture. Does it come in customizable dimensions, or are the measurements fixed?","labels":"Product Inquiry"}
+{"text":"Are the ingredients for your beauty products listed on the packaging? I'm particularly sensitive to certain items and want to be cautious.","labels":"Product Inquiry"}
+{"text":"My order came in today, but I accidentally ordered the wrong color. What steps do I need to take to fix this?","labels":"Return Request"}
+{"text":"Just wanted to check if there are any promotional offers right now? I\u2019m considering a few items and would love to save some money!","labels":"Promotional Inquiry"}
+{"text":"I saw a promotion mentioned in last week's newsletter, but I'm not sure which products it applies to. Can you clarify? Thank you!","labels":"Promotional Inquiry"}
+{"text":"Can someone help me with my account? I recently changed my email address and now I can't receive any notifications from your side.","labels":"Customer Support Issue"}
+{"text":"Hello! I wanted to check if there's any tracking info available for my recent order. It was supposed to arrive yesterday, but I haven\u2019t seen it.","labels":"Order Status"}
+{"text":"I ordered a laptop and I haven't seen any tracking information yet. Can you let me know what's going on?","labels":"Order Status"}
+{"text":"My order is supposed to arrive today, but I haven\u2019t seen anything yet. Can you confirm the delivery time?","labels":"Order Status"}
+{"text":"Could you please tell me how to send back a product that I received but didn\u2019t like?","labels":"Return Request"}
+{"text":"Are there specific items that are eligible for discounts this week? Want to make sure I don\u2019t miss out on any great deals!","labels":"Promotional Inquiry"}
+{"text":"Hey, I noticed some products are marked down, but I want to know if there are deals on upcoming launches as well.","labels":"Promotional Inquiry"}
+{"text":"I'm having trouble logging into my account, can you help me reset my password?","labels":"Customer Support Issue"}
+{"text":"I'm a bit anxious because my order was supposed to arrive two days ago and there's been no update. What's going on?","labels":"Order Status"}
+{"text":"Are there any referral bonuses for bringing friends to your store? I'm really keen on getting some perks!","labels":"Promotional Inquiry"}
+{"text":"I ordered a dress but it's not the right color at all. Can I send it back, and will I get a full refund?","labels":"Return Request"}
+{"text":"I want to return the jacket I bought last week. It just doesn\u2019t fit right and I\u2019m not happy with the quality either. What steps do I need to follow to get my money back?","labels":"Return Request"}
+{"text":"I'm having trouble accessing my account, every time I try to log in, it says my password is incorrect.","labels":"Customer Support Issue"}
+{"text":"What are the specifications of the Bluetooth headphones? I need to know how long the battery lasts before I purchase them.","labels":"Product Inquiry"}
+{"text":"I'm eager to know about my order that I placed over two weeks ago. I was expecting it by now. Could someone please clarify?","labels":"Order Status"}
+{"text":"It\u2019s been over a week and my order still hasn\u2019t arrived. Do you have any updates? This is really getting to me!","labels":"Customer Support Issue"}
+{"text":"What is the maximum load capacity for your outdoor hammock? I need a sturdy one for my family.","labels":"Product Inquiry"}
+{"text":"Could you let me know if the blender offered on sale has a glass or plastic jar? I'm concerned about durability when it comes to my kitchen appliances.","labels":"Product Inquiry"}
+{"text":"Hey, I'm looking for any referral discounts you might be offering. How can I refer friends to get those benefits?","labels":"Promotional Inquiry"}
+{"text":"Can you tell me more about the materials used in the jacket? I'm curious if it's waterproof or not.","labels":"Product Inquiry"}
+{"text":"I received my order yesterday but it was missing one item. Can you please help me figure out what happened?","labels":"Customer Support Issue"}
+{"text":"Are there any special discounts available this week for existing customers?","labels":"Promotional Inquiry"}
+{"text":"Are there any details available about the skincare ingredients in your new cream? I have sensitive skin and want to make sure it\u2019s suitable.","labels":"Product Inquiry"}
+{"text":"Can you check on my shipment for order number 123456? I thought it would be here by now but I haven't seen it yet.","labels":"Order Status"}
+{"text":"So I got the shoes I ordered, but the color is totally off from what was shown online. What do I need to do to fix this?","labels":"Return Request"}
+{"text":"Are there any coupon codes or discounts I can use for my next purchase? Would love to save some money!","labels":"Promotional Inquiry"}
+{"text":"I was browsing on Instagram and saw a post about a limited-time offer. Can you provide more details? I don\u2019t want to miss out!","labels":"Promotional Inquiry"}
+{"text":"Is there a way to combine the current sale with my existing coupon? I\u2019m really hoping to save some extra cash on my next order!","labels":"Promotional Inquiry"}
+{"text":"Just curious if you guys have any upcoming sales or special events? I'm interested in shopping soon!","labels":"Promotional Inquiry"}
+{"text":"I keep getting an error message when I try to complete my order, can you give me advice on what to do next?","labels":"Customer Support Issue"}
+{"text":"Could you provide information about the material used in the hiking jacket? I want something durable and lightweight.","labels":"Product Inquiry"}
+{"text":"I recently came across a deal for a home gym set. Can you confirm if the weights are adjustable? That\u2019s crucial for my workout plans!","labels":"Product Inquiry"}
+{"text":"Just saw an ad about your January clearance sale. What items are eligible for those discounts?","labels":"Promotional Inquiry"}
+{"text":"Hi there! I placed an order for a new laptop but I haven\u2019t received any confirmation about when it will be delivered. I\u2019m getting a bit anxious!","labels":"Order Status"}
+{"text":"I received a flyer in the mail about your storewide sale. Could you provide more information about the products that are part of that?","labels":"Promotional Inquiry"}
+{"text":"Hey, I accidentally ordered the wrong size for the shoes I got. Is there a way I can send them back for the correct one?","labels":"Return Request"}
+{"text":"What\u2019s the best way to get updates on your latest deals or promotional events? I want to stay in the loop!","labels":"Promotional Inquiry"}
+{"text":"My latest purchase arrived and it's not as described. Am I able to return this item for a refund?","labels":"Return Request"}
+{"text":"Quick question, I heard there's a special event coming up with exclusive deals. When will those be announced? I'm really interested!","labels":"Promotional Inquiry"}
+{"text":"I placed an order two weeks ago, and I still haven\u2019t received a confirmation. Could you check if everything is alright on your end?","labels":"Customer Support Issue"}
+{"text":"I'm having trouble navigating the website; it keeps crashing every time I try to add an item to my cart. Is there a known issue with the site?","labels":"Customer Support Issue"}
+{"text":"I recently bought a comforter set, but it\u2019s not what I expected. What are the steps for returning it?","labels":"Return Request"}
+{"text":"Is there a way to change my order after it\u2019s been placed? I realized that I selected the wrong size and need to correct it quickly.","labels":"Customer Support Issue"}
+{"text":"Hi there! I'm looking for a specific size of a jacket, but I can't seem to find it on your website. Do you offer options beyond what's listed?","labels":"Product Inquiry"}
+{"text":"Is there any ongoing sale for new subscribers? I want to make sure I don't miss out on any discounts before placing my first order.","labels":"Promotional Inquiry"}
+{"text":"Do you have a sample of the fabric used in these jackets? I want to ensure it has the right texture before ordering.","labels":"Product Inquiry"}
+{"text":"I\u2019m interested in finding out if there are any loyalty rewards for frequent shoppers. Could you help me with that?","labels":"Promotional Inquiry"}
+{"text":"I bought a watch a week ago and it stopped working already. Can you help me with returning it?","labels":"Return Request"}
+{"text":"Could you give me an update on my recent purchase? I was expecting it to arrive by now and I couldn't find any tracking information.","labels":"Order Status"}
+{"text":"I placed an order last week and I haven\u2019t received any updates. Can you check if it's on the way? I really need it for a party this weekend!","labels":"Order Status"}
+{"text":"Can you let me know when I can expect my recent order to be delivered? I need it for an event this weekend!","labels":"Order Status"}
+{"text":"I placed an order last Thursday, and the estimated delivery time is over. Please help me find out what happened with it.","labels":"Order Status"}
+{"text":"I received a dress, but it doesn't fit as expected. Can you help me with what to do next?","labels":"Return Request"}
+{"text":"The wireless earbuds I bought are not holding a charge. I\u2019d like to return them, but I\u2019m not sure how to start that. Any advice?","labels":"Return Request"}
+{"text":"I just received my package, but the dress has a stain on it. I would like to send it back and get a new one. How can I do that?","labels":"Return Request"}
+{"text":"Hey, I heard about this smartwatch you mentioned in your latest ad. Does it have a heart rate monitor and GPS tracking?","labels":"Product Inquiry"}
+{"text":"Hello, I heard from a friend that your store has a special promotion on electronics this weekend. Can you confirm if that's true?","labels":"Promotional Inquiry"}
+{"text":"I\u2019ve received a blender that doesn\u2019t work properly. Can you advise me on how to return it and get a new one?","labels":"Return Request"}
+{"text":"I\u2019m trying to check on my recent order. The confirmation email said it was supposed to ship by now, but I haven\u2019t heard anything.","labels":"Order Status"}
+{"text":"I ordered a set of towels and they are not the color I chose. What steps do I need to take to return them?","labels":"Return Request"}
+{"text":"Can you figure out where my order is? I really need it by the end of this week and I can\u2019t get any info on the website.","labels":"Order Status"}
+{"text":"I\u2019m checking in on my recent purchase - the last notification I had said it was shipped but I haven\u2019t gotten it yet.","labels":"Order Status"}
+{"text":"Could you tell me if my package is still on track for delivery? It was supposed to arrive today, but I haven't seen it yet.","labels":"Order Status"}
+{"text":"I just bought a pair of shoes from you last week and saw an ad for a discount on additional pairs. Is there any way I can apply that to my recent order?","labels":"Promotional Inquiry"}
+{"text":"Can you help me find out what happened to my order? It feels like it's been stuck in processing for ages, and I need it for an event soon.","labels":"Order Status"}
+{"text":"Can you please share any upcoming deals or offers for loyal customers? I'm really interested in saving some money on my next purchase.","labels":"Promotional Inquiry"}
+{"text":"Do you have any seasonal sales coming up? I want to wait for the best deals before I make my purchase.","labels":"Promotional Inquiry"}
+{"text":"Can you tell me if this blender can crush ice?","labels":"Product Inquiry"}
+{"text":"I recently heard about a seasonal sale coming up. Can you confirm if it\u2019s true, and what are the dates for it?","labels":"Promotional Inquiry"}
+{"text":"Can you let me know if this tablet is compatible with most styluses? I want to ensure that I can use my existing one with it.","labels":"Product Inquiry"}
+{"text":"I bought a blender from you guys about two weeks ago, but it's not working properly. Can I send it back for a refund or exchange?","labels":"Return Request"}
+{"text":"I've tried to reach out about returning a shirt that I ordered, but haven't gotten a reply yet. I would really appreciate some guidance on this.","labels":"Return Request"}
+{"text":"Your recent ad mentioned exclusive deals for members. What do I need to do to become a member and access those offers?","labels":"Promotional Inquiry"}
+{"text":"I received an email about a special offer but I can't seem to find it anywhere on your website. Can you let me know the details?","labels":"Promotional Inquiry"}
+{"text":"Are all the clothes made from organic cotton? I prefer to buy eco-friendly products when possible.","labels":"Product Inquiry"}
+{"text":"I accidentally ordered two of the same item and I only need one. Is there a way to return the extra?","labels":"Return Request"}
+{"text":"I saw your ad about a summer sale. Can you tell me which items are included in that? I'm particularly interested in your garden supplies.","labels":"Promotional Inquiry"}
+{"text":"Could you let me know if there will be any flash sales in the next week? I'm planning to buy some gifts!","labels":"Promotional Inquiry"}
+{"text":"This is my first time shopping with you, and I\u2019m eager to know when I can expect my items to arrive. Thanks!","labels":"Order Status"}
+{"text":"I checked my tracking link but it doesn\u2019t seem to update. Any idea when I might see my order?","labels":"Order Status"}
+{"text":"Could you give me an idea on when I might expect my items to be delivered? They were shipped a few days ago, but I haven't received anything yet.","labels":"Order Status"}
+{"text":"I think I need to send the jacket back because it has a hole in it. Can you guide me on the return process?","labels":"Return Request"}
+{"text":"Could you clarify if there are any special offers for members of your newsletter? I\u2019ve just subscribed and am eager to know.","labels":"Promotional Inquiry"}
+{"text":"I placed an order a few days ago, and I haven't received any updates yet. Can you check when it will be shipped?","labels":"Order Status"}
+{"text":"I received a confirmation email for my recent order, but I don\u2019t see any information about when it will arrive. Can you provide me with those details?","labels":"Order Status"}
+{"text":"What are the dimensions of the dining table you have listed? I want to make sure it fits in my space.","labels":"Product Inquiry"}
+{"text":"I have been following your brand on social media, and I noticed an upcoming event. Are there any special deals that will be offered during this event?","labels":"Promotional Inquiry"}
+{"text":"I need to return an item that was delivered last week, but I\u2019m unsure how to proceed. Is there a form I need to fill out or something specific I need?","labels":"Return Request"}
+{"text":"My order arrived with the wrong item, and I need help to fix this. Can you assist?","labels":"Customer Support Issue"}
+{"text":"I checked my account, but still see my order labeled as \u2018processing\u2019. Is there any way to find out when it\u2019ll be shipped?","labels":"Order Status"}
+{"text":"I want to cancel my subscription, but I can't find the option to do so. Can someone guide me through the cancellation process?","labels":"Customer Support Issue"}
+{"text":"I bought a gadget that doesn\u2019t work as described. What\u2019s the procedure for returning this product? I really need help with this!","labels":"Return Request"}
+{"text":"Can you tell me more about the features of the latest smartphone model you have? I'm particularly interested in the camera quality and battery life.","labels":"Product Inquiry"}
+{"text":"I\u2019m getting a bit anxious about my recent order. It was supposed to come yesterday, but I haven't seen any delivery notice.","labels":"Order Status"}
+{"text":"My recent purchase was defective. How do I go about returning it for a refund?","labels":"Return Request"}
+{"text":"Is it possible to return my order if I\u2019ve changed my mind? I didn\u2019t realize it was final sale until after I bought it.","labels":"Return Request"}
+{"text":"Could you check on my order for me? I think it\u2019s stuck somewhere in transit and I\u2019d like to know what the hold-up is.","labels":"Order Status"}
+{"text":"Can you tell me if you have any upcoming sales events or reward programs? I\u2019d love to take advantage of them!","labels":"Promotional Inquiry"}
+{"text":"I placed an order on your website about a week ago, and I just wanted to know if there's any tracking information available? It was supposed to arrive by now!","labels":"Order Status"}
+{"text":"Hey! I'm really interested in your new line of products. Do you have any upcoming promotions or bundles available?","labels":"Promotional Inquiry"}
+{"text":"I wanted to ask about how I can send back the items I bought last week. They were the wrong size and I can\u2019t wear them at all.","labels":"Return Request"}
+{"text":"Is there a loyalty program or any kind of rewards for frequent buyers? It would be awesome to get some perks!","labels":"Promotional Inquiry"}
+{"text":"I\u2019m disappointed with the quality of the item I purchased. It doesn\u2019t match the description at all. What should I do to get my money back?","labels":"Return Request"}
+{"text":"Does this phone have a dual-SIM feature? I need it for my travels.","labels":"Product Inquiry"}
+{"text":"I ordered a gift last week, and I'm worried it won\u2019t arrive in time for the occasion. Can someone give me an update on the shipping?","labels":"Order Status"}
+{"text":"I\u2019m curious if there are any upcoming flash sales or limited-time offers I should be aware of. Don\u2019t want to miss out!","labels":"Promotional Inquiry"}
+{"text":"Hello! I heard from a friend that there\u2019s a clearance sale this month. Can you confirm if that\u2019s accurate?","labels":"Promotional Inquiry"}
+{"text":"I want to cancel my subscription but can't find the option anywhere in my account settings. Could you tell me how to do that?","labels":"Customer Support Issue"}
+{"text":"I haven't seen any updates on my order and it's been stuck on 'processing' for days. What does that mean?","labels":"Order Status"}
+{"text":"I ordered a phone case that doesn't fit my device properly. I need to know if I can exchange it or send it back?","labels":"Return Request"}
+{"text":"Hi, I saw a banner on your website about a seasonal sale, but I can't find the details. Can you tell me more about what's included?","labels":"Promotional Inquiry"}
+{"text":"Quick question: is it normal for the tracking to not show any updates for a couple of days after shipping? I'm a bit worried here!","labels":"Order Status"}
+{"text":"I attempted to reach out through the chat, but no one was there. I need help with an issue I\u2019m having with my payment method not working at checkout.","labels":"Customer Support Issue"}
+{"text":"Hi! I wanted to check on when my last purchase will be arriving. It was marked as shipped a few days ago, but I haven't seen any updates since then.","labels":"Order Status"}
+{"text":"Could you tell me if there are any coupon codes available for first-time customers? I\u2019d love to take advantage of a deal!","labels":"Promotional Inquiry"}
+{"text":"Just realized the product I bought has a defect. What steps should I take to send it back and get a new one?","labels":"Return Request"}
+{"text":"My recent purchase hasn't been delivered yet, and the tracking information hasn't updated. This is causing a lot of inconvenience for me!","labels":"Customer Support Issue"}
+{"text":"I\u2019m planning to purchase some new shoes and heard you might have a promo code going around. Can you confirm if that's the case?","labels":"Promotional Inquiry"}
+{"text":"I received my order but it's missing parts, and I would like to return it. Could you please help me with the return process?","labels":"Return Request"}
+{"text":"I heard there\u2019s a sale coming up for outdoor gear. Can you tell me when it starts and what items will be included?","labels":"Promotional Inquiry"}
+{"text":"Hello, I want to talk about an item I received that was not what I expected. Can I get a refund and how do I do that?","labels":"Return Request"}
+{"text":"I saw a post about a flash sale on your Instagram, but I missed it. Is there any chance you will have it again soon?","labels":"Promotional Inquiry"}
+{"text":"I got my order of kitchen utensils, but one of the items was damaged during shipping. What are my options to send it back?","labels":"Return Request"}
+{"text":"Can anyone tell me if it\u2019s possible to exchange a product I bought last week? I realized it\u2019s not what I needed after opening it.","labels":"Return Request"}
+{"text":"Can someone check if the order I placed last Friday is still in transit? The wait is making me anxious and I\u2019d like to know the expected delivery date.","labels":"Order Status"}
+{"text":"I wasn't satisfied with the quality of the mattress I ordered. Is it possible to send it back for a refund?","labels":"Return Request"}
+{"text":"I'm considering buying a blender but I'm not sure if it has enough power for making smoothies. Can you provide more details about its motor specs?","labels":"Product Inquiry"}
+{"text":"Last week I ordered some kitchenware, but one of the items is missing. Can you guide me on how to return this incomplete order?","labels":"Return Request"}
+{"text":"My recent order came with a missing item, and it's really frustrating. I need guidance on how to address this issue.","labels":"Customer Support Issue"}
+{"text":"Hey, I've been hearing about a rewards program? How does it work and are there any current promotions I can take advantage of?","labels":"Promotional Inquiry"}
+{"text":"What's the best way to stay updated on your upcoming sales or events? I wouldn\u2019t want to miss a good deal!","labels":"Promotional Inquiry"}
+{"text":"I saw a blender on your site, but I can't find the capacity listed. Can you help me understand how many liters it can hold?","labels":"Product Inquiry"}
+{"text":"Can someone guide me through the steps to send back a dress that I just don't like? The color is different from what I expected.","labels":"Return Request"}
+{"text":"The item I received is damaged, and I would like to know how to proceed with getting a new one. It's really frustrating!","labels":"Customer Support Issue"}
+{"text":"I\u2019m interested in learning about any upcoming promos for new customers. Do you have a first-time purchase discount?","labels":"Promotional Inquiry"}
+{"text":"Is the warranty for the laptop I saw on sale limited to just a year, or does it cover more?","labels":"Product Inquiry"}
+{"text":"Can someone please provide me with the expected delivery date for my recent purchase? It's been a few days since I ordered.","labels":"Order Status"}
+{"text":"Could you please check the shipping details for my recent purchase? I\u2019m anxious to know when it will arrive!","labels":"Order Status"}
+{"text":"My last purchase arrived damaged, and I need to know how to go about getting a replacement. Can anyone assist me with this?","labels":"Customer Support Issue"}
+{"text":"I\u2019m curious if you\u2019ll be running any special discounts for Black Friday or Cyber Monday this year. I plan to do my shopping then and wouldn\u2019t want to miss out.","labels":"Promotional Inquiry"}
+{"text":"What is the best way to find out about future promotions? Is there a newsletter or something I should sign up for?","labels":"Promotional Inquiry"}
+{"text":"Can you tell me if this item is available in other colors besides black?","labels":"Product Inquiry"}
+{"text":"Can you provide information on any ongoing promotions for back-to-school shopping? I need to prepare supplies for my kids.","labels":"Promotional Inquiry"}
+{"text":"I received an email about a flash sale. Can you confirm what products are included and how long it lasts?","labels":"Promotional Inquiry"}
+{"text":"I was charged incorrectly for my latest purchase, and I need clarification on this. Who can I talk to about rectifying this?","labels":"Customer Support Issue"}
+{"text":"The quality of the product I received does not match the description. I would like to know how to proceed with this situation.","labels":"Customer Support Issue"}
+{"text":"Hi, I\u2019m trying to find out if my latest purchase will arrive in time for my birthday next week. Any updates on its delivery?","labels":"Order Status"}
+{"text":"I\u2019m facing issues getting the app to load correctly, and it\u2019s been really frustrating as I want to check my orders. Any help would be appreciated.","labels":"Customer Support Issue"}
+{"text":"Can you provide more information about the performance of the new laptop model, especially regarding its gaming capabilities and graphics card?","labels":"Product Inquiry"}
+{"text":"I received an email about a recent purchase, but I don\u2019t recall making that order. What should I do?","labels":"Customer Support Issue"}
+{"text":"I ordered a set of towels, but they were the wrong color. Can you tell me if I can send them back?","labels":"Return Request"}
+{"text":"There seems to be a delay with my order, and I\u2019m getting concerned. Can you please confirm the shipping date for me? I really need it soon.","labels":"Order Status"}
+{"text":"I'm having trouble navigating the return process for a product I bought last week. The instructions aren't clear, and I need guidance.","labels":"Customer Support Issue"}
+{"text":"What types of deals are you running for the holiday season? I'm really looking to save on gifts!","labels":"Promotional Inquiry"}
+{"text":"I was charged twice for my order and I really need assistance to get this sorted out quickly. This is so inconvenient!","labels":"Customer Support Issue"}
+{"text":"Hi, I placed an order a week ago, and I haven't received any updates about shipping. Can you please let me know what's going on?","labels":"Order Status"}
+{"text":"I made an order for a watch, but it was broken upon arrival. What do I need to do to get it returned?","labels":"Return Request"}
+{"text":"I ordered a dress, but it doesn't fit right. What are the steps to return it?","labels":"Return Request"}
+{"text":"I saw an advertisement for a buy-one-get-one-free deal on your website last week. Can you confirm if that offer is still valid?","labels":"Promotional Inquiry"}
+{"text":"There\u2019s an issue with the item I received. It\u2019s not what I ordered, and I need guidance on returning it for the correct one.","labels":"Return Request"}
+{"text":"Is there a way to obtain detailed information regarding the ingredients used in your skincare products?","labels":"Product Inquiry"}
+{"text":"My payment went through, but I never got a confirmation email about my order. Is everything okay?","labels":"Customer Support Issue"}
+{"text":"I know I purchased the item, but I can't find where it is right now. Can you check if it has left the warehouse yet?","labels":"Order Status"}
+{"text":"I have been trying to get in touch about an issue with my previous order, and there seems to be no clear way to resolve it. Can someone help?","labels":"Customer Support Issue"}
+{"text":"I bought a phone case that doesn\u2019t fit my device at all. I want to return it. Can you please explain the return process for me?","labels":"Return Request"}
+{"text":"I saw a post on social media about a special offer for first-time buyers. Can you confirm if that still applies?","labels":"Promotional Inquiry"}
+{"text":"I\u2019m looking for deals on kitchen appliances. Do you have any promotions running that I should know about?","labels":"Promotional Inquiry"}
+{"text":"I need help with a product that stopped working just a week after I received it. Is there a warranty or something I can do?","labels":"Customer Support Issue"}
+{"text":"I saw a blender on your website, but I couldn't find much about its warranty period. Can you help me with that?","labels":"Product Inquiry"}
+{"text":"I recently discovered that the item I purchased is defective and I need to know if I can exchange it for another one.","labels":"Customer Support Issue"}
+{"text":"I saw a post on social media about a flash sale, but I can\u2019t find the details. Can you help me with that?","labels":"Promotional Inquiry"}
+{"text":"I received a flyer in the mail offering 20% off on my next purchase, but it doesn't specify if it's valid for online orders. I'd love to know more!","labels":"Promotional Inquiry"}
+{"text":"I saw your ad about the holiday sale. Are there any specific products that are included in the promotion?","labels":"Promotional Inquiry"}
+{"text":"What are the dimensions of the dining table in the listing? I need it to fit in my small apartment.","labels":"Product Inquiry"}
+{"text":"Can you tell me if this shirt comes in other colors and sizes?","labels":"Product Inquiry"}
+{"text":"I recently came across a new gaming console on your site, but I\u2019m not sure if it includes any bundled games. Can you clarify?","labels":"Product Inquiry"}
+{"text":"Hey there! I found a code for 20% off but it didn't work during checkout. Is that deal still active?","labels":"Promotional Inquiry"}
+{"text":"The coffee maker I bought stopped working after a week. Can I return it, and how?","labels":"Return Request"}
+{"text":"Are there any ongoing promotional events or contests that allow customers to win vouchers or discounts?","labels":"Promotional Inquiry"}
+{"text":"I was browsing your website and I saw that you have a sale on winter jackets. What materials are they made of?","labels":"Product Inquiry"}
+{"text":"Hi, I ordered the wrong size for the shoes and need to exchange them. What\u2019s the process for that?","labels":"Return Request"}
+{"text":"I made a purchase last week, and the item just doesn\u2019t fit right. Can I send it back for an exchange?","labels":"Return Request"}
+{"text":"I placed an order, but now I'm seeing a different price on your website. I need clarification on this discrepancy. Thank you!","labels":"Customer Support Issue"}
+{"text":"I made a purchase last week and I haven\u2019t heard anything since. I need to plan my schedule around its arrival. Can you give me any information?","labels":"Order Status"}
+{"text":"My order arrived today and there's a scratch on the surface of the vase I purchased. Is there any way to return it for a refund?","labels":"Return Request"}
+{"text":"Hey there, I\u2019m wondering if my order has shipped yet. The last I checked, it was still processing, and I\u2019m eager to get my hands on it!","labels":"Order Status"}
+{"text":"Can you please tell me how to handle a return for a batch of items I got in my last order? Some are just not what I wanted.","labels":"Return Request"}
+{"text":"Could you provide details on the material used in the summer dress? I have sensitive skin and need to ensure it's suitable for me.","labels":"Product Inquiry"}
+{"text":"Hello, I am curious about my recent order. Is there a way to check if it's been shipped or if there are any delays?","labels":"Order Status"}
+{"text":"I was charged twice for the same order and I don\u2019t know how to resolve it. Can you guide me through the process to get one refunded?","labels":"Customer Support Issue"}
+{"text":"Hi, I received my order today, but the item is damaged. What should I do now?","labels":"Customer Support Issue"}
+{"text":"Are there any upcoming sales or special offers for the products I might be interested in?","labels":"Promotional Inquiry"}
+{"text":"I attempted to return an item, but I'm confused about the process and the time frame involved. Can you please clarify?","labels":"Customer Support Issue"}
+{"text":"I made an order a few days ago and I thought I would have it by now. Are there any tracking details available for my package?","labels":"Order Status"}
+{"text":"I recently made a purchase and received a confirmation email, but there hasn't been any follow-up regarding dispatch. Can you help me figure out what's going on?","labels":"Order Status"}
+{"text":"Hi, I received a notification about my order but it doesn't specify when I can expect it to arrive. Any idea?","labels":"Order Status"}
+{"text":"The pants I ordered fit terribly and I want to know if I can exchange them for a different size or style. What's the return process like?","labels":"Return Request"}
+{"text":"Hi! I was browsing your website and noticed a few items that are on sale. Are there any additional discounts available at the moment?","labels":"Promotional Inquiry"}
+{"text":"The dress I bought arrived, but it looks different than it did online. I want to know how to return it for an exchange or refund.","labels":"Return Request"}
+{"text":"I opened the package and the item was not what I ordered. How can I send it back? I really wanted the original product I requested.","labels":"Return Request"}
+{"text":"My recent order hasn\u2019t arrived yet, and it\u2019s been over two weeks. Can you check the status for me?","labels":"Customer Support Issue"}
+{"text":"Hey! I'm interested in your electronics section. Are there any special promotions or new arrivals I should know about?","labels":"Promotional Inquiry"}
+{"text":"I just opened my order and one of the items is defective. Can you help with the return process?","labels":"Return Request"}
+{"text":"My order came with a defect. Can someone guide me through returning this faulty product?","labels":"Return Request"}
+{"text":"I changed my mind about the headphones I bought. Is it possible to send them back without the original box?","labels":"Return Request"}
+{"text":"I received a wrong item instead of what I ordered. I would like to know how to get this corrected, can I send it back?","labels":"Return Request"}
+{"text":"I ordered a phone case, but it isn't what I thought it would be based on the pictures. What should I do to return it?","labels":"Return Request"}
+{"text":"Do you have any information on when the new models of that blender will be released? I'm really looking forward to the upgrades!","labels":"Product Inquiry"}
+{"text":"Do you have any information on the latest features of the smartphones currently in stock?","labels":"Product Inquiry"}
+{"text":"I have been checking my order status and the site isn\u2019t showing anything new. Can you tell me if it\u2019s been shipped?","labels":"Order Status"}
+{"text":"Is there any way you could provide details on the expected delivery for my last order? I need to make sure I\u2019m home to receive it.","labels":"Order Status"}
+{"text":"I placed an order over a week ago and I haven't received any shipping confirmation. Can you check on that for me?","labels":"Order Status"}
+{"text":"I was charged incorrectly for my last order and need assistance in resolving this issue quickly. What's the next step?","labels":"Customer Support Issue"}
+{"text":"I got my order yesterday, but it was not what I expected. Is it possible to return it for a full refund?","labels":"Return Request"}
+{"text":"Is there a process for returning items if they don't meet my expectations? I want to make sure I\u2019m following the right steps.","labels":"Return Request"}
+{"text":"The website keeps crashing when I try to check out. Is there something wrong with your system?","labels":"Customer Support Issue"}
+{"text":"I was promised a refund for a product I sent back, but it hasn't reflected in my account yet. What\u2019s going on?","labels":"Customer Support Issue"}
+{"text":"Hello, my order was supposed to arrive last week. I don\u2019t have any updates and it\u2019s quite concerning. Could you please provide me with more information?","labels":"Customer Support Issue"}
+{"text":"I received a damaged product and would like to know how to get a replacement. Please guide me through the process.","labels":"Customer Support Issue"}
+{"text":"I accidentally ordered the wrong item. Is there a way to return it and get the correct one?","labels":"Return Request"}
+{"text":"I accidentally ordered the wrong item and would like to rectify that. Is there a way to send it back even though I opened it?","labels":"Return Request"}
+{"text":"Hey, I have a problem with an item I bought a few days ago. It's not what I thought it would be, and I\u2019m considering sending it back. Please advise!","labels":"Return Request"}
+{"text":"I\u2019ve got a question regarding my bill; it looks higher than expected. I\u2019d appreciate it if someone could break it down for me.","labels":"Customer Support Issue"}
+{"text":"I bought a pair of shoes, and they're not the color I expected. I want to return them, but I'm not sure what to do next.","labels":"Return Request"}
+{"text":"I was charged twice for my last order and I'm really confused about what happened. Please let me know how to fix this.","labels":"Customer Support Issue"}
+{"text":"The dress I ordered wasn\u2019t the right color. I\u2019d like to send it back. What steps do I need to take?","labels":"Return Request"}
+{"text":"I saw a jacket on your website that's perfect for the winter season. What sizes do you have available right now?","labels":"Product Inquiry"}
+{"text":"The item I purchased arrived damaged and I need assistance with a return or exchange. Can you guide me through the process?","labels":"Customer Support Issue"}
+{"text":"I saw on social media that there\u2019s a flash sale coming soon. Would you confirm what products will be included and how long it will last?","labels":"Promotional Inquiry"}
+{"text":"I'm getting a bit anxious as I need the items I ordered for an event this weekend. Could you give me an update on what's happening?","labels":"Order Status"}
+{"text":"Hello, I checked my account and it looks like my order is still processing. Can you help me understand why it\u2019s taking so long?","labels":"Order Status"}
+{"text":"I\u2019m checking in regarding my recent purchase. It was supposed to arrive yesterday but I\u2019m not sure what happened. Any updates?","labels":"Order Status"}
+{"text":"Hey, I saw your website has this new type of blender. What are its key features compared to the last version?","labels":"Product Inquiry"}
+{"text":"I received a notification that my order was shipped, but the tracking link isn\u2019t working. Can you assist with this?","labels":"Order Status"}
+{"text":"Hey, I\u2019m really worried because my shipment hasn\u2019t moved from the processing stage. Could you provide some clarity on that?","labels":"Order Status"}
+{"text":"Hi! I love your products and wanted to know if you have any discount codes available right now for first-time shoppers?","labels":"Promotional Inquiry"}
+{"text":"I received an email about a flash sale on home appliances. Can you provide details on what products are on sale?","labels":"Promotional Inquiry"}
+{"text":"I\u2019m not satisfied with the quality of the dress I ordered, and I\u2019d like to explore my options for returning it. Do I need to fill out any forms?","labels":"Return Request"}
+{"text":"I received an email saying my shipment was delayed. Can you tell me what's going on with my delivery?","labels":"Order Status"}
+{"text":"I tried contacting support via the chat but didn't get any assistance. My package was marked as delivered, but it never arrived at my address. What's going on?","labels":"Customer Support Issue"}
+{"text":"Can someone help me? My order was marked as delivered but I haven\u2019t received anything yet! This is really frustrating.","labels":"Customer Support Issue"}
+{"text":"I can't find a way to contact someone about my subscription issue. It feels like there\u2019s no support available!","labels":"Customer Support Issue"}
+{"text":"There\u2019s a charge on my credit card that I don\u2019t recognize from your website, could you provide more details about it?","labels":"Customer Support Issue"}
+{"text":"I received a notification that my order has been shipped, but there are no tracking details provided. Can you help me figure this out?","labels":"Order Status"}
+{"text":"I'm interested in the features of the latest wireless earbuds. Are they noise-canceling?","labels":"Product Inquiry"}
+{"text":"Do you have any specials or discounts for new customers that I can take advantage of?","labels":"Promotional Inquiry"}
+{"text":"I noticed some promotional banners on your site but I can't find the details. Can you help me understand what deals are available right now?","labels":"Promotional Inquiry"}
+{"text":"I've been trying to get in touch regarding an error with my billing information, but I haven't received a response yet. Can someone look into this for me?","labels":"Customer Support Issue"}
+{"text":"Hello, I was wondering if you can assist me with the delay in receiving my order. It's crucial that I know when to expect it, as it's a key item for me. Thanks!","labels":"Order Status"}
+{"text":"Could you provide me with information on my recent purchase? I\u2019m anxious to know when it will be delivered.","labels":"Order Status"}
+{"text":"I need to return a blender that doesn't blend properly. It's frustrating and I want to make sure I get my money back. What do I need to do?","labels":"Return Request"}
+{"text":"Can you let me know if you have any upcoming deals or promotions for new customers? I\u2019m really interested in making a purchase soon!","labels":"Promotional Inquiry"}
+{"text":"I just opened my order and the mug I bought has a crack. Can someone tell me how to handle this?","labels":"Return Request"}
+{"text":"I tried to initiate a return, but the website isn't letting me process it. Can someone help me resolve this issue?","labels":"Customer Support Issue"}
+{"text":"Can you tell me more about the warranty on your laptops?","labels":"Product Inquiry"}
+{"text":"Unfortunately, the shoes I bought do not fit well. What are the steps to send them back for a refund?","labels":"Return Request"}
+{"text":"I saw a post about a sale on fitness equipment but I can't find any details on your site. Can you help with that?","labels":"Promotional Inquiry"}
+{"text":"Do you have any current deals or discounts on electronics? I\u2019m especially interested in laptops and tablets!","labels":"Promotional Inquiry"}
+{"text":"I can't seem to access my account even after resetting my password. What should I do?","labels":"Customer Support Issue"}
+{"text":"I\u2019m not satisfied with my purchase and would like to hear about returning it. The item is still in its original packaging.","labels":"Return Request"}
+{"text":"Do you offer seasonal promotions? I\u2019d love to know if there are any deals for the holidays coming up!","labels":"Promotional Inquiry"}
+{"text":"Can someone explain the difference between the two models of the drone you have for sale? I am torn between choosing one!","labels":"Product Inquiry"}
+{"text":"My order was supposed to arrive yesterday, but I still haven't seen any delivery. What steps should I take?","labels":"Customer Support Issue"}
+{"text":"My return request from last week hasn't been processed yet. Can someone tell me what the hold-up is?","labels":"Customer Support Issue"}
+{"text":"My product arrived damaged, and I need to know what steps I should take to resolve this issue. Is there a number I can call?","labels":"Customer Support Issue"}
+{"text":"Can you tell me more about the warranty details for the new smartphone model?","labels":"Product Inquiry"}
+{"text":"I ordered a pair of shoes in size 10, but I received size 8 instead. What can be done to resolve this? This is really frustrating.","labels":"Customer Support Issue"}
+{"text":"Can you tell me if it's possible to return an unwanted gift that I received? I want to get store credit instead.","labels":"Return Request"}
+{"text":"Could you assist me with a product I bought that I want to send back? It just doesn't fit right and I\u2019d like to know the steps for this process.","labels":"Return Request"}
+{"text":"Hey, I ordered a hoverboard and the delivery date has passed, but I still haven't received it. Can you give me an update?","labels":"Order Status"}
+{"text":"The sweater I bought doesn\u2019t match the color shown on the website. What do I need to do to get a refund for it?","labels":"Return Request"}
+{"text":"I noticed that the wireless headphones come in different colors. Do they all have the same features and battery life?","labels":"Product Inquiry"}
+{"text":"Are there any promotional events happening this month? I\u2019m looking to buy some gifts and would love to take advantage of any deals!","labels":"Promotional Inquiry"}
+{"text":"I'm facing issues with the app crashing every time I try to make a purchase. Is there a known issue or a fix available?","labels":"Customer Support Issue"}
+{"text":"Hey, I received a notification that my package was shipped, but I haven't gotten any tracking info. Can I get some help with this?","labels":"Order Status"}
+{"text":"The laptop I ordered has some defects, and I\u2019d like to know how to return it for a replacement. Any guidance would be much appreciated!","labels":"Return Request"}
+{"text":"I clicked on a link from an email promotion, but it leads to a broken page. Is that something you can fix?","labels":"Customer Support Issue"}
+{"text":"My recent purchase was supposed to arrive yesterday, but I haven't seen it yet. Can someone give me a hand tracking it down?","labels":"Customer Support Issue"}
+{"text":"I got my package today and the item isn't what I thought it would be. How do I proceed to send it back?","labels":"Return Request"}
+{"text":"Do you have any upcoming sales or discounts on electronics? I'm really interested in getting a new laptop but would love to wait for a promotion.","labels":"Promotional Inquiry"}
+{"text":"Hello! I opened the box and found that the item was damaged during shipping. Can you tell me how I can return it for a new one?","labels":"Return Request"}
+{"text":"I just opened my package and found that the blender is damaged. Could you guide me on how to exchange it?","labels":"Return Request"}
+{"text":"I received a confirmation email last week, but I still haven\u2019t received my goods. Any updates would be appreciated!","labels":"Order Status"}
+{"text":"I placed an order last week, and I haven't received any tracking information. Can someone help me figure out when it might be delivered?","labels":"Order Status"}
+{"text":"I have a subscription, but I didn\u2019t receive my latest product this month. Could you check what happened?","labels":"Customer Support Issue"}
+{"text":"I'm curious if the watch I saw is water-resistant and what the battery life is like. Can you help with that?","labels":"Product Inquiry"}
+{"text":"I came across a review mentioning the new gaming console's cooling system, can you provide more insights on that aspect?","labels":"Product Inquiry"}
+{"text":"I accidentally ordered the wrong size of the dress and I need to know how to get a replacement. Thanks!","labels":"Return Request"}
+{"text":"I\u2019ve been trying to reset my password for two days now, and it just doesn\u2019t seem to work. What\u2019s going on?","labels":"Customer Support Issue"}
+{"text":"Could you provide me with the dimensions of this furniture item? I need to ensure it fits in my space before purchasing.","labels":"Product Inquiry"}
+{"text":"Hi there, can you please guide me on how to send back an item I bought? It's not the right color, and I'm really interested in getting a refund. Thanks!","labels":"Return Request"}
+{"text":"Hey, I was wondering if my package is on its way yet. I thought it would arrive by now but nothing has come.","labels":"Order Status"}
+{"text":"I bought a pair of shoes that were marked as 'water-resistant', but they leaked during the rain. I\u2019d like to return them, please.","labels":"Return Request"}
+{"text":"Can you tell me if there are any buy one get one free deals available this month? I\u2019m planning to stock up!","labels":"Promotional Inquiry"}
+{"text":"I've been trying to contact support regarding a recurring billing issue, but I'm not getting any responses. This is very frustrating!","labels":"Customer Support Issue"}
+{"text":"Do you have any information about the warranty on your gaming laptops? I want to know what is covered before making a purchase.","labels":"Product Inquiry"}
+{"text":"Just curious if my recent purchase is still scheduled to arrive on the date mentioned? I could use some confirmation.","labels":"Order Status"}
+{"text":"Can you provide the dimensions and weight of the fitness tracker? I need to ensure it fits comfortably on a smaller wrist.","labels":"Product Inquiry"}
+{"text":"I tried to log into my account, but it says my password is incorrect even though I know I entered it right. Can you help me recover my account?","labels":"Customer Support Issue"}
+{"text":"I received a confirmation email, but I haven\u2019t seen any updates about when my stuff will get here. Can you help?","labels":"Order Status"}
+{"text":"Just wanted to follow up on the status of my order placed on Monday. Is there any way to expedite the shipping?","labels":"Order Status"}
+{"text":"Hi, I just wanted to check if there\u2019s a way to accelerate the processing of my refund? I really need the money back as soon as possible.","labels":"Customer Support Issue"}
+{"text":"I have a question about your return policy. If I want to return an item, do I need to pay for shipping?","labels":"Customer Support Issue"}
+{"text":"I\u2019m interested in the clearance items section. Are those items eligible for any additional discounts this month?","labels":"Promotional Inquiry"}
+{"text":"I\u2019m wondering about the arrival time of my recent purchase. It should\u2019ve been here by now. Could you look into it?","labels":"Order Status"}
+{"text":"My order was supposed to arrive today, but I haven\u2019t seen a delivery yet. I\u2019d love to know if there has been a delay or if it\u2019s still on track.","labels":"Order Status"}
+{"text":"I opened the package and the shoes I got are the wrong size. Can I get instructions on how to return them? I ordered 8 but got a 10 instead!","labels":"Return Request"}
+{"text":"Hey, I saw a post on your website about discounts for new customers. Can you tell me more about it?","labels":"Promotional Inquiry"}
+{"text":"There\u2019s a problem with the product I bought; it stopped working after just a few days. How can I get it repaired or replaced?","labels":"Customer Support Issue"}
+{"text":"I got a notification that my item was shipped, but it hasn't arrived yet. How can I track it better?","labels":"Customer Support Issue"}
+{"text":"Do you have any alternative options for this smartphone? I\u2019ve seen some conflicting information about battery performance on other websites.","labels":"Product Inquiry"}
+{"text":"The payment I made is not showing up in my account. Could you please check on that for me? It\u2019s really concerning.","labels":"Customer Support Issue"}
+{"text":"Can you tell me where my package is right now? I was expecting it yesterday and I haven't received any updates.","labels":"Order Status"}
+{"text":"Can you tell me if the wireless headphones are compatible with iOS devices? I want to make sure before I buy them.","labels":"Product Inquiry"}
+{"text":"Hi! I want to know the dimensions of the coffee table listed on your site. Also, does it come assembled or do I need to put it together by myself?","labels":"Product Inquiry"}
+{"text":"Hi, I placed an order last week and I haven\u2019t received any updates about it. Can you tell me when I should expect it to arrive?","labels":"Order Status"}
+{"text":"Is there a way to return this item I purchased from your site? It's not what I thought it'd be when I ordered it.","labels":"Return Request"}
+{"text":"There's an issue with the discount code I tried to apply during checkout, it didn\u2019t work but I saw it was valid. Can I get some help with that?","labels":"Customer Support Issue"}
+{"text":"I\u2019m really anxious about when my items will get here. Can someone please give me an update on the delivery schedule?","labels":"Order Status"}
+{"text":"Hey, does this jacket come in any other colors besides black or gray?","labels":"Product Inquiry"}
+{"text":"My last order seems to be lost. I was hoping you could check on that for me and let me know what\u2019s going on.","labels":"Order Status"}
+{"text":"Hi, I wanted to ask how I can go about sending back the shoes I ordered because they don't fit.","labels":"Return Request"}
+{"text":"Are there any color options available for the kitchen blender? I prefer a specific color to match my decor.","labels":"Product Inquiry"}
+{"text":"I heard there might be a sale this weekend. Can you confirm if that's true? I\u2019m really looking to save on my next purchase!","labels":"Promotional Inquiry"}
+{"text":"Do you have any information on the warranty details for the electronics you sell? I\u2019m particularly interested in the latest smartphone model.","labels":"Product Inquiry"}
+{"text":"I've been trying to find out what to do with a clothing item I bought that I simply don\u2019t like anymore. Can you help me with the return process?","labels":"Return Request"}
+{"text":"Are the running shoes true to size? I've heard they may run a bit small. Wanna get the right fit!","labels":"Product Inquiry"}
+{"text":"I saw a backpack on your website, but I couldn't find any details about its dimensions and the materials used. Could you provide that info?","labels":"Product Inquiry"}
+{"text":"I saw your advertisement about the new summer collection. Are there any special promotions if I order today?","labels":"Promotional Inquiry"}
+{"text":"I tried to contact you yesterday about a problem with my delivery, but I haven\u2019t heard back. Can someone update me on this?","labels":"Customer Support Issue"}
+{"text":"I saw a watch that had a sapphire crystal; can you tell me if that's scratch-resistant? I'm trying to decide if it's worth the investment.","labels":"Product Inquiry"}
+{"text":"I need to change the shipping address for my order, but I can't find a way to do that before it ships. What should I do?","labels":"Customer Support Issue"}
+{"text":"I recently returned an item, but the tracking shows it hasn't been processed yet. Can you please check on this?","labels":"Customer Support Issue"}
+{"text":"Do you have any dimensions for the desk I'm considering? I need to make sure it fits in my home office space properly.","labels":"Product Inquiry"}
+{"text":"I can't seem to log into my account, and it's really frustrating me! Is there a way to reset my password or get help with this?","labels":"Customer Support Issue"}
+{"text":"The tracking information for my shipment hasn\u2019t updated in over a week. Can someone look into this for me?","labels":"Customer Support Issue"}
+{"text":"I would like to know when my package will arrive. It's been a bit longer than expected, and I need to plan accordingly.","labels":"Order Status"}
+{"text":"I just wanted to follow up on the delivery of my recent purchase. It's been a while and I haven't heard anything from you.","labels":"Order Status"}
+{"text":"Hello, I was wondering if there have been any updates on my shipment for the shoes I bought. It's been a while!","labels":"Order Status"}
+{"text":"Are there any upcoming promotions for bulk orders? I'm interested in buying several items at once and want to know if I can save some money.","labels":"Promotional Inquiry"}
+{"text":"I was expecting my delivery yesterday but it didn\u2019t come and I wanted to know what happened.","labels":"Order Status"}
+{"text":"I have a question regarding the warranty on my recent purchase. Is it true that I need to register it online?","labels":"Customer Support Issue"}
+{"text":"I was wondering if there is a specific time frame for returning items after purchase, and how I can initiate that process.","labels":"Return Request"}
+{"text":"I found a rip in the dress I ordered and I\u2019m really disappointed. How do I initiate the return process for a faulty item?","labels":"Return Request"}
+{"text":"I recently saw your ads about a discount on electronics, but I can't find the details on your website. Can you share them?","labels":"Promotional Inquiry"}
+{"text":"I received a flyer in the mail about a special deal for first-time buyers. Can you tell me more about it?","labels":"Promotional Inquiry"}
+{"text":"I\u2019m really interested in the details of that new backpack you have on your site. What colors does it come in?","labels":"Product Inquiry"}
+{"text":"Could you clarify what materials are used in these winter jackets? I\u2019m looking for something that\u2019s both warm and breathable.","labels":"Product Inquiry"}
+{"text":"What is the maximum weight capacity for the folding table? Also, is it suitable for outdoor use?","labels":"Product Inquiry"}
+{"text":"I opened the package and found that the item was defective. Can I send it back? How long will it take?","labels":"Return Request"}
+{"text":"I saw a vacuum cleaner on your website and was wondering if it comes with additional attachments or if they are sold separately?","labels":"Product Inquiry"}
+{"text":"I'm really frustrated because my last order arrived damaged. What steps should I follow to get this resolved?","labels":"Customer Support Issue"}
+{"text":"I just saw an email about a clearance sale. Can you give me more details about what\u2019s included?","labels":"Promotional Inquiry"}
+{"text":"I just received a newsletter, but I'm confused about the promotion mentioned for your skincare line. Can you clarify?","labels":"Promotional Inquiry"}
+{"text":"Hello, I\u2019m checking in on my recent purchase of kitchen appliances. I was told they would ship last Friday but I haven't received an update.","labels":"Order Status"}
+{"text":"The shoes I bought are too small and I can\u2019t wear them. What\u2019s the best way to go about returning them for a different size?","labels":"Return Request"}
+{"text":"I just got my product but it's not functioning as advertised. Can you let me know the steps to return it?","labels":"Return Request"}
+{"text":"I was promised a discount for my next purchase, but the code isn\u2019t working. Can someone look into this for me?","labels":"Customer Support Issue"}
+{"text":"I just wanted to check on the delivery timeline for my latest purchase, it's been a while since I placed the order.","labels":"Order Status"}
+{"text":"I noticed there are some discounts on your website. Are those applicable to all items, including clearance items?","labels":"Product Inquiry"}
+{"text":"Is there a way to track my shipment? I\u2019m not sure if it\u2019s been dispatched yet and I need it soon!","labels":"Order Status"}
+{"text":"Hello, I tried using a discount code at checkout, but it wasn't applied. Could you help me understand why?","labels":"Customer Support Issue"}
+{"text":"I was expecting my new headphones today, but there's been no sign of them. Can you tell me what's happening?","labels":"Order Status"}
+{"text":"I really love the perfume bottle design. Do you sell refills or just the original bottle?","labels":"Product Inquiry"}
+{"text":"Please help! The headphones I got don\u2019t match the description on your website. I\u2019d like to return them and get a refund; what do I need to do?","labels":"Return Request"}
+{"text":"What colors are available for this model of the coffee maker? I\u2019d like to match it with my kitchen decor.","labels":"Product Inquiry"}
+{"text":"What are the eligibility criteria for your next promotional giveaway? I'm really interested in participating!","labels":"Promotional Inquiry"}
+{"text":"There\u2019s a discrepancy in my billing statement; I was charged twice for the same item. How can this be resolved?","labels":"Customer Support Issue"}
+{"text":"Could someone please update me on my order? I\u2019m starting to worry because I need the items before the weekend.","labels":"Order Status"}
+{"text":"I understand the policy, but my jacket came damaged. How can I initiate a return for this?","labels":"Return Request"}
+{"text":"I noticed your store had a clearance section, but I'm curious if you have any additional discounts on top of the listed prices?","labels":"Promotional Inquiry"}
+{"text":"I opened my package, and a couple of items were damaged. Is it possible to return them for a replacement or refund?","labels":"Return Request"}
+{"text":"Can I get more information about the fabric of your summer dresses? I've got sensitive skin.","labels":"Product Inquiry"}
+{"text":"I recently received an email about a loyalty program. How does it work? Do I get points for every purchase, and can I use them for discounts later?","labels":"Promotional Inquiry"}
+{"text":"What is the maximum weight capacity for the new gaming chair? I need something sturdy for long hours of use.","labels":"Product Inquiry"}
+{"text":"Hey, I\u2019m checking in regarding my last purchase. It was supposed to reach me last week, but I haven't seen it yet. Any updates?","labels":"Order Status"}
+{"text":"The shoes I got have a defect and I\u2019m not satisfied. Is there a way to exchange them?","labels":"Return Request"}
+{"text":"I was wondering if the wireless headphones you offer are compatible with all smartphones or just certain brands?","labels":"Product Inquiry"}
+{"text":"I need to change the shipping address for my order, but I can\u2019t find a way to do it on the website. Can someone guide me?","labels":"Customer Support Issue"}
+{"text":"I attempted to initiate a return, but the website isn't allowing me to print the label. Can someone help me with this?","labels":"Customer Support Issue"}
+{"text":"Do you have any details on the new running shoes? I'm particularly looking for the weight and support levels they provide.","labels":"Product Inquiry"}
+{"text":"I noticed your website is advertising a coupon for new subscribers. Is that still valid and how can I use it?","labels":"Promotional Inquiry"}
+{"text":"I keep getting error messages while trying to update my shipping address. It's really important that I get this fixed before my next order.","labels":"Customer Support Issue"}
+{"text":"I just received my order, but I noticed that the item is damaged. Can you help me with this issue?","labels":"Customer Support Issue"}
+{"text":"I\u2019ve been trying to reach customer service for hours, but no one has answered. This is quite frustrating!","labels":"Customer Support Issue"}
+{"text":"I got my package and found out that the jacket I ordered is not what I expected. Can I get instructions on sending it back?","labels":"Return Request"}
+{"text":"Can you tell me more about the features of the new smartwatch? I'm particularly interested in battery life and compatibility with other devices.","labels":"Product Inquiry"}
+{"text":"I was looking at a sofa set online, but I can't find the measurement details anywhere. How can I get that information?","labels":"Product Inquiry"}
+{"text":"I just opened the package, and the product is completely different from what I ordered. What do I do now?","labels":"Return Request"}
+{"text":"I\u2019m not happy with the quality of the backpack I purchased. It didn\u2019t meet my expectations. How can I return it?","labels":"Return Request"}
+{"text":"The item I received is not what I ordered. Is there a way to send it back and get a refund?","labels":"Return Request"}
+{"text":"It's been 10 days since I ordered my shoes, and I still haven\u2019t heard anything. What\u2019s going on with that?","labels":"Order Status"}
+{"text":"The jacket I received is not the right size and I need to arrange for it to be sent back to you. Can you provide the process for that?","labels":"Return Request"}
+{"text":"I filled out the return form correctly, but I haven't received any updates. Can you provide me with the status of my return request?","labels":"Customer Support Issue"}
+{"text":"Hello, I\u2019m just following up on my recent transaction. It\u2019s showing as pending, and I\u2019m a bit anxious about receiving my items soon.","labels":"Order Status"}
+{"text":"I noticed that there are several colors for the new smartwatch. Could you let me know how different they are and if there's any exclusive finish available?","labels":"Product Inquiry"}
+{"text":"I need to know if the blender can crush ice and how many speeds it has. Thanks!","labels":"Product Inquiry"}
+{"text":"Hey, I ordered a laptop but my tracking link isn\u2019t working. Is there a way to find out if it has shipped yet?","labels":"Order Status"}
+{"text":"Do you have any information on the compatibility of the tablet with various accessories? I\u2019m looking to purchase a keyboard for it as well.","labels":"Product Inquiry"}
+{"text":"I just received my order, but one item is missing and the other one is not what I wanted. What can I do?","labels":"Return Request"}
+{"text":"Hi, I would like to know if I can return a blender that I purchased a week ago. It doesn\u2019t work as expected.","labels":"Return Request"}
+{"text":"I'm having trouble using a promo code that worked last week, now it keeps saying it's invalid. Can you explain why this might be happening?","labels":"Customer Support Issue"}
+{"text":"The blender I ordered doesn\u2019t work as expected, and I want to return it but I\u2019m unsure about the policy. Can you clarify?","labels":"Return Request"}
+{"text":"I bought a coffee maker, and it's not working as expected. Can I get a refund or exchange it for a different model?","labels":"Return Request"}
+{"text":"For some reason, my order was cancelled without any prior notification. I would like to understand why this happened.","labels":"Customer Support Issue"}
+{"text":"My order arrived, but one of the items is damaged. I would like to know the steps to send it back and get a replacement.","labels":"Return Request"}
+{"text":"I need clarification on how to use my gift card during checkout. It didn\u2019t seem to work properly.","labels":"Customer Support Issue"}
+{"text":"Hello, I was expecting my items to be delivered by now but they haven't arrived. Can someone provide me with an update?","labels":"Order Status"}
+{"text":"Hi, I was wondering if you could update me on the delivery of my recent purchase. It was supposed to arrive yesterday but still hasn't shown up.","labels":"Order Status"}
+{"text":"I saw a banner on your site about a buy one get one free offer. Can you tell me how long that will last?","labels":"Promotional Inquiry"}
+{"text":"I tried to place an order, but the payment keeps failing. This is really frustrating!","labels":"Customer Support Issue"}
+{"text":"Could you help me figure out the process for sending back a dress? It doesn\u2019t look good on me at all, and I would like to know if I can get my money back.","labels":"Return Request"}
+{"text":"I attempted to use a promo code during my checkout, but it didn\u2019t apply the discount. Is there something wrong, or did I miss a step?","labels":"Customer Support Issue"}
+{"text":"I received my order today and unfortunately, the dress is too small. Can I send it back for a larger size?","labels":"Return Request"}
+{"text":"I found a dress on your website, but I\u2019m not sure about the fabric quality. Can you share details about the materials used?","labels":"Product Inquiry"}
+{"text":"I tried to access my account, but it keeps saying my password is incorrect even though I just changed it last week. Can you help me reset it?","labels":"Customer Support Issue"}
+{"text":"I bought a blender last month, and it\u2019s not working properly. Is there a way to send it back for a full refund? I really need this resolved quickly.","labels":"Return Request"}
+{"text":"I was tracking my recent order, but now I cannot seem to access the tracking link. Is it possible to get some details?","labels":"Order Status"}
+{"text":"My recent purchase came with a defect, and I\u2019d like to know how to initiate the process for sending it back. Do I need a return label?","labels":"Return Request"}
+{"text":"I got a dress in the wrong color and I want to return it. What is the process?","labels":"Return Request"}
+{"text":"I got my package today, but it\u2019s missing the charger. I want to know how to return the item and get a complete one.","labels":"Return Request"}
+{"text":"I received a pair of shoes, but they don't fit me at all. Can you help me with this?","labels":"Return Request"}
+{"text":"I just want to verify the estimated delivery date for my last order. It's been a few days, and I'm wondering what's going on.","labels":"Order Status"}
+{"text":"I\u2019ve been following the tracking info for my package, but it just says \u2018processing\u2019. Can you tell me if there\u2019s a delay?","labels":"Order Status"}
+{"text":"I keep getting an error message when I try to submit a complaint about my recent order. What should I do?","labels":"Customer Support Issue"}
+{"text":"I\u2019ve been charged for an item that I did not order. Can you please check into this and let me know how to resolve the issue?","labels":"Customer Support Issue"}
+{"text":"Do you have any upcoming promotions or deals on the new smartphones? I'm really interested in purchasing one!","labels":"Promotional Inquiry"}
+{"text":"Is it possible to get a discount if I refer a friend? I heard that's a common promotion, would love to get the details!","labels":"Promotional Inquiry"}
+{"text":"Quick question - Are there any seasonal sales planned for the holiday season? I'm looking to buy gifts and would appreciate any info on possible discounts!","labels":"Promotional Inquiry"}
+{"text":"I came across your website and I was curious if you have any special offers for first-time buyers?","labels":"Promotional Inquiry"}
+{"text":"Can you please let me know when I can expect my items to arrive? I placed my order a few days ago.","labels":"Order Status"}
+{"text":"I placed an order last week for a few items. Can you please let me know when I should expect them to reach me?","labels":"Order Status"}
+{"text":"I mistakenly ordered two of the same item instead of one. Can I send one back? If so, how should I go about it?","labels":"Return Request"}
+{"text":"Can you tell me more about the specifications of the wireless earbuds you have listed?","labels":"Product Inquiry"}
+{"text":"I need clarification on my subscription charges. They seem higher than what I was quoted before making my purchase. Can someone assist with this?","labels":"Customer Support Issue"}
+{"text":"I noticed a coffee maker listed on your page, but I want to know if it has a built-in grinder. Is there a model that does?","labels":"Product Inquiry"}
+{"text":"I received a text about flash sales happening today. Are there specific hours or items that I should be aware of?","labels":"Promotional Inquiry"}
+{"text":"The product I received is not what I expected based on the description, and now I'm confused about what steps I should take.","labels":"Customer Support Issue"}
+{"text":"Are there any special features in the new tablet that set it apart from last year's version?","labels":"Product Inquiry"}
+{"text":"I\u2019m really confused about my purchase. I thought I clicked overnight shipping, but now it\u2019s still showing that it hasn't gone out yet. Can you assist me?","labels":"Order Status"}
+{"text":"Can I get details on the built-in features of the smart TV? I'm curious about the app support and connectivity options.","labels":"Product Inquiry"}
+{"text":"My purchase was supposed to arrive yesterday, but it still hasn\u2019t shown up. What\u2019s going on?","labels":"Order Status"}
+{"text":"I ordered a pair of shoes, but they don\u2019t fit me at all. Can you guide me on how to send them back?","labels":"Return Request"}
+{"text":"I've noticed some discounts on your website, but I'm not sure if they're still valid. Could you assist me with that?","labels":"Promotional Inquiry"}
+{"text":"The website says my order is shipped, but there's no tracking information. I'm worried something went wrong!","labels":"Customer Support Issue"}
+{"text":"I heard about some special offers on your site. Can you share details about what's currently on sale?","labels":"Promotional Inquiry"}
+{"text":"Quick question: What are the dimensions of the large canvas print? I need it to fit a specific wall space in my office.","labels":"Product Inquiry"}
+{"text":"I saw a post on social media mentioning a flash sale for this weekend. What items will be on sale?","labels":"Promotional Inquiry"}
+{"text":"Hey, I\u2019m just reaching out to see if there are any delays with my order. I really need it by the weekend, and I want to make sure everything is fine.","labels":"Order Status"}
+{"text":"Hi, I saw a pair of shoes on your website, but I'm not sure if they come in half sizes. Can you help me?","labels":"Product Inquiry"}
+{"text":"Can someone let me know if there are loyalty rewards for frequent customers? I shop here quite regularly and it would be great to know!","labels":"Promotional Inquiry"}
+{"text":"I've been trying to find out how to send back a product I\u2019m not satisfied with. It's really confusing, though. Can someone help me?","labels":"Return Request"}
+{"text":"Just wanted to confirm whether my order is going to arrive on time. It was supposed to be here by the end of the week, but I haven\u2019t heard anything.","labels":"Order Status"}
+{"text":"I'm confused about the shipping options available. I selected express, but it seems like my order is still processing. What's going on?","labels":"Customer Support Issue"}
+{"text":"Why is my promo code not working? I really need that discount, and I've checked the terms, but it just won't apply.","labels":"Customer Support Issue"}
+{"text":"I got my package today, and unfortunately, one of the items is defective. What\u2019s the process for returning it?","labels":"Return Request"}
+{"text":"Do you have any special offers for customers who refer friends? I\u2019d like to know what I can earn from sharing your site!","labels":"Promotional Inquiry"}
+{"text":"I just want to confirm the timeline for my recent order. The tracking info hasn\u2019t updated in days, and I need it soon!","labels":"Order Status"}
+{"text":"I tried reaching out for support regarding my recent purchase, but no one has responded yet. Is there a direct line I can call?","labels":"Customer Support Issue"}
+{"text":"I\u2019m really disappointed with the quality of the jacket I received, and I\u2019d like to send it back. What do I need to do?","labels":"Return Request"}
+{"text":"I tried to redeem a promo code during checkout, but it didn't work. What's going on?","labels":"Customer Support Issue"}
+{"text":"Can you provide insights on when the next clearance event is scheduled? I'm eager to take advantage of some deep discounts!","labels":"Promotional Inquiry"}
+{"text":"I have an issue with the item I received, it's not what I expected and there are several defects. Can someone please guide me on what to do next?","labels":"Customer Support Issue"}
+{"text":"Your webpage shows a vacuum cleaner, but I can't find the info on its power capacity. Can you help with that?","labels":"Product Inquiry"}
+{"text":"Is there a way to get notified about exclusive deals or discounts? I want to make sure I don\u2019t miss out on any sales!","labels":"Promotional Inquiry"}
+{"text":"Hi, I was hoping you could help me. The laptop I ordered doesn\u2019t function as expected. What\u2019s the procedure for returning it?","labels":"Return Request"}
+{"text":"Can you tell me if there are any current promotions for first-time buyers? I\u2019d love to save some money on my first purchase!","labels":"Promotional Inquiry"}
+{"text":"I came across an online post regarding your summer clearance event. Are there any early bird specials I should know about?","labels":"Promotional Inquiry"}
+{"text":"Good afternoon, I would like to know the current status of my order since I didn't receive any shipping confirmation yet.","labels":"Order Status"}
+{"text":"My order was supposed to be delivered two days ago, but I haven't received it yet. Can you help me find out where it is?","labels":"Order Status"}
+{"text":"What are the dimensions of the coffee table? I need to make sure it fits in my living room space.","labels":"Product Inquiry"}
+{"text":"I ordered a gift for my friend, but I accidentally chose the wrong item. What are my options to fix this?","labels":"Customer Support Issue"}
+{"text":"Can someone explain why I\u2019m being charged a service fee? I wasn\u2019t made aware of this when I made my purchase.","labels":"Customer Support Issue"}
+{"text":"I need to send back the blender I bought; it\u2019s not working as advertised. Could you please let me know the steps to proceed?","labels":"Return Request"}
+{"text":"Is there a way to get notifications about upcoming promotions or sales? I really want to be the first to know!","labels":"Promotional Inquiry"}
+{"text":"I tried logging into my account, but I keep getting an error message. Can you help me fix it?","labels":"Customer Support Issue"}
+{"text":"Is there a way to get notified about flash sales or promotions on certain products?","labels":"Promotional Inquiry"}
+{"text":"I'm interested in the features of the latest model of that robotic vacuum. Is it quieter than the previous version?","labels":"Product Inquiry"}
+{"text":"There seems to be a charge on my credit card for an order I didn't place. I need to understand what's going on before I escalate this matter.","labels":"Customer Support Issue"}
+{"text":"Can you tell me if the shoes come in other colors besides black?","labels":"Product Inquiry"}

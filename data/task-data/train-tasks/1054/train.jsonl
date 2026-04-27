@@ -1,0 +1,799 @@
+{"text":"Users are complaining about being unable to submit their support tickets, which is causing a huge backlog. This issue needs to be fixed immediately!","labels":"High Urgency"}
+{"text":"The printer in the office is showing an error message, and it's preventing us from printing important documents. Can someone take a look at it soon?","labels":"Medium Urgency"}
+{"text":"Could you remind me where to find the troubleshooting guide? I might need it eventually, but everything seems fine right now.","labels":"Low Urgency"}
+{"text":"We have users reporting that the entire platform is down, and this is stopping us from fulfilling our orders. Please assist urgently!","labels":"High Urgency"}
+{"text":"What are the guidelines for naming files in the shared drive? I want to avoid any issues when I start uploading documents next week.","labels":"Low Urgency"}
+{"text":"My account has been locked due to too many login attempts and I don't understand why that happened. I might need some help to unlock it.","labels":"Medium Urgency"}
+{"text":"What\u2019s the best way to export my data from the application? I don\u2019t need it immediately, but I\u2019d like to prepare for it in the next few weeks.","labels":"Low Urgency"}
+{"text":"Hey, I was wondering if there\u2019s a way to change my password without contacting support? I just want to do it myself if possible.","labels":"Low Urgency"}
+{"text":"I have a subscription to a software service, and I want to know how to cancel it. Can you guide me through the cancellation process?","labels":"Low Urgency"}
+{"text":"We are experiencing a major outage in our network, which is preventing all departments from communicating effectively. This situation is urgent because it affects our operations!","labels":"High Urgency"}
+{"text":"Is there an FAQ section on your site? I have a few questions about using the software effectively, but I don\u2019t need immediate help.","labels":"Low Urgency"}
+{"text":"We're experiencing a complete system outage; none of the employees can access their accounts right now!","labels":"High Urgency"}
+{"text":"What are the steps I need to follow to reset my device to factory settings? I have a few questions about it.","labels":"Low Urgency"}
+{"text":"My computer just showed a critical error message saying the hard drive is failing! I need help to recover my data before it\u2019s too late!","labels":"High Urgency"}
+{"text":"I can't log into the CRM system, and it's essential for our workflow. This is causing significant delays in our sales process!","labels":"High Urgency"}
+{"text":"I've encountered a minor glitch while trying to upload images. It doesn\u2019t prevent me from using the app, though. What should I do?","labels":"Low Urgency"}
+{"text":"I can\u2019t seem to access my account this morning. The login keeps failing and it\u2019s getting quite frustrating. Can you please check if there\u2019s an issue on your end?","labels":"Medium Urgency"}
+{"text":"The website is taking longer to load than usual, and while I can still access it, it\u2019s affecting my ability to get work done efficiently. Any ideas on what could be causing this?","labels":"Medium Urgency"}
+{"text":"I can't log into the system at all, and this is affecting all my work. Please help me resolve this issue immediately!","labels":"High Urgency"}
+{"text":"Can you explain why my subscription plan suddenly changed? I didn\u2019t authorize any modifications, and it's quite frustrating to sort out.","labels":"Medium Urgency"}
+{"text":"The latest software update keeps crashing my application when I try to open it. It's annoying because I rely on it for my daily reports. Can anyone help me resolve this?","labels":"Medium Urgency"}
+{"text":"We're facing a critical issue with payment processing, which has halted all transactions for our online store. We need this resolved immediately to avoid financial losses!","labels":"High Urgency"}
+{"text":"The last update caused the software to crash on launch. This is stopping all our operations and needs to be fixed immediately!","labels":"High Urgency"}
+{"text":"Our email server is not working, and we have clients we need to respond to right away. Can someone look into this issue ASAP?","labels":"High Urgency"}
+{"text":"The payment processing system is down, preventing all transactions. This is an emergency and needs immediate fixing!","labels":"High Urgency"}
+{"text":"Our servers are down and we can't access any of our applications, this is impacting our entire team! Please fix this ASAP!","labels":"High Urgency"}
+{"text":"The software is running slow on my machine, making it hard to complete my tasks efficiently. It doesn't freeze, but it takes forever to open files. What can I do?","labels":"Medium Urgency"}
+{"text":"I'm trying to upload my documents for verification, but the system keeps timing out. It's not completely down, but it's really frustrating.","labels":"Medium Urgency"}
+{"text":"Urgent! Our payment processing system is offline, and customers are unable to complete transactions. We need this resolved immediately!","labels":"High Urgency"}
+{"text":"Our entire team is unable to access the software right now, and we have a deadline looming! Can you fix this ASAP?","labels":"High Urgency"}
+{"text":"There\u2019s a major bug affecting the checkout page on our e-commerce site. Customers can\u2019t complete their purchases, which is causing financial loss right now.","labels":"High Urgency"}
+{"text":"There\u2019s a significant security breach alert on our main network, and it's critical that we rectify this immediately before any data is compromised. We need urgent assistance!","labels":"High Urgency"}
+{"text":"Can you help me with my email settings? I keep missing notifications for important messages, and it's getting frustrating because I need to respond quickly.","labels":"Medium Urgency"}
+{"text":"I heard there\u2019s a new software update available. Can you provide the link to download it?","labels":"Low Urgency"}
+{"text":"Hey, I\u2019m thinking about upgrading my plan, but I\u2019m not in a rush. Can you explain the options?","labels":"Low Urgency"}
+{"text":"I\u2019m curious about the compatibility of the new feature with older systems. No rush on this, just looking for some clarification.","labels":"Low Urgency"}
+{"text":"I was wondering if the latest version of your app has any new features? If it's not too much trouble, I\u2019d love to know.","labels":"Low Urgency"}
+{"text":"I need clarification on the recent policy changes in our software usage terms. I don\u2019t think it\u2019s impacting my work yet, but I want to make sure I\u2019m compliant moving forward.","labels":"Medium Urgency"}
+{"text":"I just logged in to the application, and all data seems to have vanished. We can't proceed without it, please investigate immediately!","labels":"High Urgency"}
+{"text":"I received reports that users are unable to access their accounts, and it seems to be affecting multiple teams. Please escalate this issue!","labels":"High Urgency"}
+{"text":"I tried to set up the new VPN, but I keep getting a connection error. I really need it working for the upcoming project deadlines.","labels":"Medium Urgency"}
+{"text":"I have a question about the compatibility of the app with older versions of my operating system. What should I consider?","labels":"Low Urgency"}
+{"text":"My colleagues are reporting issues with the calendar syncing feature. It appears to be inconsistent. I\u2019d appreciate any guidance on how we can troubleshoot this.","labels":"Medium Urgency"}
+{"text":"I'm curious about the new features that were added in the latest software update. Can you share the details?","labels":"Low Urgency"}
+{"text":"Our team is facing significant delays because the project management tool is completely unresponsive. If we can't get this sorted, we'll miss our deadlines!","labels":"High Urgency"}
+{"text":"I keep receiving an error message about my subscription renewal. I want to make sure my account is still active before the deadline next week \u2013 who can assist with this?","labels":"Medium Urgency"}
+{"text":"There's a bug in the reporting tool that prevents me from generating a complete report. It doesn't stop my overall tasks, but I really need this resolved soon!","labels":"Medium Urgency"}
+{"text":"I received an alert about a potential security threat. While I haven\u2019t noticed any unusual activity, I\u2019d like to know what steps I should take to ensure everything is secure before it escalates.","labels":"Medium Urgency"}
+{"text":"I've encountered a minor bug in the mobile app that needs fixing. It doesn't crash but leads to unexpected behavior during transactions, which could confuse users. What should I do?","labels":"Medium Urgency"}
+{"text":"The new software rollout seems to have caused some confusion among team members regarding the new features. Maybe a better guide or walkthrough could help alleviate the issues?","labels":"Medium Urgency"}
+{"text":"Could you help me understand the privacy settings on my social media profile? I want to make sure I'm sharing the right information with my friends.","labels":"Low Urgency"}
+{"text":"The software update on my laptop is taking longer than expected, and I'm concerned it might affect my work sessions. Can I get an estimated time for completion?","labels":"Medium Urgency"}
+{"text":"There's a major bug in the update that prevents us from using essential features. Without a fix, we are unable to complete our tasks effectively. Please prioritize this!","labels":"High Urgency"}
+{"text":"The software update notification keeps appearing, but I'm worried it might affect some of my older programs. Is there a way to update without losing functionality?","labels":"Medium Urgency"}
+{"text":"There seems to be a lag when I try to open large files in the software. It's not a showstopper, but it's becoming quite frustrating. Any fixes you can suggest?","labels":"Medium Urgency"}
+{"text":"I was wondering if there is any update on the new features that were discussed last month?","labels":"Low Urgency"}
+{"text":"I noticed that some features in the latest version seem to have changed. Could you clarify where I can find the new options?","labels":"Low Urgency"}
+{"text":"Is there an option to customize my toolbar in the application? It\u2019s not an urgent issue, but I would like to optimize my workflow a little.","labels":"Low Urgency"}
+{"text":"I keep getting prompted to install updates for my software, but I\u2019m not sure if they really improve anything or if they're just minor fixes. A little guidance would be appreciated.","labels":"Medium Urgency"}
+{"text":"My team is experiencing delays in response times when using the chat function. It\u2019s not completely down, but it\u2019s definitely impacting our productivity. What can be done about it?","labels":"Medium Urgency"}
+{"text":"There\u2019s a security issue with our payment gateway that could expose customer data; this needs immediate attention before it escalates!","labels":"High Urgency"}
+{"text":"I noticed that the printer isn't responding when I try to print from my computer. I\u2019ve restarted both the printer and my PC but no luck yet.","labels":"Medium Urgency"}
+{"text":"The system crashed while I was saving my work, and I lost hours of progress. Can someone please look into it right away?","labels":"High Urgency"}
+{"text":"I'm having trouble connecting to the Wi-Fi network in our office. It connects sometimes but drops off frequently. Can you help me troubleshoot this?","labels":"Medium Urgency"}
+{"text":"I\u2019m looking for tips on optimizing the performance of my device. Any advice would be appreciated!","labels":"Low Urgency"}
+{"text":"I received a message that the application is in maintenance mode, but nobody informed us about this beforehand. I have an urgent task to complete, and I can't afford any delays!","labels":"High Urgency"}
+{"text":"I haven't been receiving alerts from your system for some of the updates, and while I understand that I can check manually, it's a bit of a pain to keep doing that. Can someone look into my alert settings?","labels":"Medium Urgency"}
+{"text":"What is the process for archiving old files in the database? I don't need to do this immediately, but it would be good to know.","labels":"Low Urgency"}
+{"text":"The new features introduced in the latest update are great, but they keep glitching occasionally. It\u2019s making me reconsider if I should have updated. How can I report these issues?","labels":"Medium Urgency"}
+{"text":"Our entire team is unable to access the main server since this morning, and this is impacting our work on the quarterly report due tomorrow.","labels":"High Urgency"}
+{"text":"I'm unable to access our main database; all the reports we need for the meeting are stuck and I can't generate any insights!","labels":"High Urgency"}
+{"text":"I just need some clarification on the billing cycle for our subscription. I think I might have missed the last update about it.","labels":"Low Urgency"}
+{"text":"Could you share the details on how to access the user manual for the software? I can't seem to find it anywhere.","labels":"Low Urgency"}
+{"text":"Just asking, what\u2019s the difference between the personal and professional subscriptions? I want to make sure I\u2019m choosing the right one.","labels":"Low Urgency"}
+{"text":"I was wondering if you have any tips for optimizing the performance of my laptop. It's running a bit slow lately, but it's not urgent at the moment.","labels":"Low Urgency"}
+{"text":"I noticed that my account settings have changed slightly. Is there a way to reset them?","labels":"Low Urgency"}
+{"text":"My colleagues are having issues with the shared calendar not syncing properly. It\u2019s not a total loss, but it\u2019s creating some scheduling conflicts that could be avoided.","labels":"Medium Urgency"}
+{"text":"Is there a way to retrieve archived emails? I think I deleted some important ones by accident, but I'm not in a rush to recover them.","labels":"Low Urgency"}
+{"text":"Can you remind me where I can find the company policy documents? It's not critical, more of a reference for me later on.","labels":"Low Urgency"}
+{"text":"I can't log into the system, and all of my work is saved there. This is critical for my deadline today!","labels":"High Urgency"}
+{"text":"My printer isn't connecting to the Wi-Fi, and I've checked all the cables. It's not the end of the world, but it does make things a little inconvenient for me, especially when I have documents to print today.","labels":"Medium Urgency"}
+{"text":"The system update caused all connected devices to lose functionality, and we urgently need a rollback or a fix.","labels":"High Urgency"}
+{"text":"Could you please provide me with information on how to access the user manual for my device?","labels":"Low Urgency"}
+{"text":"The main application crashed during a critical task, and I cannot recover the data. We need urgent support to restore functionality before we lose customer trust.","labels":"High Urgency"}
+{"text":"The printer in the office is jammed again, and I can't print my reports. It usually works fine after a quick fix, but this is the third time this month. Can you suggest something?","labels":"Medium Urgency"}
+{"text":"We\u2019re facing a critical bug in the reporting functionality. If this isn't fixed quickly, we won't be able to finalize our reports by the deadline.","labels":"High Urgency"}
+{"text":"Can you help me find the user manual for the device? I\u2019ve looked around and can\u2019t seem to locate it. It\u2019s not urgent, just curious!","labels":"Low Urgency"}
+{"text":"My internet connection seems to be slow today. It\u2019s not completely down, but it\u2019s affecting my ability to work with real-time applications. Any tips on resolving this?","labels":"Medium Urgency"}
+{"text":"There\u2019s a bug causing all reports to generate incorrect data, and our compliance deadline is tomorrow. We need someone to look into this immediately to avoid serious repercussions!","labels":"High Urgency"}
+{"text":"Could you send me the latest updates on the software that my team uses? It's not a problem yet, but we want to stay informed just in case.","labels":"Low Urgency"}
+{"text":"Our main application is down for over an hour now, and I need for someone to look into it immediately because we're losing customers!","labels":"High Urgency"}
+{"text":"I'm interested in understanding how to use the new features added to the app. It's not urgent, but I think it would enhance my experience.","labels":"Low Urgency"}
+{"text":"All email communication is down for our entire department. This needs to be addressed urgently since it's impacting client relations!","labels":"High Urgency"}
+{"text":"There\u2019s a critical bug in the system that crashes every time we try to generate reports. We need someone to fix this before our presentation!","labels":"High Urgency"}
+{"text":"I need assistance with figuring out why the reports I generate aren't displaying some important data. It's impacting my productivity, but not a complete showstopper yet.","labels":"Medium Urgency"}
+{"text":"Has there been a change in the email settings? Several of us are getting delayed messages, and it's affecting our communication.","labels":"Medium Urgency"}
+{"text":"I've noticed that our team's chat application freezes occasionally when using video calls. While it's not a complete breakdown, it is quite annoying during meetings. Any suggestions?","labels":"Medium Urgency"}
+{"text":"The application is completely non-responsive for everyone in the team since this morning. We require urgent technical support to resolve this issue!","labels":"High Urgency"}
+{"text":"Do we have an FAQ page for troubleshooting common issues? I think it would be helpful for users.","labels":"Low Urgency"}
+{"text":"I'm getting constant error notifications that prevent me from saving any changes to my documents, and it's crucial that I access those files today!","labels":"High Urgency"}
+{"text":"Could you explain how to reset my password? I\u2019ve tried several times but haven\u2019t received the reset link. Just want to make sure I can access my account again soon.","labels":"Medium Urgency"}
+{"text":"I\u2019d like some tips on improving the Wi-Fi signal in my home. Any suggestions would be great!","labels":"Low Urgency"}
+{"text":"Could someone explain how to sync my calendar with the app? I know it works but I've just never done it before and waiting for a quiet moment to try it out.","labels":"Low Urgency"}
+{"text":"The team calendar isn't syncing correctly across devices. I might miss some important meetings if this doesn't get fixed soon. Can you help?","labels":"Medium Urgency"}
+{"text":"What are the best practices for maintaining my device? Just looking for some tips to keep everything running smoothly.","labels":"Low Urgency"}
+{"text":"Could you explain how to enable two-factor authentication? It\u2019s something I want to do, but it can wait if you have other priorities.","labels":"Low Urgency"}
+{"text":"Could you tell me if there are any guides available for setting up my new software?","labels":"Low Urgency"}
+{"text":"I have a quick question about how to change the default settings in the email application. I want to customize the signature but can\u2019t find the option anywhere.","labels":"Low Urgency"}
+{"text":"Just curious, is there a way to deactivate my account temporarily? I won\u2019t be using it for a while.","labels":"Low Urgency"}
+{"text":"What should I do if I want to reset my password? I can\u2019t seem to find the option.","labels":"Low Urgency"}
+{"text":"I\u2019m having some trouble with my application crashing during certain operations. I can still work around it, but it's a little annoying. Any guidance would be appreciated.","labels":"Medium Urgency"}
+{"text":"Multiple users are complaining about not being able to access their accounts, and it seems to be a widespread login issue. This is very concerning and requires quick action!","labels":"High Urgency"}
+{"text":"Could you help me figure out how to access the archived files? I don't need them immediately, just whenever someone has time.","labels":"Low Urgency"}
+{"text":"The search feature on the website seems to yield random results now, instead of the ones I expected. It's not critical, but I miss the functionality.","labels":"Medium Urgency"}
+{"text":"The VPN is not connecting, and my remote work is completely halted. This is affecting my ability to meet deadlines!","labels":"High Urgency"}
+{"text":"My audio isn\u2019t working in the conference call app, but I'm able to join the meeting through my phone. Is there a quick fix for this?","labels":"Medium Urgency"}
+{"text":"Can someone clarify what the new functionalities in the last update include? I just want to ensure I\u2019m not missing anything.","labels":"Low Urgency"}
+{"text":"I just tried to log in and got an error message saying 'service unavailable'. This is a major problem since we have work due right now!","labels":"High Urgency"}
+{"text":"Can someone please check on the network outage? It's impacting our entire office and needs immediate attention before we lose more productivity!","labels":"High Urgency"}
+{"text":"I've noticed that some features in the app don\u2019t appear to be working as they should. Can you check if there's a known issue?","labels":"Medium Urgency"}
+{"text":"I received a notification that our data backup failed, which could lead to data loss. We need to address this situation immediately to prevent any major issues!","labels":"High Urgency"}
+{"text":"I'm having some trouble with my printer; it keeps jamming every few pages. It's still printing but it's frustrating having to clear the jam constantly.","labels":"Medium Urgency"}
+{"text":"Hey, I was wondering if there\u2019s a way to change the theme of the software. I like the dark mode but I can\u2019t find the option anywhere. Any help would be appreciated!","labels":"Low Urgency"}
+{"text":"The system is down, and no one can access their accounts. We need immediate help to fix this issue!","labels":"High Urgency"}
+{"text":"I\u2019m looking for documentation on how to use the reporting feature in the software. It\u2019s not very clear in the manual.","labels":"Low Urgency"}
+{"text":"Is there a way to customize the dashboard on my project management tool? I've heard some people talk about it but I haven\u2019t done it myself.","labels":"Low Urgency"}
+{"text":"The inventory management system isn't syncing, which means we can't track stock levels. This issue needs to be fixed promptly to avoid over-selling.","labels":"High Urgency"}
+{"text":"I was just wondering if you have any tips on how to improve my internet speed at home?","labels":"Low Urgency"}
+{"text":"Could you provide me with the steps to reset my password? I'm not in a rush but would appreciate the info when you get a chance.","labels":"Low Urgency"}
+{"text":"Since yesterday, the application has been showing constant error messages, making it impossible to complete our tasks. This directly impacts our productivity and needs prompt resolution.","labels":"High Urgency"}
+{"text":"Is there a way to customize my dashboard on the application? I\u2019d like to add a few more widgets to it if possible.","labels":"Low Urgency"}
+{"text":"There\u2019s a recurring notification about software updates available, but I\u2019m worried about whether I should install them right now, since everything seems to be working fine.","labels":"Medium Urgency"}
+{"text":"I'm trying to figure out how to reset my password for the internal portal. It\u2019s been a while since I last logged in and I don\u2019t remember the process.","labels":"Low Urgency"}
+{"text":"My laptop has been unusually slow after the last system upgrade. I don't want to lose work, but I also don\u2019t know what could be causing it.","labels":"Medium Urgency"}
+{"text":"I need clarification on how to customize my user settings in the application. It's not an emergency, but I would like to ensure I'm using the features optimally.","labels":"Medium Urgency"}
+{"text":"Our team is locked out of the project management tool, and no one can access any tasks. This is critical for our deadlines!","labels":"High Urgency"}
+{"text":"I have a major functionality issue with our CRM that\u2019s halting our sales process. If we don\u2019t get this fixed soon, it\u2019s going to hurt our revenue significantly!","labels":"High Urgency"}
+{"text":"Hey, I was wondering how to reset my password. It's a bit confusing and I could use some help when you have a moment.","labels":"Low Urgency"}
+{"text":"I've tried resetting my password multiple times, but the account still won't let me log in. I need to access it for a critical meeting scheduled for today, so please expedite this. It's really urgent!","labels":"High Urgency"}
+{"text":"What\u2019s the best way to create backup copies of my files? I\u2019ve heard there are different methods, but I want to ensure I\u2019m doing it correctly.","labels":"Low Urgency"}
+{"text":"I received an error message when trying to access the shared drive today. It seems like only a few files are not loading or opening. I could use some guidance on how to resolve this.","labels":"Medium Urgency"}
+{"text":"All user accounts have been locked out due to a technical glitch. Can someone escalate this issue immediately? This is a critical situation!","labels":"High Urgency"}
+{"text":"There\u2019s a major bug in the software that prevents us from generating reports. It\u2019s critical for our project deadline later today!","labels":"High Urgency"}
+{"text":"Can you tell me what the updated features in the new software version are?","labels":"Low Urgency"}
+{"text":"There's a critical database failure that needs to be resolved ASAP. We can\u2019t afford any downtime during peak hours!","labels":"High Urgency"}
+{"text":"I have a quick question about how to change my email notification settings. I\u2019d like to customize them, but it\u2019s not something I need immediately.","labels":"Low Urgency"}
+{"text":"Our team is experiencing slower response times from the server today. It's not completely down, but it's definitely affecting productivity.","labels":"Medium Urgency"}
+{"text":"Do you have any tips on how to better manage my storage space on my device? I'm running low and would like some suggestions.","labels":"Low Urgency"}
+{"text":"There seems to be a glitch in the system that won't let me add new users. It keeps saying there's an error, but I can't pinpoint what's causing it.","labels":"Medium Urgency"}
+{"text":"I have a question about the warranty on my device. What\u2019s covered and what\u2019s not? Just trying to understand my options for the future.","labels":"Low Urgency"}
+{"text":"I can't seem to sync my calendar with my mobile device. It's been a hassle trying to keep things organized without it. What's the fix?","labels":"Medium Urgency"}
+{"text":"We're experiencing a complete system outage, and customers are starting to complain. This is impacting our sales directly!","labels":"High Urgency"}
+{"text":"My printer keeps jamming whenever I try to print, and it's becoming quite frustrating. I'm not sure if it's a setting issue or if something needs to be fixed. Please help!","labels":"Medium Urgency"}
+{"text":"I'm looking for documentation on how to integrate your API with our system. If you could send me the links, that would be great.","labels":"Low Urgency"}
+{"text":"I have a question about the compatibility of my device with the latest software update. I just want to ensure everything will run smoothly before I proceed.","labels":"Low Urgency"}
+{"text":"We're experiencing a total system outage! None of our software applications are accessible right now, and the whole team is stuck. Please let us know what steps are being taken to resolve this issue ASAP!","labels":"High Urgency"}
+{"text":"Could you please provide me with the user manual for the new software update? I'm a bit confused about some features.","labels":"Low Urgency"}
+{"text":"I just received a notification that our backup system failed during the last scheduled run, and this is alarming because we rely on it for disaster recovery!","labels":"High Urgency"}
+{"text":"Can you help me with the printer settings? It's not printing as expected, and I have a few documents that need to go out today, though it\u2019s manageable for now.","labels":"Medium Urgency"}
+{"text":"I'm unable to access some of my files in the cloud storage. Everything else seems fine, but I can't view those particular documents. Is this a known issue?","labels":"Medium Urgency"}
+{"text":"I just received a notification that the entire network is down. Our team can't continue working until this is resolved. Please prioritize this issue!","labels":"High Urgency"}
+{"text":"There's a glitch in one of our internal tools that seems to be affecting a few users but not everyone. We're able to work around it for now, but I\u2019d like to know if there's a fix coming soon.","labels":"Medium Urgency"}
+{"text":"I\u2019m experiencing some glitches with the new app version. It crashes occasionally, but it still works most of the time. Would love some insights if it\u2019s a known issue.","labels":"Medium Urgency"}
+{"text":"I can't seem to find the option to change my account settings\u2014it's a bit annoying because I really need to update my payment info for the subscription.","labels":"Medium Urgency"}
+{"text":"The entire system is down and we can't access any of our data. This is critical for our operations!","labels":"High Urgency"}
+{"text":"I've run into a bug when trying to upload files to the system. It says the upload failed every time, even with different file types. It's halting some of my tasks, can you assist?","labels":"Medium Urgency"}
+{"text":"Can you clarify how to integrate the latest update? I\u2019m sure it would be helpful, but I\u2019m not encountering any errors at the moment.","labels":"Medium Urgency"}
+{"text":"Can you send me the links to the FAQs about your new features? I\u2019m curious but I don\u2019t need immediate answers.","labels":"Low Urgency"}
+{"text":"I received an error message when trying to access the database. It's not preventing access completely, but I'm worried it might escalate.","labels":"Medium Urgency"}
+{"text":"When I try to install the new software update, I keep getting an error message. It's not stopping my work, but it's getting pretty frustrating trying to deal with it while I need the features!","labels":"Medium Urgency"}
+{"text":"When you get a chance, could you send me the link to the user manual? I think I might need it for some features I'm not familiar with.","labels":"Low Urgency"}
+{"text":"I\u2019m curious if there are any upcoming training sessions on new features? I\u2019d like to attend when I have the time. It\u2019s not urgent for me.","labels":"Low Urgency"}
+{"text":"Is there a guide available for troubleshooting common issues with the app?","labels":"Low Urgency"}
+{"text":"My graphics software keeps showing a warning about insufficient memory, even though I have sufficient RAM. I need this resolved soon to meet my project deadlines. What can I do?","labels":"Medium Urgency"}
+{"text":"When you have a moment, could you send me the user manual? It's not urgent, just useful for future reference.","labels":"Low Urgency"}
+{"text":"Our entire network is down, and none of the systems are functioning. Can you escalate this issue?","labels":"High Urgency"}
+{"text":"I'm looking for some tips on optimizing my network settings, but it's not a rush. Any advice would be appreciated!","labels":"Low Urgency"}
+{"text":"I\u2019m having trouble syncing my calendar with the app. It was working fine before, but now it keeps showing an error. Any suggestions on how to troubleshoot this?","labels":"Medium Urgency"}
+{"text":"My email client keeps showing a synchronization error. It's not stopping me from receiving emails, but it's definitely not ideal. What should I do?","labels":"Medium Urgency"}
+{"text":"There's a critical bug in the project management tool that is preventing us from updating any tasks. We need urgent assistance to get this sorted out!","labels":"High Urgency"}
+{"text":"We're experiencing persistent connectivity issues which are preventing us from completing our daily operations. Can this be prioritized?","labels":"High Urgency"}
+{"text":"Several users are reporting a significant bug in the software that is causing crashes whenever they attempt to save their work. This is a major issue that needs immediate attention.","labels":"High Urgency"}
+{"text":"My printer is displaying an error message that I don\u2019t understand. The ink cartridges are full and it was working fine before. Any idea what might be wrong?","labels":"Medium Urgency"}
+{"text":"The server is down, and it's causing a major disruption in operations. We need to get it back online as soon as possible, please prioritize this request!","labels":"High Urgency"}
+{"text":"I can't log into the system, and it's crucial for me to get to my files before the client meeting. Please help!","labels":"High Urgency"}
+{"text":"Our entire network is down, and we can't access any of our applications. This is impacting all work and needs to be resolved immediately!","labels":"High Urgency"}
+{"text":"What are the requirements for system specifications for the upcoming software release?","labels":"Low Urgency"}
+{"text":"There's a critical vulnerability in the software that has to be addressed right away to prevent data breaches. This is a top priority for us.","labels":"High Urgency"}
+{"text":"I'm having an issue with one of the features on the software. It's been glitching a bit lately, and it's causing some delays in my work. Could you help me resolve this?","labels":"Medium Urgency"}
+{"text":"The software update has caused a major bug that prevents us from logging in. This is a top priority as it's impacting multiple users' abilities to work!","labels":"High Urgency"}
+{"text":"I need some guidance on how to update my payment information for the subscription service. It's a bit confusing to me.","labels":"Low Urgency"}
+{"text":"There seems to be an issue with the configuration settings on my account. I can't access some features that were available before. Can someone guide me on how to fix this?","labels":"Medium Urgency"}
+{"text":"Our software has completely locked us out during peak hours. This has to be addressed immediately as it\u2019s affecting our sales!","labels":"High Urgency"}
+{"text":"I accidentally deleted an important document from my drives. Is there a way to recover it, or is it gone for good?","labels":"Medium Urgency"}
+{"text":"Our payment processing system is down, which is directly impacting our sales. Customers can't checkout, and this is causing us to lose revenue. We need this resolved urgently!","labels":"High Urgency"}
+{"text":"I'm having trouble connecting to the VPN; it keeps timing out, and I really need access to the server for my project. Can someone help?","labels":"Medium Urgency"}
+{"text":"The software update interrupted my work and now it seems like I can't access some features. It's causing me some delays in my project.","labels":"Medium Urgency"}
+{"text":"Could you let me know how to change my profile picture in the app? It's not a priority, just can't remember the steps!","labels":"Low Urgency"}
+{"text":"Is there a way to recover deleted files from the shared drive? I accidentally removed something important and need to know if it\u2019s possible to retrieve it.","labels":"Medium Urgency"}
+{"text":"Hey, I need to check if the service we\u2019re using has a mobile app. It would really help me access it on the go whenever I have time.","labels":"Low Urgency"}
+{"text":"Is there a way to retrieve deleted files from last week? I need them for an upcoming project, and although I have backups, I'm concerned some information may have been lost.","labels":"Medium Urgency"}
+{"text":"Our email service is down, and we've missed several key communications from clients today. We need urgent help to restore this service as soon as possible!","labels":"High Urgency"}
+{"text":"I was hoping someone could clarify if there's a warranty on the accessories that came with my laptop? Thanks in advance!","labels":"Low Urgency"}
+{"text":"I have a question about the features in the latest software release. Would love to get more details when someone is available to help.","labels":"Low Urgency"}
+{"text":"The database is down, and we are unable to process any customer orders. This issue needs immediate attention to avoid losing sales.","labels":"High Urgency"}
+{"text":"Could you help me understand the different subscription plans? I\u2019m not sure which one fits best, could use a breakdown of the features.","labels":"Low Urgency"}
+{"text":"I\u2019m thinking about upgrading my subscription plan. Could I get some more info on the options available?","labels":"Low Urgency"}
+{"text":"I was wondering if there\u2019s a way to update the software on my printer from home. It\u2019s been a while since I checked anything.","labels":"Low Urgency"}
+{"text":"I noticed that the chat support is sometimes slow to respond, which causes a delay in addressing my issues. It\u2019s not critical, but it would be helpful to have quicker responses.","labels":"Medium Urgency"}
+{"text":"I can't print from my workstation because the printer keeps showing an 'offline' status, and I'm in the middle of a big report that's due now!","labels":"High Urgency"}
+{"text":"I'm having trouble accessing the report section of my dashboard. It keeps loading, but I can't get any work done because I need to submit this by the end of the day.","labels":"Medium Urgency"}
+{"text":"The database went offline unexpectedly, and we're losing synchronization with our sales platform. Can you please escalate this issue?","labels":"High Urgency"}
+{"text":"The server crashed, and we're experiencing a complete outage. No one can log in to their accounts right now!","labels":"High Urgency"}
+{"text":"When I try to open certain files, they won't load at all. It would be nice to know if this is a problem on my end or if the files are corrupt.","labels":"Medium Urgency"}
+{"text":"Could you explain the difference between the two types of plans offered? I just want to make sure I pick the right one. Thanks!","labels":"Low Urgency"}
+{"text":"The new update has caused our system to crash repeatedly. It\u2019s essential that you roll back the update before we lose all our data.","labels":"High Urgency"}
+{"text":"Hey, I was wondering if you could let me know how to reset my password? I seem to have forgotten it, but it\u2019s not urgent.","labels":"Low Urgency"}
+{"text":"Help! The website keeps crashing whenever someone tries to make a payment. We could lose customers!","labels":"High Urgency"}
+{"text":"There\u2019s a major security flaw that allows unauthorized access to sensitive data, and we need an immediate fix before any breaches occur. This can't wait!","labels":"High Urgency"}
+{"text":"The database crashed while I was processing customer orders, and now we're unable to fulfill any requests. Can you fix this immediately?","labels":"High Urgency"}
+{"text":"My team is unable to access the critical project files due to a permissions issue that seems to have locked everyone out. We need help with this immediately!","labels":"High Urgency"}
+{"text":"I'm having difficulty with my billing details. I want to ensure everything is correct, but it hasn't blocked my access to the site. Can you help?","labels":"Medium Urgency"}
+{"text":"Can someone please help me with syncing my calendar to the app? It seems like the settings aren't applying correctly and I can't see any of my appointments.","labels":"Medium Urgency"}
+{"text":"Critical error messages pop up every time we try to access the reporting tool. This is a huge setback, especially with the quarterly reports due soon!","labels":"High Urgency"}
+{"text":"Can you tell me what the process for resetting my password is?","labels":"Low Urgency"}
+{"text":"I\u2019m looking for information on how to configure the settings for my home Wi-Fi network. It's working fine, but I might want to optimize it a bit more later.","labels":"Low Urgency"}
+{"text":"I was wondering if there is a way to extend my subscription for another month?","labels":"Low Urgency"}
+{"text":"Can you explain how to add new users to our account? I\u2019m interested, but it can wait until next week.","labels":"Low Urgency"}
+{"text":"I'm not in a hurry but I've been trying to figure out how to change my password. Any tips?","labels":"Low Urgency"}
+{"text":"Hey, I was wondering if you could tell me more about the new features in the software update? I don't need an urgent response but just curious about what has changed.","labels":"Low Urgency"}
+{"text":"Could you explain how to access the help section of the app? I\u2019d like to read it later when I have some free time.","labels":"Low Urgency"}
+{"text":"The software just crashed while I was in the middle of a presentation. This is extremely urgent!","labels":"High Urgency"}
+{"text":"We are experiencing a severe bug that is causing the software to freeze, making it impossible to complete any tasks. What can be done?","labels":"High Urgency"}
+{"text":"I am having trouble syncing my calendar with the application. It's not updating properly, but I can still access my emails without any issues. Can you assist?","labels":"Medium Urgency"}
+{"text":"I can't seem to access the new features on the software update. I\u2019ve tried restarting the program, but it\u2019s still not working.","labels":"Medium Urgency"}
+{"text":"There\u2019s an error message popping up every time I try to update the application. It's not blocking access, but it's getting annoying. What can I do?","labels":"Medium Urgency"}
+{"text":"I was wondering if you could send me the user manual for the software. I just need it for reference at some point.","labels":"Low Urgency"}
+{"text":"The entire network is down. We've tried restarting the routers multiple times, but nothing seems to work. We can't afford to stay offline right now!","labels":"High Urgency"}
+{"text":"I am facing a major issue with the payment gateway that\u2019s causing every transaction to fail. This is affecting our sales and needs fixing ASAP!","labels":"High Urgency"}
+{"text":"There\u2019s a widespread issue with the integration to our CRM system, causing data sync failures. This is affecting our sales team heavily; I need support urgently!","labels":"High Urgency"}
+{"text":"I'm experiencing constant crashes with the software that we rely on for project management. We have deadlines coming up, and if this continues, we won't meet them! This needs to be fixed quickly.","labels":"High Urgency"}
+{"text":"Our server is completely down, and no one can access their accounts! This is causing a major disruption in our operations and needs immediate attention.","labels":"High Urgency"}
+{"text":"The printer is showing offline, but I can still print from another device. I\u2019d like some advice on how to troubleshoot this issue so I can get it back in sync without too much hassle.","labels":"Medium Urgency"}
+{"text":"I have a question about the system requirements for the latest update. I want to make sure my device is compatible, but it's not a pressing issue.","labels":"Low Urgency"}
+{"text":"I read about the new updates coming next month. Do you have any details on that? I\u2019m just looking to stay informed, but it\u2019s not critical.","labels":"Low Urgency"}
+{"text":"I'm having a little trouble locating the feature that allows me to export my data. Not urgent, just looking for some help when you can.","labels":"Low Urgency"}
+{"text":"There's a major outage affecting the payment processing system. Customers can't make purchases, and we need this resolved ASAP!","labels":"High Urgency"}
+{"text":"I can\u2019t access my company email on my phone anymore. It was working fine yesterday, and now it keeps asking for my password, which I know is correct. What do you recommend?","labels":"Medium Urgency"}
+{"text":"My colleague has been experiencing difficulties with the project management tool freezing intermittently. While it doesn't prevent him from working, it's definitely annoying. What steps can he take to minimize the issues?","labels":"Medium Urgency"}
+{"text":"My system crashed while I was in the middle of an important presentation, and now I can\u2019t retrieve my files. I need urgent help to recover them!","labels":"High Urgency"}
+{"text":"Is there a way to change the notification settings? I\u2019m getting too many alerts and it\u2019s a little overwhelming.","labels":"Low Urgency"}
+{"text":"My printer is showing a 'paper jam' error message, but I've checked and there's no paper stuck inside. The printer is still operational otherwise; just need to figure this out.","labels":"Medium Urgency"}
+{"text":"I'm unable to log into the system, and I've got clients waiting. This is urgent!","labels":"High Urgency"}
+{"text":"Is there a way to customize the notification settings for the app? I\u2019d like to receive alerts only for important messages.","labels":"Low Urgency"}
+{"text":"The application just crashed, and I can\u2019t retrieve important project files. Please help as soon as possible to avoid losing data!","labels":"High Urgency"}
+{"text":"Since the recent update, the system keeps freezing, and I can't complete any tasks. We need this resolved immediately as it's impacting productivity!","labels":"High Urgency"}
+{"text":"Can I get some tips on how to improve my connection speeds? I've noticed it is slower than expected, but it's still usable for me.","labels":"Low Urgency"}
+{"text":"The chat feature on the support site is not working for me. I keep getting disconnected right after I log in. It\u2019s super frustrating because I need to ask a couple of questions.","labels":"Medium Urgency"}
+{"text":"I keep getting a notification that my software version is outdated. I know I can manually update it, but I don't have time right now; will it cause any major issues if I wait a little longer?","labels":"Medium Urgency"}
+{"text":"Could you tell me what the warranty covers for my new purchase? I just want to make sure I understand the details correctly.","labels":"Low Urgency"}
+{"text":"Could you clarify how to set up a new email account? I haven't done it before and want to ensure I follow the right steps when I get around to it.","labels":"Low Urgency"}
+{"text":"I'm getting a critical error message when trying to process payments, and this is affecting my sales right now. Can someone help me fix this ASAP?","labels":"High Urgency"}
+{"text":"Our VoIP system isn't functioning, and our team is unable to make or receive calls. This is severely impacting our communication with clients!","labels":"High Urgency"}
+{"text":"I'm curious about the features of the latest version of your software. If you could send me some details when you get a chance, that would be great!","labels":"Low Urgency"}
+{"text":"I tried logging into the software but it keeps saying my credentials are invalid. This is the third time this week, and it's really impacting my work, please help!","labels":"High Urgency"}
+{"text":"Users are reporting that they are unable to place any orders due to a checkout failure. This issue needs to be addressed immediately as it directly impacts our sales.","labels":"High Urgency"}
+{"text":"It seems like the data backup failed again this week. This is the third time and it\u2019s starting to become a serious problem for our records!","labels":"High Urgency"}
+{"text":"What are the steps to install the updates for the software? I can do it later, so no immediate rush on this.","labels":"Low Urgency"}
+{"text":"Can someone explain how to set up the new features in the cloud storage? I want to make sure I\u2019m using everything correctly to avoid losing data.","labels":"Medium Urgency"}
+{"text":"The system is throwing a blue screen error every couple of minutes, and this is critical as we are in the middle of a major project! Help!","labels":"High Urgency"}
+{"text":"There's a delay in the system refreshing data for my reports. It's not urgent, but I\u2019d like to know if others are facing the same issue or if it\u2019s just my setup.","labels":"Medium Urgency"}
+{"text":"The recent update is making the application run slower than before. I'm worried it might affect my productivity if it doesn't get fixed soon.","labels":"Medium Urgency"}
+{"text":"What\u2019s the best way to update my profile information on the dashboard? Just looking for some guidance when you have a minute.","labels":"Low Urgency"}
+{"text":"Can you tell me how to customize the desktop background on my Windows 10 machine? It's just something I've been meaning to do for a while.","labels":"Low Urgency"}
+{"text":"Could you help me with the user permissions on the platform? I want to restrict access for some users, but I'm not entirely sure how to navigate the controls.","labels":"Medium Urgency"}
+{"text":"I tried reaching customer support but haven\u2019t heard back yet, when do they usually respond?","labels":"Low Urgency"}
+{"text":"The printer I need to use is constantly showing a paper jam error, even though I've cleared it. Can you provide guidance?","labels":"Medium Urgency"}
+{"text":"I\u2019m getting error messages every time I try to access the database. This is halting all our work and needs to be prioritized!","labels":"High Urgency"}
+{"text":"The latest patch caused a total system failure; we can't even access our login page, and we depend on this for daily operations!","labels":"High Urgency"}
+{"text":"Could you help me with resetting my account password? I keep receiving an error message when I try the reset link.","labels":"Medium Urgency"}
+{"text":"I can't log in to the system, and I've tried resetting my password several times. We have a deadline tomorrow, so I really need help with this issue now!","labels":"High Urgency"}
+{"text":"I'd like to know more about your data encryption standards for future reference. Just whenever someone gets a chance to send me that info.","labels":"Low Urgency"}
+{"text":"I've noticed that the application keeps freezing intermittently when I'm trying to save my work. It hasn't fully crashed yet, but it's getting annoying!","labels":"Medium Urgency"}
+{"text":"I was wondering if there is a way to access historical reports on the sales dashboard. I\u2019d like to see if there\u2019s a feature for that.","labels":"Low Urgency"}
+{"text":"Is there a way to access the user manual for the device online, or do I need to request a physical copy?","labels":"Low Urgency"}
+{"text":"Is there a guide available for setting up notifications? I\u2019ve been meaning to check this out but haven\u2019t had the time.","labels":"Low Urgency"}
+{"text":"I'm getting error messages that say the system is offline while trying to connect to the remote server, and it's impacting our project timeline significantly!","labels":"High Urgency"}
+{"text":"There's a critical issue with our email server that's preventing all employees from sending or receiving emails. This is urgent since it\u2019s affecting communication with our clients.","labels":"High Urgency"}
+{"text":"There are random error messages popping up on my dashboard, and while they don't completely prevent me from using it, they are quite bothersome. What should I do about it?","labels":"Medium Urgency"}
+{"text":"Can you explain how to back up my data on the cloud? I have time to learn, so no rush.","labels":"Low Urgency"}
+{"text":"An error in the user authentication system is locking all our employees out. This is critical for our operations and needs urgent attention!","labels":"High Urgency"}
+{"text":"My application crashes whenever I try to upload files. This is critical because I need to submit a project by the end of the day!","labels":"High Urgency"}
+{"text":"I'm looking for advice on optimizing the settings for my computer's performance. Any tips would be appreciated!","labels":"Low Urgency"}
+{"text":"I\u2019ve noticed that the application is running really slowly on my device. I can still use it, but it\u2019s not performing as it should. Any tips on how to speed it up?","labels":"Medium Urgency"}
+{"text":"Could you please clarify what the difference is between Tier 1 and Tier 2 support? I think it would help me understand who to contact for my issues.","labels":"Low Urgency"}
+{"text":"The main server is completely down, preventing any user from accessing our internal tools. This situation is dire, and we need a tech response without delay!","labels":"High Urgency"}
+{"text":"I was wondering if you have any resources on optimizing performance for the application. Take your time, I've got some breathing room.","labels":"Low Urgency"}
+{"text":"Could someone clarify what the blinking light on my network hub indicates? Just curious about its functions.","labels":"Low Urgency"}
+{"text":"Could you provide more information on the latest updates? I\u2019m curious about the new functionalities.","labels":"Low Urgency"}
+{"text":"I'm unable to log in to my account, and it's preventing me from processing orders for our clients. What can be done to fix this immediately?","labels":"High Urgency"}
+{"text":"I just have a quick question about the software update process. I noticed there's a new version, but I'm busy with other tasks right now.","labels":"Low Urgency"}
+{"text":"I\u2019m looking for advice on organizing files on my computer. It\u2019s getting cluttered, but I\u2019m not in a rush to fix it immediately.","labels":"Low Urgency"}
+{"text":"There seems to be an issue with the server; we are getting repeated error messages when trying to process transactions, which is affecting customer service!","labels":"High Urgency"}
+{"text":"Our server went offline, and we've lost access to all our important files. Can this be prioritized for resolution?","labels":"High Urgency"}
+{"text":"Help! The application crashes every time we attempt to generate reports. This is halting our entire operations, and we need a fix urgently!","labels":"High Urgency"}
+{"text":"Is there a way to archive old emails in my account? I think it might help to declutter, but I'm unsure how to go about it.","labels":"Low Urgency"}
+{"text":"The main application is not responding and brings up error codes. We can't afford this situation to persist as it's impacting our team's productivity heavily!","labels":"High Urgency"}
+{"text":"I'm trying to access the report generator, but it keeps spitting out an error message. It doesn't seem critical, but it's frustrating since it's due soon.","labels":"Medium Urgency"}
+{"text":"I noticed that my software is displaying a notification that an update is available. Can someone guide me through the update process? I don\u2019t want to accidentally mess it up!","labels":"Medium Urgency"}
+{"text":"Just wondering if there is an FAQ section on the website where I can find more info about my subscription plan.","labels":"Low Urgency"}
+{"text":"I'm interested in learning more about the different plans you offer. Is there a comparison chart available? No rush on this; just exploring options for now.","labels":"Low Urgency"}
+{"text":"Our payment processing system has stopped working entirely. Customers are unable to check out, and I need someone to fix this before we lose revenue!","labels":"High Urgency"}
+{"text":"I just want to check when the next software update is scheduled. It's not a big deal for me but I'd like to stay informed.","labels":"Low Urgency"}
+{"text":"Could you provide some recommendations for optimizing the performance of my laptop? It's a little slow these days and I think I might need to free up some resources.","labels":"Low Urgency"}
+{"text":"I'm having trouble connecting to the VPN. It keeps dropping, which is really frustrating during my meetings.","labels":"Medium Urgency"}
+{"text":"Hey, I was wondering if there's a way to change my account email. It's not super important, just something I\u2019d like to do eventually.","labels":"Low Urgency"}
+{"text":"I'm having trouble with the email client; it's not syncing properly with my calendar and it's quite annoying since I rely on it for scheduling.","labels":"Medium Urgency"}
+{"text":"I'm having trouble accessing some of the advanced features in the software. Can you help me figure out what's going on?","labels":"Medium Urgency"}
+{"text":"What are the steps to enable dark mode on our application? I think it would be easier on the eyes, but I haven\u2019t seen any setting for it yet.","labels":"Low Urgency"}
+{"text":"I just got an error message saying the application crashed while I was working on my presentation for the client meeting. This is critical and I need help immediately!","labels":"High Urgency"}
+{"text":"Clients are getting error messages whenever they try to log in, which is causing a lot of stress for our team. We need this fixed right now!","labels":"High Urgency"}
+{"text":"We're experiencing a network outage that\u2019s affecting our entire team\u2019s ability to work. What can be done ASAP?","labels":"High Urgency"}
+{"text":"Can you point me to where I can check for any community forums or user groups? I\u2019ve just seen mentions of it in passing and would like to explore.","labels":"Low Urgency"}
+{"text":"Hey, I just wanted to know how to change the password for my account. Is there a specific section on the website for that?","labels":"Low Urgency"}
+{"text":"I'm unable to update my profile picture on the platform. I've cleared my cache and tried different browsers but nothing works. It's quite annoying.","labels":"Medium Urgency"}
+{"text":"I seem to be having some intermittent issues with the software. It crashes occasionally but not consistently, although it\u2019s starting to get quite frustrating during my work hours.","labels":"Medium Urgency"}
+{"text":"I would like to inquire about the latest software updates and how they might affect our current setup. Just want to ensure everything runs smoothly moving forward.","labels":"Medium Urgency"}
+{"text":"The software is completely unresponsive on all devices, which is crippling our workflow. Immediate assistance is required to resolve this!","labels":"High Urgency"}
+{"text":"There\u2019s a significant error message appearing when I try to access the secure portal, and it\u2019s blocking everyone. We need this resolved fast to ensure business continuity.","labels":"High Urgency"}
+{"text":"The internal chat system has gone offline, and this is crucial for our communication during meetings. Please fix this ASAP!","labels":"High Urgency"}
+{"text":"My account was suddenly deactivated without any notice, and I can't access essential tools for my job. This needs urgent resolution!","labels":"High Urgency"}
+{"text":"The new update for the software has changed a lot of the settings. I can't seem to figure out how to customize my dashboard like I used to, and it's slowing me down.","labels":"Medium Urgency"}
+{"text":"I'm having some trouble with the latest update; it seems like my software is running slower than usual since I installed it. Could you advise on what might be happening?","labels":"Medium Urgency"}
+{"text":"I need assistance with resetting my password. I've tried a couple of times but it doesn't seem to go through, and I'm worried about missing important emails. Any tips?","labels":"Medium Urgency"}
+{"text":"The login portal is completely out of service, and users are being locked out of their accounts. We need to have this resolved immediately to prevent further issues.","labels":"High Urgency"}
+{"text":"I accidentally deleted a bookmark in my web browser and would like to recover it. Is there a way to retrieve it, or am I out of luck?","labels":"Low Urgency"}
+{"text":"I need immediate assistance! The software update has caused all of our systems to freeze and we can't access any files right now!","labels":"High Urgency"}
+{"text":"I accidentally deleted some files and I think they might still be recoverable, but I'm not sure what steps to take next. Can someone guide me on how to possibly get them back?","labels":"Medium Urgency"}
+{"text":"There appears to be a delay in receiving notifications from the system. This isn't critical but it's making it hard to keep track of important updates.","labels":"Medium Urgency"}
+{"text":"What steps should I follow to reset my password? I can't seem to remember it.","labels":"Low Urgency"}
+{"text":"We\u2019re experiencing a complete outage of our email system, and it\u2019s affecting all communications. This is an emergency!","labels":"High Urgency"}
+{"text":"It\u2019s taking longer than expected for the software to update. Is there a specific reason for this delay, or anything I can do to speed it up?","labels":"Medium Urgency"}
+{"text":"I\u2019ve tried resetting my password multiple times, but I still can\u2019t log in. This is a huge problem for our team, and I need help quickly!","labels":"High Urgency"}
+{"text":"There's a major outage affecting our system. Can you give me an ETA on when it will be back up? We can\u2019t afford downtime right now!","labels":"High Urgency"}
+{"text":"I\u2019d like to know what the best practices are for backing up my files. It\u2019s not something I\u2019m worried about right now, but I\u2019m curious.","labels":"Low Urgency"}
+{"text":"Is there a way to change the notification settings on my account? I'm just curious about it and don't need it done right away.","labels":"Low Urgency"}
+{"text":"The software update didn't go as planned. My application is running slower than usual, and I've noticed a lag when I try to open files. What should I do?","labels":"Medium Urgency"}
+{"text":"Is there a way to update my billing information? Whenever you get a chance, just let me know what I need to do.","labels":"Low Urgency"}
+{"text":"Critical error message appears whenever I try to open the software, need immediate assistance to resolve it!","labels":"High Urgency"}
+{"text":"I\u2019m curious about the software update release notes. Where can I find those?","labels":"Low Urgency"}
+{"text":"I'm running into issues with syncing my files between devices. It seems like some files won't update unless I manually refresh, which is a pain.","labels":"Medium Urgency"}
+{"text":"Is there a way to check if my software is up to date? I think it might be, but I'm not in a rush to update it right now.","labels":"Low Urgency"}
+{"text":"I was wondering if there are any updates available for the software I installed last month.","labels":"Low Urgency"}
+{"text":"I was wondering whether there are any tips for improving the battery life on my laptop. It's been draining faster than usual lately but it's still running well.","labels":"Low Urgency"}
+{"text":"Is there a way to recover a deleted email from the last week? I accidentally removed something important, and while it\u2019s not urgent, I\u2019d appreciate any help you can offer.","labels":"Medium Urgency"}
+{"text":"Is there a way to change the font size in my email client? Sometimes the default size makes it hard to read, and I\u2019d love a bit more flexibility there.","labels":"Low Urgency"}
+{"text":"There's a glitch in our reporting tool which sometimes fails to pull the latest data. I think it may be a bug since it worked fine earlier. Can we get this fixed?","labels":"Medium Urgency"}
+{"text":"Can you tell me the difference between the basic and premium plans? I'm considering an upgrade, but I'm not pressed for a decision right now.","labels":"Low Urgency"}
+{"text":"I'm unable to generate reports because the system keeps timing out. I need this resolved immediately for a meeting later today!","labels":"High Urgency"}
+{"text":"My colleague mentioned a new feature in the software. Can you confirm if it\u2019s available yet? I\u2019m curious to check it out when I have some time.","labels":"Low Urgency"}
+{"text":"I've encountered a bug in the latest version of the app that causes it to freeze occasionally. It doesn't crash, but I find myself waiting longer than necessary for it to respond.","labels":"Medium Urgency"}
+{"text":"I was wondering how to reset my password. I can still log in, but I'd prefer to update it. Just want to make sure I follow the correct procedure.","labels":"Medium Urgency"}
+{"text":"I tried restarting the device, but it's still not connecting to the VPN. We have urgent tasks that require remote access!","labels":"High Urgency"}
+{"text":"My laptop is running really slow today, and it seems to freeze occasionally. I wasn't sure if this is something I can troubleshoot myself or if I should reach out for support.","labels":"Medium Urgency"}
+{"text":"Could you provide information about your return policy? I\u2019m just looking to double-check my understanding.","labels":"Low Urgency"}
+{"text":"I noticed that the system is running slow today, especially when trying to access the reports section. It\u2019s not down completely but it\u2019s frustrating trying to get my work done.","labels":"Medium Urgency"}
+{"text":"Since the last update, I'm experiencing some glitches when using certain features of the app. It's not blocking access, but it does hinder efficiency. What should I do?","labels":"Medium Urgency"}
+{"text":"I noticed that the backup process is taking much longer than it usually does, and it's causing delays in my other tasks. Can this be checked?","labels":"Medium Urgency"}
+{"text":"There seems to be a severe malfunction in the payment processing system, which is affecting all transactions. We need this resolved immediately to avoid losing customers!","labels":"High Urgency"}
+{"text":"I'm getting errors trying to access our database, and it's stopping all operations. We need a fix immediately!","labels":"High Urgency"}
+{"text":"I would like assistance with changing my password. I can log in, but I don't remember the last one I set, and I don't want to get locked out.","labels":"Medium Urgency"}
+{"text":"There\u2019s a significant bug in the app that\u2019s preventing users from completing orders. We need to fix this now or we\u2019ll lose sales!","labels":"High Urgency"}
+{"text":"I'm interested in knowing more about the latest features in your software. No rush on the details, just whenever you have a chance.","labels":"Low Urgency"}
+{"text":"The printer isn't connecting properly, and I'm getting frustrated because I have reports due soon. Can you help me troubleshoot this issue?","labels":"Medium Urgency"}
+{"text":"Can you tell me how to access the user manual for the software?","labels":"Low Urgency"}
+{"text":"Can someone explain the new bug tracking system? I think I missed the training, and I don't want to fall behind on my tasks.","labels":"Medium Urgency"}
+{"text":"I received an alert about my account settings being changed, but I didn't initiate that. Can someone verify if my account is secure?","labels":"Medium Urgency"}
+{"text":"I need some help understanding the billing cycle for my subscription. I think I might have missed some details in the emails.","labels":"Low Urgency"}
+{"text":"I tried to run the system update, but now I can\u2019t even get past the login screen\u2014this is urgent because we have clients relying on the system!","labels":"High Urgency"}
+{"text":"There\u2019s a major outage in the payment processing system. Customers are getting frustrated and I need immediate assistance to resolve this!","labels":"High Urgency"}
+{"text":"The network is completely down at our location and it\u2019s crippling our ability to work. I need support on this now!","labels":"High Urgency"}
+{"text":"I can't seem to log into the project management tool. It\u2019s not a full outage, but it's causing delays in my team's workflow, which is quite annoying.","labels":"Medium Urgency"}
+{"text":"What is the best way to contact customer support if I have a question about my order?","labels":"Low Urgency"}
+{"text":"There's an issue with the project management tool; it's not allowing me to update task statuses. I can still access it, but this is slowing down our progress.","labels":"Medium Urgency"}
+{"text":"I\u2019m trying to understand the difference between the basic and premium versions of your software. No rush at all on the response!","labels":"Low Urgency"}
+{"text":"I need some clarification on the subscription renewal date for our service. It's coming up soon, but I think we're in good shape for now.","labels":"Low Urgency"}
+{"text":"Could you help me with a recurring issue? The alerts my software sends out are inconsistent. Sometimes they come through quickly, and other times they\u2019re delayed by hours, which is confusing.","labels":"Medium Urgency"}
+{"text":"My desktop recently started making a weird noise, and while it's not preventing me from working, I\u2019m concerned it might lead to something bigger if I ignore it. What should I do next?","labels":"Medium Urgency"}
+{"text":"Can you help me understand the difference between a modem and a router? I'm trying to make an informed decision.","labels":"Low Urgency"}
+{"text":"My connection to the VPN has been intermittent this morning. It\u2019s affecting my access to some essential files, any tips on troubleshooting?","labels":"Medium Urgency"}
+{"text":"I was wondering if there are any options to customize the dashboard. It would be nice to have some different layouts.","labels":"Low Urgency"}
+{"text":"Critical error: all user accounts seem to be locked. We can't process any transactions. This is an urgent issue!","labels":"High Urgency"}
+{"text":"I can't log into the network, and it's critical for my work. Please resolve this ASAP!","labels":"High Urgency"}
+{"text":"My access to the external database seems restricted since the last update. I need that access to complete my tasks effectively. Can you assist?","labels":"Medium Urgency"}
+{"text":"The server is down, and clients are unable to place orders. This is affecting our sales directly!","labels":"High Urgency"}
+{"text":"My email is not syncing properly. I keep missing important updates, and it's affecting my communication. It's been like this for a few days now.","labels":"Medium Urgency"}
+{"text":"I just need some info about the software update schedule. Is there a site I can check for the latest release notes?","labels":"Low Urgency"}
+{"text":"Is there a way to customize my dashboard layout? I\u2019ve heard it\u2019s possible, but I can\u2019t find the settings for it in my account.","labels":"Low Urgency"}
+{"text":"I'm looking for information on how to set up my email signature. It's not clear from the guide.","labels":"Low Urgency"}
+{"text":"I'm having trouble locating the FAQs on your website. Can you guide me to where they are?","labels":"Low Urgency"}
+{"text":"I've been experiencing inconsistent Wi-Fi connectivity in the office. It's not down completely, but it makes it hard to work efficiently.","labels":"Medium Urgency"}
+{"text":"I noticed some icons in the toolbar are missing after the last update. While I can still use the app, it's frustrating not to have everything available. Any idea how to fix this?","labels":"Medium Urgency"}
+{"text":"I was wondering if you could explain the difference between RAM and ROM in a computer system. I've seen both terms used, but I'm not sure what each one really does.","labels":"Low Urgency"}
+{"text":"I need clarification on the new software update because my current setup seems to be incompatible with some features. I\u2019d like some assistance to sort this out.","labels":"Medium Urgency"}
+{"text":"My access to the shared drive has been spotty. Sometimes I can connect quickly, other times it takes forever, making collaborative work frustrating.","labels":"Medium Urgency"}
+{"text":"Do you have any tips for optimizing battery life on my device? It seems to deplete faster than I expected, and I'm looking for suggestions.","labels":"Low Urgency"}
+{"text":"The last couple of times I've tried to access the customer support portal, it's been really slow. I can still get in, but waiting that long is cutting into my productivity. What can you do about it?","labels":"Medium Urgency"}
+{"text":"Can someone send me the specifications of the latest laptop model? Just trying to compare it with the previous one I have.","labels":"Low Urgency"}
+{"text":"There seem to be some errors popping up on my screen when I try to launch the accounting software. It doesn't crash, but it slows everything down quite a bit.","labels":"Medium Urgency"}
+{"text":"We have a major problem: the main application is not responding, and our team is unable to perform any tasks. Can you prioritize this issue?","labels":"High Urgency"}
+{"text":"I'm getting constant error messages when trying to generate reports which is stopping crucial business operations. This can't wait until tomorrow!","labels":"High Urgency"}
+{"text":"I\u2019d like to know if there are recommended settings for optimizing performance on my workstation, just some tips would be great.","labels":"Low Urgency"}
+{"text":"Hello, I have a question regarding the warranty on my device. When does it expire?","labels":"Low Urgency"}
+{"text":"There\u2019s a problem with my device where it's connecting to Wi-Fi but I can\u2019t access any websites. It\u2019s inconvenient but I can use my mobile data as a workaround.","labels":"Medium Urgency"}
+{"text":"Could you provide me with the user manual for the software? I'm just trying to understand all the features available.","labels":"Low Urgency"}
+{"text":"I just received reports that our database is not syncing correctly, which could lead to data loss. This needs urgent attention before we lose critical customer information!","labels":"High Urgency"}
+{"text":"Is there a way to customize the notification settings? I\u2019m curious, but I\u2019m not in a hurry to change anything right now.","labels":"Low Urgency"}
+{"text":"I cannot access our main database, and it's critical for our project deadline tomorrow. This needs urgent fixing or we could miss everything!","labels":"High Urgency"}
+{"text":"I have a question about how to change my notification settings. I want to make sure I\u2019m not missing anything important, but the settings are confusing.","labels":"Medium Urgency"}
+{"text":"Systems are crashing constantly, and it's causing major disruptions in our operations. What can be done ASAP?","labels":"High Urgency"}
+{"text":"Could you please send me the manual for the printer model 1234? I seem to have misplaced mine and would like to review the setup instructions.","labels":"Low Urgency"}
+{"text":"I can't connect to the VPN, which means I can't work from home. This is critical because we have a deadline looming tomorrow!","labels":"High Urgency"}
+{"text":"Can you help me find the user manual for my older model printer? I'm looking for the troubleshooting section but I can't seem to locate it.","labels":"Low Urgency"}
+{"text":"Is there a way to customize the notifications I receive? I\u2019d like to manage them better.","labels":"Low Urgency"}
+{"text":"What\u2019s the best way to contact support during off-hours? I just want to have the info handy, no immediate issues for now.","labels":"Low Urgency"}
+{"text":"I've been trying to log into my account for the last hour, but I keep getting an error message. This is holding up my work and I can't afford any more delays!","labels":"High Urgency"}
+{"text":"Could you help me with a configuration setting? It's not urgent, but I need to tweak my preferences to enhance my productivity.","labels":"Medium Urgency"}
+{"text":"I'm experiencing frequent pop-ups when using the web app. They\u2019re annoying, and I want to minimize them without losing any functionality.","labels":"Medium Urgency"}
+{"text":"Could you provide me with the operating hours for customer support? I'm just trying to plan my week.","labels":"Low Urgency"}
+{"text":"I\u2019m experiencing intermittent connectivity issues with the VPN. It\u2019s not completely down, but it\u2019s causing some interruptions during video calls. Can someone look into it?","labels":"Medium Urgency"}
+{"text":"There\u2019s a major glitch in the software that\u2019s preventing us from processing orders. If this isn't fixed soon, we will lose business!","labels":"High Urgency"}
+{"text":"Could you point me to resources where I can learn more about using the software effectively? I'm just looking to improve my skills at my own pace.","labels":"Low Urgency"}
+{"text":"The software update is taking longer than expected, is there a way to check if it's stuck or just slow?","labels":"Medium Urgency"}
+{"text":"Could you help me with resetting my password? I tried doing it through the self-service portal, but I didn\u2019t receive the reset email at all.","labels":"Medium Urgency"}
+{"text":"I\u2019m having some trouble connecting to the VPN, and it\u2019s taking longer than usual. I can still access the internet directly, but I really need to use the company network.","labels":"Medium Urgency"}
+{"text":"I just wanted to clarify how the billing cycle works for my subscription. There\u2019s no issue, I just want to understand it better for my records.","labels":"Low Urgency"}
+{"text":"Hey, I just need some help navigating the settings menu. Where can I find the options I need?","labels":"Low Urgency"}
+{"text":"I received an email about an update to the app, but I can't find any details on what changed. Is there a way to get more info about this?","labels":"Medium Urgency"}
+{"text":"I just discovered that our main server crashed, and it's crucial for our customer support operations. We can't afford to be down for long!","labels":"High Urgency"}
+{"text":"There\u2019s a major outage affecting our servers, and clients are unable to access their data. This needs urgent attention!","labels":"High Urgency"}
+{"text":"I want to know if there's a way to integrate your service with my email client. That would really help streamline my workflow.","labels":"Low Urgency"}
+{"text":"I'm having trouble accessing my email account, but I can still use the other applications for now. What could be going on?","labels":"Medium Urgency"}
+{"text":"The printer seems to be making strange noises when I try to print, and it's taking much longer than usual. Can someone help with this?","labels":"Medium Urgency"}
+{"text":"We just discovered a major security vulnerability in our software that could expose us to attacks. This needs immediate attention!","labels":"High Urgency"}
+{"text":"We\u2019re experiencing a network outage affecting all users right now, and we need urgent assistance to restore our operations.","labels":"High Urgency"}
+{"text":"The security features of our platform seem compromised, and it\u2019s critical we address this before any sensitive data is exposed.","labels":"High Urgency"}
+{"text":"Can someone help me with the printer settings? It's printing documents in black and white even though I chose color. I just want to make sure it's set up right before I send out more copies.","labels":"Medium Urgency"}
+{"text":"I'm having some trouble with the printer again; it keeps jamming intermittently during jobs, which is really slowing down our workflow.","labels":"Medium Urgency"}
+{"text":"The database server crashed and we cannot access any customer records which is causing major disruptions. We need immediate assistance to restore the service!","labels":"High Urgency"}
+{"text":"I noticed some old files in the system, could you let me know how to delete them? Just trying to keep things organized!","labels":"Low Urgency"}
+{"text":"Can you send me the latest user manual for the software? I want to familiarize myself with it, but I have some time before I need to implement any changes.","labels":"Low Urgency"}
+{"text":"The new feature in the app isn\u2019t behaving like I expected it to, but I can still access its basic functions. Just thought I\u2019d raise it as it\u2019s a little inconvenient.","labels":"Medium Urgency"}
+{"text":"My antivirus protection showed a warning about a potential threat, but I'm not sure how to address it. Can you provide steps for this?","labels":"Medium Urgency"}
+{"text":"Can someone please help me with the printer setup? It\u2019s working, but I\u2019m unable to connect it to the network properly. It\u2019s a bit annoying as it keeps dropping off.","labels":"Medium Urgency"}
+{"text":"Please escalate this issue; our office network is down completely, and it's affecting all employees' ability to communicate and access files!","labels":"High Urgency"}
+{"text":"I\u2019m looking for some general tips on using the project management tool effectively. I have some time to delve into this next week.","labels":"Low Urgency"}
+{"text":"There's a major bug that prevents users from saving their progress in the app. This is urgent, as it's affecting multiple users!","labels":"High Urgency"}
+{"text":"I've been experiencing some lag while using the software during peak hours. It's not completely unusable, but it definitely affects my work efficiency.","labels":"Medium Urgency"}
+{"text":"I\u2019d like to know if there are any community forums where users discuss tips and tricks. Just exploring options.","labels":"Low Urgency"}
+{"text":"Can I get some guidance on how to integrate the new payment system with our existing setup? I\u2019m worried if I don\u2019t get it right it might cause issues later.","labels":"Medium Urgency"}
+{"text":"The API integration has failed, leading to a halt in our operational workflows. This is affecting multiple departments and requires immediate restoration!","labels":"High Urgency"}
+{"text":"The integration with the payment gateway is acting up; transactions are being delayed. I understand you\u2019re busy, but if you could look into it soon, that would be great.","labels":"Medium Urgency"}
+{"text":"The database query is running slower than usual, which is causing delays in generating the reports I need. It's not completely down, but it is impacting my efficiency. Any thoughts on optimization?","labels":"Medium Urgency"}
+{"text":"I keep forgetting where I left off in the tutorial. Is there a way to pick up where I left off? It's not a big deal, just need a little nudge to get back to it.","labels":"Low Urgency"}
+{"text":"Does anyone know how to check if the software I'm using is up to date? I'm not having major issues, but I want to ensure everything's running smoothly.","labels":"Medium Urgency"}
+{"text":"There\u2019s a major bug in the software that freezes the entire system, and it\u2019s happening to multiple users. We cannot work like this, please escalate this immediately.","labels":"High Urgency"}
+{"text":"There seems to be a problem with the logout function on my account. I can log in fine but it just won't let me log out, which is a bit concerning.","labels":"Medium Urgency"}
+{"text":"I noticed there's an option to customize settings for notifications. Can you explain how that works? No hurry, just curious about it!","labels":"Low Urgency"}
+{"text":"Hey, could you let me know what the system requirements are for the new version? Just want to make sure my setup is compatible.","labels":"Low Urgency"}
+{"text":"Can you clarify what the system requirements are for your application? I just want to make sure my current setup is compatible before I make any changes.","labels":"Low Urgency"}
+{"text":"We have detected a security breach that is compromising sensitive information. Immediate investigation is required!","labels":"High Urgency"}
+{"text":"The application is running slower than usual, and it's really frustrating when I'm trying to meet my deadlines. Can you look into it?","labels":"Medium Urgency"}
+{"text":"Is there a specific time during the day when server maintenance occurs? I just want to plan around it so it doesn\u2019t disrupt my work too much.","labels":"Low Urgency"}
+{"text":"I have a question about the settings for the new software I downloaded. Nothing seems to be broken, I just want to know if I should enable the notifications or not.","labels":"Low Urgency"}
+{"text":"I received an error message when trying to upload documents today, and it's happened a couple of times now. It\u2019s letting me know it\u2019s a size issue, but I\u2019m unsure what the limits are.","labels":"Medium Urgency"}
+{"text":"I'm having some trouble with my email client. It keeps crashing every time I try to send a message, which is really frustrating because I need to communicate with my team.","labels":"Medium Urgency"}
+{"text":"There seems to be a critical issue with the software update; it has caused the application to freeze constantly, preventing any work from being done!","labels":"High Urgency"}
+{"text":"The payment gateway is down, and clients are unable to complete their transactions. This needs urgent attention before we lose sales!","labels":"High Urgency"}
+{"text":"Could you please tell me how to access my previous support tickets? I'm trying to check on a few things I reported last month.","labels":"Low Urgency"}
+{"text":"Users are reporting that they can\u2019t reset their passwords at all, which is causing major frustration and loss of productivity!","labels":"High Urgency"}
+{"text":"Can you tell me how to reset my password? I forgot it again and I keep getting locked out.","labels":"Low Urgency"}
+{"text":"We've lost connection to the main server, and no one can access their files. This is a critical issue for our team, and we need it resolved immediately!","labels":"High Urgency"}
+{"text":"My software keeps crashing intermittently, but only during certain tasks. It's not a full breakdown, but it really slows me down when it happens. Any suggestions?","labels":"Medium Urgency"}
+{"text":"I noticed that the updates for the application have not been installing properly. I keep getting an error message when I try, and it's affecting my workflow a bit.","labels":"Medium Urgency"}
+{"text":"There's a critical bug in the latest update that has rendered the program unusable. We can't afford any downtime!","labels":"High Urgency"}
+{"text":"The application just crashed and none of us can log in to complete our tasks. Can you please help?","labels":"High Urgency"}
+{"text":"I received a notification about a software update, but I'm not sure if I should proceed with installing it right now. What should I do?","labels":"Medium Urgency"}
+{"text":"I can't log into the server and my entire team is stuck without access. This is urgent because we have critical tasks due today!","labels":"High Urgency"}
+{"text":"I was wondering if there's a way to change my profile picture in the app? I've checked the settings but can't find it.","labels":"Low Urgency"}
+{"text":"The new feature for tracking project deadlines isn't showing up on my dashboard. I checked the settings but can't figure out what's wrong. Is this something I need to reinstall?","labels":"Medium Urgency"}
+{"text":"My email isn't syncing properly on my mobile device. It's not an urgent issue, but I need to get it sorted out quickly to avoid missing important updates.","labels":"Medium Urgency"}
+{"text":"I can't seem to update my software from the company portal; it's stuck on 'checking for updates' for the last hour. This is getting a bit frustrating, and I would appreciate assistance.","labels":"Medium Urgency"}
+{"text":"There's an issue with the new software; it's not allowing me to save my changes, which isn\u2019t ideal for my daily reports. I need some guidance on this soon.","labels":"Medium Urgency"}
+{"text":"Can you help me find where to download the latest version of the app? I want to make sure I have all the features that have been released recently.","labels":"Low Urgency"}
+{"text":"I was in the middle of an important presentation when my software crashed. I need immediate assistance to recover my files and get back online!","labels":"High Urgency"}
+{"text":"I can't log into the software and it's showing an error message about server issues. This is halting all our operations!","labels":"High Urgency"}
+{"text":"We\u2019re experiencing significant lag on the network, and it\u2019s causing delays in our work, especially with remote teams. Please assist us to resolve this quickly!","labels":"High Urgency"}
+{"text":"There appears to be a minor issue with the font size in the email client. It's not a critical problem, but it's quite annoying to deal with while working. Any suggestions on how to adjust it?","labels":"Medium Urgency"}
+{"text":"I was wondering if you could help me find the user manual for my older model printer. I've looked online but couldn't find the right version.","labels":"Low Urgency"}
+{"text":"I'm trying to remember how to reset my password for my account. It's been a while, and I can't find the option anywhere. No rush on this, but any guidance would help.","labels":"Low Urgency"}
+{"text":"Users can\u2019t upload files since an update was pushed out this morning. This is a huge problem for our workflow that needs fixing ASAP!","labels":"High Urgency"}
+{"text":"Could I get some help with my calendar syncing issue? It's not a major problem, but my appointments are not showing up correctly, and I want to fix it.","labels":"Medium Urgency"}
+{"text":"I need some information on how to access my account's activity history. It\u2019s not urgent, but I\u2019d like to get it sorted soon.","labels":"Low Urgency"}
+{"text":"We cannot access the inventory system, and this is halting our ability to manage orders effectively. I need assistance urgently to get this back up and running!","labels":"High Urgency"}
+{"text":"I heard that some users are having issues with the latest software version. I haven\u2019t noticed anything major, but I\u2019d like to know if I should prepare for any potential problems.","labels":"Medium Urgency"}
+{"text":"I\u2019ve been trying to understand the billing cycle for our subscription. Could someone point me to where I can find that info?","labels":"Low Urgency"}
+{"text":"There\u2019s an intermittent issue where my application freezes for a few seconds. It happens sporadically, but just enough to be annoying during meetings. What should I do?","labels":"Medium Urgency"}
+{"text":"How do I access the training videos for the software tools? I'm interested in learning at my own pace.","labels":"Low Urgency"}
+{"text":"Hi, I have a question regarding the software update. It says it\u2019s available but I am not sure if I should install it now or wait. Any suggestions?","labels":"Low Urgency"}
+{"text":"I noticed my printer isn't connecting properly, but I think I can figure it out with some help. Any troubleshooting steps you recommend?","labels":"Low Urgency"}
+{"text":"Hey, I'm interested in knowing what the latest features are for the software I downloaded last month. Is there a list somewhere?","labels":"Low Urgency"}
+{"text":"I have a query about the new features added to the software yesterday, but I'm not in a rush to get answers. Just want to keep up with the updates.","labels":"Medium Urgency"}
+{"text":"I noticed that the application isn't syncing with the cloud as it should. While I can still work offline, I\u2019d prefer to have my files updated automatically.","labels":"Medium Urgency"}
+{"text":"I'd like to know if there's a feature to archive old projects. It can get cluttered sometimes, and I want to keep things organized.","labels":"Low Urgency"}
+{"text":"Can you clarify how to use the new analytics tool? I\u2019ve read the user manual but I still find it a bit confusing. Some tips would really help me utilize it better.","labels":"Medium Urgency"}
+{"text":"Could you help me figure out why the software updates are taking so long to download? I've checked my internet speed, and it's fine, but the progress is really slow.","labels":"Medium Urgency"}
+{"text":"Can you tell me how to reset my password? It's been a while since I last accessed my account.","labels":"Low Urgency"}
+{"text":"My email client crashed while trying to sync messages, and now it won't reopen. It would be great if you could walk me through some steps to fix this issue, thanks!","labels":"Medium Urgency"}
+{"text":"Do you have any tips on improving the performance of the application on older devices? It tends to lag sometimes, but it\u2019s still usable.","labels":"Low Urgency"}
+{"text":"There seems to be a glitch in the dashboard where my data isn\u2019t refreshing. I thought it might just be a temporary issue, but it\u2019s been like this for over an hour now.","labels":"Medium Urgency"}
+{"text":"There\u2019s a major bug in the app that\u2019s crashing every user\u2019s device. We need it fixed right now!","labels":"High Urgency"}
+{"text":"I have a question about resetting my password on the account. It\u2019s not urgent, but I\u2019d appreciate any guidance you can offer.","labels":"Low Urgency"}
+{"text":"The central database is offline, which means we can't access any client information. This has to be resolved immediately!","labels":"High Urgency"}
+{"text":"All users are getting error messages when trying to access our internal tool. Can this be fixed ASAP?","labels":"High Urgency"}
+{"text":"I noticed that my internet connection drops occasionally during video calls. It's frustrating because I'm not sure if it's our system or an external issue. Any tips on how to troubleshoot?","labels":"Medium Urgency"}
+{"text":"I noticed some minor lag on the app; it\u2019s not a big deal but I thought I\u2019d check if that\u2019s normal.","labels":"Low Urgency"}
+{"text":"I\u2019ve been getting unexpected pop-ups while using the software, which makes it a bit hard to focus on my tasks. They don\u2019t stop me from working, but they\u2019re quite distracting.","labels":"Medium Urgency"}
+{"text":"I've noticed that my software is crashing occasionally when I try to save files, but it still works most of the time. What should I do?","labels":"Medium Urgency"}
+{"text":"I just discovered that our database is down, and without it, we're unable to access vital information for our clients. Please prioritize this issue!","labels":"High Urgency"}
+{"text":"There\u2019s a new feature in the app that I can\u2019t seem to locate. I\u2019ve looked at the help guide but it\u2019s pretty vague and I just want to know how to use it.","labels":"Medium Urgency"}
+{"text":"Hi, I have an issue where my software crashes every time I try to upload a file. It\u2019s really frustrating because I need to get this done. What can I do?","labels":"Medium Urgency"}
+{"text":"I keep getting this error message when trying to save my project. It doesn't stop me from working, but it's definitely annoying and slows me down.","labels":"Medium Urgency"}
+{"text":"I can't figure out how to enable two-factor authentication on my account. It's probably a simple fix, but I'm not sure where to start.","labels":"Medium Urgency"}
+{"text":"Is there a way to customize the dashboard layout? It feels cluttered to me, and while it's not urgent, I'd love to know how to make it more user-friendly when you have a moment.","labels":"Medium Urgency"}
+{"text":"Can you help me with the error message I keep getting when I try to reset my password? It's not allowing me access, but I can still log into my account.","labels":"Medium Urgency"}
+{"text":"Hey, do you know where I can find the user manual for the software? I seem to have misplaced mine.","labels":"Low Urgency"}
+{"text":"Is there a way to customize my dashboard? I\u2019ve heard there are a few options available, but I can\u2019t seem to find them.","labels":"Low Urgency"}
+{"text":"Just a quick question, what are the steps to reset my router? I don't think it's a major issue, but I'm curious.","labels":"Low Urgency"}
+{"text":"The last software update caused unexpected crashes during peak hours. We can't afford any downtime as it impacts our entire operation, please help!","labels":"High Urgency"}
+{"text":"I'm trying to figure out how to customize my dashboard settings. Is there a guide or tutorial available?","labels":"Low Urgency"}
+{"text":"The email server isn't functioning properly, and several employees can't communicate with clients. This is affecting our business badly!","labels":"High Urgency"}
+{"text":"I'm not sure how to use one of the new features. It's not a critical issue, but I would appreciate guidance on how it can benefit my current tasks.","labels":"Medium Urgency"}
+{"text":"There seems to be a slight lag when I'm using the application. It's not entirely freezing or crashing, but it's noticeable enough that it's affecting my workflow. Can I get some tips on how to improve performance?","labels":"Medium Urgency"}
+{"text":"Our entire team cannot access the main server, which is impacting our project deadlines significantly!","labels":"High Urgency"}
+{"text":"The last software update has caused the entire system to freeze. We're unable to perform any tasks, and need help fixing this before the workday ends!","labels":"High Urgency"}
+{"text":"There seems to be a significant bug in the latest software update that crashes the application. It\u2019s affecting the whole team\u2019s productivity right now!","labels":"High Urgency"}
+{"text":"Users are reporting that they are unable to log in to the system after the latest update. This is unacceptable as it prevents access to essential tools for our daily work.","labels":"High Urgency"}
+{"text":"I'm unable to access a few shared files on the server. While most of my work is fine, this is impacting a few crucial tasks. Could you check on this for me?","labels":"Medium Urgency"}
+{"text":"Critical issue: I'm unable to process any transactions because the payment gateway is not responding. We need someone to fix this ASAP!","labels":"High Urgency"}
+{"text":"Can you help me figure out why the new features in the app aren\u2019t showing up on my screen? It\u2019s crucial for my tasks, but I don\u2019t know if I\u2019ve missed a setting or something.","labels":"Medium Urgency"}
+{"text":"I accidently deleted critical configuration files for our server and now the whole service is down. I\u2019m not sure what to do next, but I need urgent help to restore everything!","labels":"High Urgency"}
+{"text":"The chat support option is down right now, and I can't find help for my issue. It's not urgent but it's making things a bit inconvenient.","labels":"Medium Urgency"}
+{"text":"Our main server is down and employees are unable to access critical applications for their work. This needs urgent attention from IT.","labels":"High Urgency"}
+{"text":"My email notifications aren\u2019t working. I\u2019m receiving emails fine, but I\u2019m missing important alerts about new ones coming in. Can we look into this?","labels":"Medium Urgency"}
+{"text":"Is there a way to find out when my subscription expires? I\u2019d like to be prepared.","labels":"Low Urgency"}
+{"text":"I'm dealing with a major issue where our main application won't launch on any devices. We can't afford to be down any longer than necessary, so please escalate this!","labels":"High Urgency"}
+{"text":"Is there a way to customize notifications in the app? I'm just curious if that's an option.","labels":"Low Urgency"}
+{"text":"Our website is completely down right now, which is resulting in a loss of sales. Please prioritize this issue and let us know when it can be back online!","labels":"High Urgency"}
+{"text":"I was wondering what the best practices are for organizing my email folders. Any tips would be appreciated!","labels":"Low Urgency"}
+{"text":"We\u2019re having issues with the latest software update that\u2019s causing crashes every hour. It\u2019s impacting multiple users, and we need a solution urgently.","labels":"High Urgency"}
+{"text":"I hear there\u2019s an update available for the app. Can someone provide me details about what\u2019s included? No rush, just want to be in the loop.","labels":"Low Urgency"}
+{"text":"Can you remind me how to access the support portal? I haven\u2019t done it in a while and don\u2019t remember the link.","labels":"Low Urgency"}
+{"text":"There\u2019s a complete system failure; all users are locked out, and this is preventing us from working!","labels":"High Urgency"}
+{"text":"The video conferencing tool is glitchy, and while the meetings are still functional, I'm really worried it may impede communication with clients.","labels":"Medium Urgency"}
+{"text":"Could you explain the process for submitting a support ticket? I think I might need to in the future, but I\u2019m not sure how it works.","labels":"Low Urgency"}
+{"text":"Can you explain how the ticketing system works again? I think I missed some details during the last training session, and I want to ensure I'm not messing things up.","labels":"Medium Urgency"}
+{"text":"We're experiencing a significant system outage. The team can't proceed with their tasks until this is resolved. Please prioritize!","labels":"High Urgency"}
+{"text":"We're experiencing a significant outage with the email system, and we have important communications to send out. Please prioritize this issue!","labels":"High Urgency"}
+{"text":"The security system just flagged an unauthorized access attempt, and I'm worried about a breach. Please respond quickly!","labels":"High Urgency"}
+{"text":"We're facing a critical downtime with our payment processing system. Customers are unable to complete purchases, and this is affecting revenue!","labels":"High Urgency"}
+{"text":"There\u2019s a critical error in the application that prevents users from logging in. We've already lost multiple clients because of this issue; can someone please prioritize a fix?","labels":"High Urgency"}
+{"text":"What\u2019s the process for submitting a feature request? I have some ideas I\u2019d like to share with the team.","labels":"Low Urgency"}
+{"text":"Is there a way to check the version number of the application I'm using? Just want to make sure it's up to date.","labels":"Low Urgency"}
+{"text":"Is there a way to access old invoices from my account? I'm not in immediate need, just thought it would be helpful to have them for reference.","labels":"Low Urgency"}
+{"text":"There\u2019s a bug in the reporting tool that creates duplicate entries. I can still generate reports without issue, but it\u2019s a hassle to sort through them manually","labels":"Medium Urgency"}
+{"text":"The production server has crashed, and all users are unable to log in. This is an emergency, and we can't afford any downtime right now!","labels":"High Urgency"}
+{"text":"My network went down suddenly and none of our devices can connect to the internet. We need immediate assistance to restore connectivity or we'll be completely offline.","labels":"High Urgency"}
+{"text":"My entire team is locked out of the system after an update, and we can't perform any of our daily tasks. This needs urgent attention!","labels":"High Urgency"}
+{"text":"I'm having trouble connecting my laptop to the network printer. It was working just fine yesterday, but now it's giving me an error message. Can you help?","labels":"Medium Urgency"}
+{"text":"I would like to know if there are any tutorials available for beginners. I'm new to this software.","labels":"Low Urgency"}
+{"text":"I am facing some intermittent connection issues with the network. It works sometimes, but it drops frequently enough that it disrupts my workflow. Can you help me troubleshoot this?","labels":"Medium Urgency"}
+{"text":"The database is showing errors when I try to access it, and I\u2019m worried about losing important data. Can you escalate this issue?","labels":"High Urgency"}
+{"text":"Just a quick question, does the software support integration with external APIs? I\u2019m exploring options for a project.","labels":"Low Urgency"}
+{"text":"The app sometimes crashes when I'm trying to upload files. It's not a constant issue, but it certainly disrupts my work from time to time. Any suggestions?","labels":"Medium Urgency"}
+{"text":"Could you provide me with information on how to change my account settings? I don\u2019t need it urgently but would like to know how to do it.","labels":"Low Urgency"}
+{"text":"I was wondering if there is a way to customize the dashboard settings in the app. It would be great to have a bit more control over what I see.","labels":"Low Urgency"}
+{"text":"The website is down for maintenance, but it was supposed to be up by now. I have clients waiting and can't afford any more delays!","labels":"High Urgency"}
+{"text":"I noticed that there's a delay in syncing between my desktop and the cloud storage. It isn't critical for my current tasks, but it could become a hassle if it persists. What could be causing this?","labels":"Medium Urgency"}
+{"text":"There's an error message popping up when I try to save my document, but I can still access it after dismissing the message. It\u2019s frustrating but I can continue my work.","labels":"Medium Urgency"}
+{"text":"Just a quick note: I've seen some spelling mistakes in the application interface. It doesn't affect functionality, but it would be nice to correct them.","labels":"Low Urgency"}
+{"text":"My computer has crashed and I can't access any of my files. This is urgent, as I have a project due by the end of the day!","labels":"High Urgency"}
+{"text":"I'm unable to login to the system, and it\u2019s affecting my ability to process orders. Can you please help me ASAP?","labels":"High Urgency"}
+{"text":"Our customer support chat tool isn't functioning at all, leading to a backlog of requests. This directly affects our service levels and needs immediate intervention.","labels":"High Urgency"}
+{"text":"Just a quick question, what's the best way to back up my files on your platform? I want to be sure nothing is lost!","labels":"Low Urgency"}
+{"text":"Help! I can't print any documents since the latest update, and I have important materials to submit today. I don\u2019t know how to fix this myself, so I need urgent assistance!","labels":"High Urgency"}
+{"text":"Could you provide some help with the API documentation? I\u2019m getting errors while trying to integrate it, and it\u2019s making my development work slower than expected.","labels":"Medium Urgency"}
+{"text":"My access to shared folders was denied yesterday, but it seems to be a permissions issue rather than a complete outage. Can you check what's going on with that?","labels":"Medium Urgency"}
+{"text":"There seems to be a system-wide failure affecting all users trying to access the portal. Our team is losing valuable time because of it. Please address this urgently!","labels":"High Urgency"}
+{"text":"I am unable to access my files from the cloud storage service through the app. I can still access them via the website, but it\u2019s not convenient for me.","labels":"Medium Urgency"}
+{"text":"I\u2019d like to know the best practices for using your service effectively. No rush on this, just gathering information.","labels":"Low Urgency"}
+{"text":"Hello, is there a user manual available for the software? I feel like I might be missing some features that others are using.","labels":"Low Urgency"}
+{"text":"The payment system is not working, and I have clients waiting to complete their purchases. This is very urgent!","labels":"High Urgency"}
+{"text":"What are the steps to transfer files from my old tablet to a new one? I have a lot of data, and I'm not sure the best method to do this without losing anything.","labels":"Low Urgency"}
+{"text":"Our website is down, and it's crucial for our daily operations. Customers can't place orders, and we are losing revenue. This needs urgent attention!","labels":"High Urgency"}
+{"text":"The application is throwing an error every time we attempt to run a report, and it's causing major disruptions in our workflow! Can you help ASAP?","labels":"High Urgency"}
+{"text":"The new update has rendered the software unusable for many team members, and we cannot afford to be down during peak hours. Immediate help is essential!","labels":"High Urgency"}
+{"text":"My two-factor authentication code isn\u2019t being sent to my phone, and it\u2019s making it tricky to log into my account, though I can still access it through other means. Any ideas?","labels":"Medium Urgency"}
+{"text":"I've been experiencing slow loading times with the web application since last week. It\u2019s not down, but it certainly is affecting my workflow. Any chance of getting assistance with this?","labels":"Medium Urgency"}
+{"text":"I need clarification on the licensing terms for our software subscription. It\u2019s not urgent, but I want to make sure we\u2019re fully compliant and not missing any renewals.","labels":"Medium Urgency"}
+{"text":"I have a question about our cloud storage limit. I'm not close to exceeding it, but I've noticed some discrepancies in the usage report and would like clarification.","labels":"Medium Urgency"}
+{"text":"My laptop keeps freezing occasionally while I'm working. It's annoying but I can still get my work done. Can I get some tips on how to fix it?","labels":"Medium Urgency"}
+{"text":"I noticed that some features in the latest app version are working differently than before. It\u2019s not a major issue, but I'd like to understand if this is intended or if I should report it. Can you clarify?","labels":"Medium Urgency"}
+{"text":"The application crashed while processing transactions, and now our users can't complete their orders. Can someone look into this right away?","labels":"High Urgency"}
+{"text":"My laptop is stuck on a boot loop, and I have critical presentations to submit by noon. This needs immediate attention!","labels":"High Urgency"}
+{"text":"I\u2019ve just discovered that the email system isn\u2019t sending any messages, and this is crucial for our client communications. We need an urgent fix!","labels":"High Urgency"}
+{"text":"I'm looking for some tips on optimizing my system performance. If there are any resources or documents you can point me to, that would be great.","labels":"Low Urgency"}
+{"text":"If I wanted to know the operating hours for tech support, could you let me know? It's not an emergency, just want to plan ahead.","labels":"Low Urgency"}
+{"text":"I am experiencing slow load times on the company website. It's not down, but it makes it hard to get my work done efficiently. Can this be addressed?","labels":"Medium Urgency"}
+{"text":"Our website is down, and customers are starting to complain. We need this fixed ASAP before we lose any sales!","labels":"High Urgency"}
+{"text":"Can you tell me how to change the password on my account?","labels":"Low Urgency"}
+{"text":"Could you help me reset my email password? I've tried a few times, but it keeps telling me that the security question answers are wrong.","labels":"Medium Urgency"}
+{"text":"The system is completely unresponsive, and I can\u2019t access any of my files. This is critical!","labels":"High Urgency"}
+{"text":"There seems to be a problem with the email notifications. Sometimes they don\u2019t arrive until hours later. While it\u2019s not a total dealbreaker, it\u2019s starting to affect my communication with clients.","labels":"Medium Urgency"}
+{"text":"I can no longer access my email on the mobile app. I can still check it on my computer, but this is affecting how quickly I can respond to clients. What might be going wrong?","labels":"Medium Urgency"}
+{"text":"We are experiencing a total outage of the email system across all departments. No one can send or receive emails, and this is critical for our ongoing projects. Please expedite a fix!","labels":"High Urgency"}
+{"text":"Is there a way to access the previous versions of documents in the system? I just want to explore this feature at some point.","labels":"Low Urgency"}
+{"text":"The network is completely down! We need to fix this as it is halting our entire workflow right now!","labels":"High Urgency"}
+{"text":"I'm trying to locate the user manual for my device. Would you be able to send me a link to download it?","labels":"Low Urgency"}
+{"text":"There are persistent crashes happening on the app right now, making it unusable for users. We need a team to address these issues without delay to avoid further frustration.","labels":"High Urgency"}
+{"text":"This is urgent! The server has crashed, and none of our applications are working. We need a technician to address this issue immediately!","labels":"High Urgency"}
+{"text":"My entire team's unable to access the database since this morning, and we have a major client presentation in just a few hours! This has to be fixed now!","labels":"High Urgency"}
+{"text":"I\u2019m unable to log into the VPN, and I have urgent meetings scheduled that require access to internal systems. This must be addressed quickly!","labels":"High Urgency"}
+{"text":"I woke up to find that our website is completely offline. Customers are upset and this is leading to potential loss of sales. Can someone look into this ASAP?","labels":"High Urgency"}
+{"text":"I need to know the steps for resetting my password. It\u2019s been a while since I last did it.","labels":"Low Urgency"}
+{"text":"My internet is down and I need it for a deadline, can you fix it now?","labels":"High Urgency"}
+{"text":"I just found out that all our cloud resources are offline, and we are unable to retrieve any files. This is a big issue for us!","labels":"High Urgency"}
+{"text":"My phone is running out of storage space quickly, and it's starting to affect app performance. I'd love some tips on what I can do to clear up space without losing important data.","labels":"Medium Urgency"}
+{"text":"I have a question about the new features that were added in the last update. I can navigate the application fine, but I want to understand these changes better. Would anyone be able to explain?","labels":"Medium Urgency"}
+{"text":"The API is returning errors, and it's causing our app to malfunction for our customers. We need an urgent fix to avoid losing business!","labels":"High Urgency"}
+{"text":"I tried resetting my password, but now I\u2019m locked out of everything. I need urgent access to my account!","labels":"High Urgency"}
+{"text":"I noticed a typo in the FAQ section of the website. It's a minor issue but might be worth fixing eventually.","labels":"Low Urgency"}
+{"text":"We\u2019re seeing a significant slowdown in our database queries, and it\u2019s affecting our live application. We can't afford this lag during peak hours and require immediate support!","labels":"High Urgency"}
+{"text":"I'm trying to figure out how to integrate our system with another tool. It looks useful, but I'm not in a hurry to do it right now.","labels":"Low Urgency"}
+{"text":"I need to update my billing information, but I can\u2019t locate that section in the account. Can anyone provide some direction?","labels":"Low Urgency"}
+{"text":"Hey, whenever you get a chance, could you send me the link to the online tutorial for the software?","labels":"Low Urgency"}
+{"text":"I've noticed a few FAQs on your website that seem outdated. It's not critical, but it would be good to have them updated when possible.","labels":"Low Urgency"}
+{"text":"I was trying to log into my account and it keeps saying my password is incorrect, even though I am sure it's right. Can you help me reset it?","labels":"Medium Urgency"}
+{"text":"I'm unable to access the company intranet, and this is preventing me from completing my project for the board meeting later today. Please prioritize this issue!","labels":"High Urgency"}
+{"text":"Can you tell me if there are any upcoming webinars on using the new CRM system? I think that could be beneficial for our team.","labels":"Low Urgency"}
+{"text":"Can you tell me if there are any restrictions on file sizes for uploads? Just want to double-check before I try it.","labels":"Low Urgency"}
+{"text":"I have a blue screen error on my laptop every time I start it up. I can\u2019t access my files, and I urgently need them for a meeting tomorrow!","labels":"High Urgency"}
+{"text":"Could you assist me with updating my account settings? I\u2019ve noticed some options are not available, and I'm not sure why that is. Just want to verify everything is as it should be.","labels":"Medium Urgency"}
+{"text":"Could you please send me the user manual for the printer? I need to look up a few things, but it\u2019s not pressing at the moment.","labels":"Low Urgency"}
+{"text":"I can't seem to find the report I saved last week. I know it's there, but the search function doesn't show it. Can someone help me locate it?","labels":"Medium Urgency"}
+{"text":"I would like to know the best practices for maintaining my hardware to avoid any future issues. Is there any documentation available?","labels":"Low Urgency"}
+{"text":"Can you help me with a glitch in the reporting tool that makes it difficult to generate accurate reports? It's not crashing, but I can't seem to find the data I need easily.","labels":"Medium Urgency"}
+{"text":"Do you happen to know where I can find the user manual for the latest product? I would like to look at some troubleshooting sections.","labels":"Low Urgency"}
+{"text":"Can I schedule a time to talk with someone about my account? I just have a few questions but nothing urgent.","labels":"Low Urgency"}
+{"text":"The printer keeps showing an error message, although it still prints intermittently. I\u2019ve already tried restarting it and checking the connections, but it's still acting up.","labels":"Medium Urgency"}
+{"text":"The database has become entirely unresponsive for our team. We\u2019ve tried all troubleshooting steps, but we are at a standstill. This is critical!","labels":"High Urgency"}
+{"text":"Is there a way to check my subscription status online? I\u2019m not really in a rush, just curious if everything is up to date.","labels":"Low Urgency"}
+{"text":"I'm unable to access my account at all, and it's crucial for my work! I need to get in immediately as I've got client meetings scheduled today.","labels":"High Urgency"}
+{"text":"The server went down unexpectedly, and now I can't complete any of my tasks. This downtime is affecting all clients, and we need a fix right now!","labels":"High Urgency"}
+{"text":"I noticed some features in the software that I'm not familiar with. Can you explain what they do?","labels":"Low Urgency"}
+{"text":"An update caused our application to become completely unresponsive. We rely on this software every day, so this needs to be prioritized!","labels":"High Urgency"}
+{"text":"I've noticed that my software is crashing more frequently lately, especially when I'm trying to save my work. It's not completely unusable, but it\u2019s quite alarming.","labels":"Medium Urgency"}
+{"text":"The latest system update has completely disabled our access to customer databases. This is affecting our customer support response times and needs resolution fast!","labels":"High Urgency"}
+{"text":"I was reading through the FAQ section and found some information that seems outdated. Could you clarify if those details are still accurate?","labels":"Low Urgency"}
+{"text":"Users are reporting that they can't reset their passwords because of an error, seriously affecting our security protocols. Please help fast!","labels":"High Urgency"}
+{"text":"We are unable to process payments due to an unexpected system glitch. Customers are frustrated, and we need an urgent fix to avoid losing their trust!","labels":"High Urgency"}
+{"text":"Can you tell me the difference between your basic and premium support plans? I\u2019m considering upgrading but I don\u2019t need an immediate response.","labels":"Low Urgency"}
+{"text":"Multiple users are reporting that they cannot access their email accounts. This is a serious issue as communication is halted. Can you please address this quickly?","labels":"High Urgency"}
+{"text":"My team is unable to access any of the shared documents due to a permissions error. This is halting our progress on the project!","labels":"High Urgency"}
+{"text":"There's a slight glitch in the user interface when I try to switch between different tabs; it's not a major issue but it\u2019s affecting my user experience.","labels":"Medium Urgency"}
+{"text":"I\u2019m trying to access a shared folder, but I keep getting an access denied error. It\u2019s not holding me up completely, but I\u2019d love to gain access soon if possible.","labels":"Medium Urgency"}
+{"text":"I'm getting frequent notifications from the system about low disk space, but I can't seem to clear up enough space. This isn't stopping my work, but it's a nuisance that needs address.","labels":"Medium Urgency"}
+{"text":"I've noticed that my internet connection drops occasionally. It doesn't happen all the time, but it interrupts my video calls every now and then. What can I do about this?","labels":"Medium Urgency"}
+{"text":"Could you explain how to enable notifications on my account? I want to make sure I'm not missing anything important.","labels":"Low Urgency"}
+{"text":"Can you tell me how to change my password again? I seem to have forgotten the steps.","labels":"Low Urgency"}
+{"text":"Quick question: is it possible to change the notification settings on the system? I just want to adjust them a bit to reduce the noise but it's not a pressing issue.","labels":"Low Urgency"}
+{"text":"Could you help me understand how to reset my password? I've forgotten it and just need the steps. Thanks!","labels":"Low Urgency"}
+{"text":"Could you guide me through the steps to reset my password? I can still log in but I'm worried about my account security and want to change it as a precaution.","labels":"Medium Urgency"}
+{"text":"I read somewhere about reducing the load on my CPU; could you recommend any practices? I\u2019m not facing issues right now, just looking for ways to improve performance.","labels":"Low Urgency"}
+{"text":"The application crashed during the presentation call, losing all of my data. I need support to recover this immediately, or I won't be able to present tomorrow!","labels":"High Urgency"}
+{"text":"I can\u2019t seem to find the latest backup files on the cloud service. They were there last week, but now it's empty. I might need help recovering them if possible.","labels":"Medium Urgency"}
+{"text":"There\u2019s a bug in the latest version of the app that\u2019s making it hard to navigate; it\u2019s not a showstopper, but it would be great if it could be addressed soon.","labels":"Medium Urgency"}
+{"text":"I'm experiencing a total service failure on my platform and it's impacting customer transactions. This needs immediate attention!","labels":"High Urgency"}
+{"text":"I have been trying to integrate the new plugin, but I'm running into some compatibility issues. It's not preventing me from using the software, but I need it sorted out soon.","labels":"Medium Urgency"}
+{"text":"My browser keeps crashing when I try to upload files to the server. It's quite annoying because I'm in the middle of a project, and I need to submit it soon.","labels":"Medium Urgency"}
+{"text":"There\u2019s a critical bug preventing the software from launching. Every attempt fails, and we need access urgently!","labels":"High Urgency"}
+{"text":"Can you tell me how to change my password? It's not urgent but I need to do it soon.","labels":"Low Urgency"}
+{"text":"I've noticed that the app sometimes crashes when I'm switching between tabs. It's not a huge issue, but it's a bit annoying.","labels":"Low Urgency"}
+{"text":"The software just crashed during a critical presentation, and I lost everything I've been working on for weeks. This is a major problem!","labels":"High Urgency"}
+{"text":"I cannot log into the system at all, and our entire team relies on it for daily operations. This is a critical situation!","labels":"High Urgency"}
+{"text":"I am interested in learning how to backup my files using your service. Can you point me in the right direction? No rush!","labels":"Low Urgency"}
+{"text":"Could you please provide the steps to switch my account to a different plan? No rush on this, just when you have a moment.","labels":"Low Urgency"}
+{"text":"The data syncing between devices seems to be lagging quite a bit lately. It\u2019s not ground-breaking, but it\u2019s creating some confusion for me at work. Can you look into this?","labels":"Medium Urgency"}
+{"text":"I\u2019d like to inquire about the pricing plans available for your services. I\u2019m just gathering information to decide what fits best.","labels":"Low Urgency"}
+{"text":"My email\u2019s been acting weird lately. I can send messages, but I can\u2019t open any attachments. It\u2019s super frustrating, especially since I have a deadline looming!","labels":"Medium Urgency"}
+{"text":"The website is down and it\u2019s a holiday sales weekend. We\u2019re losing significant revenue as customers can\u2019t make purchases! Please help!","labels":"High Urgency"}
+{"text":"I just got a notification that our security system has failed, which puts sensitive data at risk. This situation can't wait; we must get this resolved today!","labels":"High Urgency"}
+{"text":"I noticed that the FAQ section on the support site is missing some key troubleshooting steps for the setup process. It would help users a lot if this could be updated soon.","labels":"Medium Urgency"}
+{"text":"I\u2019m experiencing a delay in responses from our database queries. It isn\u2019t completely down, but the performance is noticeably worse than usual. What could be the cause?","labels":"Medium Urgency"}
+{"text":"Could you guide me on how to update my billing information? I want to ensure everything is current before my next payment.","labels":"Medium Urgency"}
+{"text":"I was wondering if there's a guide for setting up email notifications in the app. It would really help me keep track of things better.","labels":"Low Urgency"}
+{"text":"Could you help me with the printer? It's not responding, and I've tried restarting it, but it still won't connect to the network properly.","labels":"Medium Urgency"}
+{"text":"Could you let me know if there's a way to reset my password without calling support? I prefer handling it online.","labels":"Low Urgency"}
+{"text":"If my device is running a bit slow, what are some basic troubleshooting steps I can take before contacting support?","labels":"Low Urgency"}
+{"text":"I'm trying to locate the user manual for my product, but I can't find it online. Any suggestions?","labels":"Low Urgency"}
+{"text":"Hey team, I need to know what the procedure is for submitting a request for additional software licenses. Is there a specific form I need to fill out?","labels":"Low Urgency"}
+{"text":"We are encountering a major bug in the software that\u2019s causing it to crash every time we try to save our work. This issue is critical since it impacts productivity across the board.","labels":"High Urgency"}
+{"text":"I've been trying to make payments for the last hour, but the system keeps giving me a server error. This doesn\u2019t work for our tight deadline!","labels":"High Urgency"}
+{"text":"I\u2019ve been trying to figure out how to integrate your tool with my existing CRM. If you could send me some documentation or links, that\u2019d be great!","labels":"Low Urgency"}
+{"text":"I accidentally removed a plugin from my setup and I'm not sure how to reinstall it. It\u2019s not urgent, but I\u2019d like to have it back for better functionality.","labels":"Medium Urgency"}
+{"text":"Our main server is down and everyone is unable to access their accounts. We need immediate assistance!","labels":"High Urgency"}
+{"text":"The application crashed while I was in the middle of submitting a project. I'm worried about losing all my data and need help fixing this ASAP!","labels":"High Urgency"}
+{"text":"I am getting a 500 error when trying to process transactions, which means we can't serve our customers. We need urgent assistance to resolve this issue now!","labels":"High Urgency"}
+{"text":"I noticed my account has been charged incorrectly for a subscription. It's not urgent, but I'd like to sort it out before my next payment.","labels":"Medium Urgency"}
+{"text":"Quick question, how can I change my profile picture in the app? Can't seem to find the option.","labels":"Low Urgency"}
+{"text":"Can you explain how to enable two-factor authentication? I want to make sure my account is secure, but I'm not in a hurry to set it up.","labels":"Low Urgency"}
+{"text":"I need assistance in resetting my password for the account, it's not sending me the recovery email, which is kind of a hassle.","labels":"Medium Urgency"}
+{"text":"The printer in the conference room isn't responding right now. It seems to be offline, but I can't tell if it's a network issue or something wrong with the device itself. Can you help me determine what's going on?","labels":"Medium Urgency"}
+{"text":"The network speed has been slow lately which is making it a bit difficult to work efficiently, but I'm not completely down. What's causing this?","labels":"Medium Urgency"}
+{"text":"I can\u2019t log into the system at all! Every time I try, it just gives me an error. This has been going on for two hours, and it\u2019s completely halting my workflow.","labels":"High Urgency"}
+{"text":"Can you help me with the software update? It's taking longer than expected and I\u2019m not sure if it\u2019s worth waiting for it to finish.","labels":"Medium Urgency"}
+{"text":"I received a notification that the database is corrupted, and we can't retrieve any data. We need swift resolution here!","labels":"High Urgency"}
+{"text":"Our main server is down, and it\u2019s affecting all users. We need an urgent fix to restore services as it\u2019s impacting our clients' access.","labels":"High Urgency"}
+{"text":"Could you confirm if our storage limits have changed? I read something about it in an email but I want to make sure I understand correctly.","labels":"Low Urgency"}
+{"text":"Can you tell me what the process is for submitting a ticket? I\u2019m not sure how that works and would like to know before I need to use it.","labels":"Low Urgency"}
+{"text":"I\u2019d like to know if there are any tips for optimizing performance on older machines. It\u2019s not critical, but I think it might help some users.","labels":"Low Urgency"}
+{"text":"Could you provide some tips on how to improve the battery life of my smartphone? It seems to drain pretty quickly during the day, and I'd like to make some adjustments.","labels":"Low Urgency"}
+{"text":"I need to know how to reset my password for the user portal. It's not urgent, but I would like to access my account without too much delay. Thanks for your help!","labels":"Medium Urgency"}
+{"text":"I'm having some trouble with my email client; it's sending messages but not receiving any. Can someone help me sort this out?","labels":"Medium Urgency"}
+{"text":"The payment processing system has been down for over an hour, and we\u2019ve lost several customer transactions. This is critical and needs immediate attention!","labels":"High Urgency"}
+{"text":"Could you help me reset my password? I remember it but I think there's a glitch because it's not letting me log in.","labels":"Medium Urgency"}
+{"text":"I'm experiencing some lag while trying to upload files to the server, it's making my workflow a bit frustrating.","labels":"Medium Urgency"}
+{"text":"I can't send any emails from my company account, and I have important communications pending. This needs to be resolved fast!","labels":"High Urgency"}
+{"text":"I've run into some issues with syncing my files across devices; it\u2019s not urgent, but I would like it resolved before my next project starts.","labels":"Medium Urgency"}
+{"text":"Our entire team is unable to access the network since the outage occurred this morning. It\u2019s affecting all our work!","labels":"High Urgency"}
+{"text":"I'm looking to know how to reset my password, but there's no rush. I can wait until later for assistance if necessary.","labels":"Low Urgency"}
+{"text":"I keep seeing notifications about updates. Can you explain how often I should be checking for these?","labels":"Low Urgency"}
+{"text":"When I try to log in to my account, it takes quite a while before it actually lets me in. Is there a way to speed this up? My tasks are getting delayed because of it.","labels":"Medium Urgency"}
+{"text":"I'm unable to access the main server, and it's affecting every user in the office. This needs immediate attention!","labels":"High Urgency"}
+{"text":"I would like to know if there\u2019s a way to customize my notifications in the app. It\u2019s a bit noisy with all the alerts coming through, but I'm not sure how to adjust them.","labels":"Medium Urgency"}
+{"text":"I can't log into the system at all. It keeps giving me a server error, and I need to process orders immediately!","labels":"High Urgency"}
+{"text":"I need to know if there\u2019s a way to recover accidentally deleted files from my shared drive. It\u2019s not urgent, but I\u2019d like to sort it out before the end of the week.","labels":"Medium Urgency"}
+{"text":"What\u2019s the best way to contact support for minor questions? I prefer email but wonder if there\u2019s a quicker method.","labels":"Low Urgency"}
+{"text":"Our email service is down, and that\u2019s affecting all internal and client communications\u2014please prioritize this issue!","labels":"High Urgency"}
+{"text":"I've been experiencing frequent lag during video calls, which makes it hard to communicate effectively. What steps can I take to improve the connection?","labels":"Medium Urgency"}
+{"text":"We are getting reports that users cannot access the dashboard, and this is affecting our operations. Please prioritize this issue!","labels":"High Urgency"}
+{"text":"I have an issue where my screen keeps flickering when I open certain applications. It\u2019s manageable now but it\u2019s definitely getting annoying since I rely on those apps.","labels":"Medium Urgency"}
+{"text":"I'm trying to sync my calendar with my phone but it's not updating. I haven\u2019t lost any information, but I need this to work properly for scheduling.","labels":"Medium Urgency"}
+{"text":"The printer keeps giving me a paper jam error, but I can tell it\u2019s not actually jammed. It's slowing down our printing tasks, but we can still function in the meantime.","labels":"Medium Urgency"}
+{"text":"I noticed that my computer is running slower after the last update. It's not completely unusable, but it's definitely frustrating. Any suggestions on how to speed it up?","labels":"Medium Urgency"}
+{"text":"I can't connect to the VPN, and I have several important client meetings scheduled for today. This issue needs urgent fixing!","labels":"High Urgency"}
+{"text":"We've lost connectivity to the VPN, which is essential for accessing remote work resources. This issue needs urgent attention as it's disrupting all remote operations.","labels":"High Urgency"}
+{"text":"We\u2019re experiencing a network outage that affects multiple departments, and we need immediate help to restore it. This is affecting our operations!","labels":"High Urgency"}
+{"text":"I have users reporting that they are unable to connect to the database. It's critical for our operations, please assist urgently!","labels":"High Urgency"}
+{"text":"I'm having an issue with the software update; it keeps failing. It's not stopping me from working, but it's making it frustrating to deal with every time I start my computer.","labels":"Medium Urgency"}
+{"text":"Hi, can someone explain how to change the default language in the software? It seems a bit tricky, thanks!","labels":"Low Urgency"}
+{"text":"Just a quick question, is there a feature that allows scheduled reports? I have some ideas for work but can\u2019t find it in the dashboard.","labels":"Low Urgency"}
+{"text":"I'm having trouble connecting my device to the VPN. It keeps disconnecting intermittently and I can't seem to access my files. Can you help me?","labels":"Medium Urgency"}
+{"text":"There is a major bug causing the application to crash every time I try to run a report. This needs to be fixed ASAP because it affects all users!","labels":"High Urgency"}
+{"text":"The software freeze every time I try to export my data for reporting, which is due tomorrow, and I really need this resolved quickly.","labels":"High Urgency"}
+{"text":"I'm unable to view certain features that I was using before the last update. It works in some areas but not everywhere. Can you take a look?","labels":"Medium Urgency"}
+{"text":"I was wondering about the best way to back up my files. Is there a recommended process?","labels":"Low Urgency"}
+{"text":"The software update caused several major bugs that have rendered our platform unusable. This is urgent and cannot wait!","labels":"High Urgency"}
+{"text":"Quick question, how do I access the help center? I can\u2019t seem to find the link anywhere on the website.","labels":"Low Urgency"}
+{"text":"My profile picture won't update, and it\u2019s been stuck for days. It\u2019s not a major issue, but I\u2019d like it fixed when possible.","labels":"Medium Urgency"}
+{"text":"The application just went offline during a major client presentation, and we can't seem to get it back up. This is a high-stakes situation that needs immediate resolution!","labels":"High Urgency"}
+{"text":"I noticed an option for feedback in the app. Is there a specific format we're supposed to follow when submitting suggestions?","labels":"Low Urgency"}
+{"text":"The website is not loading for any of our clients, and we are losing sales as a result. This needs to be fixed right away; we can't afford to be offline!","labels":"High Urgency"}
+{"text":"What are the steps to clear the cache on my browser? I don\u2019t need to do it right away but would like to know how.","labels":"Low Urgency"}
+{"text":"I\u2019ve noticed a lack of clarity in the FAQ section regarding payment methods. It doesn\u2019t affect my current use, but it could be helpful for new users.","labels":"Low Urgency"}
+{"text":"I'm having trouble syncing my files across devices. It used to work seamlessly, and now I have to manually upload to each one, which is really slowing down my workflow.","labels":"Medium Urgency"}
+{"text":"I'm experiencing some inconsistencies in the data syncing across my devices. It's not enough to stop me from working, but it's definitely making things inconvenient.","labels":"Medium Urgency"}
+{"text":"Our entire team is unable to access the cloud service since this morning; this is impacting our project deadlines!","labels":"High Urgency"}
+{"text":"I was wondering if there's an option to change my profile picture in the app. It's not clear to me, thanks!","labels":"Low Urgency"}
+{"text":"I'm curious about the differences between your various service plans. When you have a moment, could you send me some details? That would be really helpful.","labels":"Low Urgency"}
+{"text":"I've noticed that the application crashes occasionally when I'm trying to access the reports section, it's not completely unusable but pretty annoying.","labels":"Medium Urgency"}
+{"text":"There\u2019s a bug in the main application that crashes it when we try to update any records. We depend on this tool for daily operations!","labels":"High Urgency"}
+{"text":"I was wondering how to reset my printer settings, any guidance would be appreciated!","labels":"Low Urgency"}
+{"text":"Can you provide instructions for how to reset my password? I can't remember it, but I can still log in to my other accounts just fine.","labels":"Medium Urgency"}
+{"text":"My internet connection is dropping intermittently, which makes it hard to work effectively. I don't think it's a total outage, but it's really affecting my productivity. What should I check?","labels":"Medium Urgency"}
+{"text":"I can\u2019t print anything from my workstation, and our printing needs are critical for the presentations scheduled today. We need this sorted out before noon!","labels":"High Urgency"}
+{"text":"There\u2019s a major bug in the latest update that prevents users from accessing project files. This could severely impact our deadlines if it\u2019s not fixed soon!","labels":"High Urgency"}
+{"text":"Our main server is offline, which is halting all operations here. This is extremely urgent as we are losing business!","labels":"High Urgency"}
+{"text":"The mobile app keeps crashing whenever I try to open it. This is causing delays in my tasks, and I need it running smoothly for my workflow.","labels":"Medium Urgency"}
+{"text":"Is there a guide on how to customize the settings of the application? I want to adjust some preferences but I'm not sure where to look.","labels":"Low Urgency"}
+{"text":"Why is the website displaying a 500 error? It\u2019s been down for over an hour and customers are getting really frustrated. This needs urgent attention!","labels":"High Urgency"}
+{"text":"I noticed that the email server went down, and no one is receiving important updates. We depend on this for communication with clients, it needs fixing immediately.","labels":"High Urgency"}
+{"text":"I'm having trouble connecting my printer to the Wi-Fi network. It was working before and now it just won't print anything!","labels":"Medium Urgency"}
+{"text":"I'm unable to submit any tickets from the support portal because of a 500 error. This issue needs to be resolved immediately to keep our workflow intact!","labels":"High Urgency"}
+{"text":"My email notifications are delayed by several hours, which is causing me to miss important updates. This is pretty annoying!","labels":"Medium Urgency"}
+{"text":"My application crashed during the data entry process, and I can't retrieve any of the saved information. This is urgent!","labels":"High Urgency"}
+{"text":"I have a small question regarding the color options available for the new device, when you have a moment?","labels":"Low Urgency"}
+{"text":"I have a question about the permissions settings on my shared drive. I want to make sure my team has the right access, but I could use some clarification on how to check it. What do I do?","labels":"Medium Urgency"}
+{"text":"Do we have any guidelines on how to submit a ticket for enhancement requests? I have a few suggestions, but it's not critical.","labels":"Medium Urgency"}
+{"text":"Could you tell me what the monthly subscription plan includes? I want to make sure I'm getting all the features I need.","labels":"Low Urgency"}

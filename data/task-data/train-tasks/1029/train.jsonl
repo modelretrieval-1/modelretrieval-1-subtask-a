@@ -1,0 +1,800 @@
+{"text":"Hey, I want to buy this phone case but not sure if it fits my model. Can you help me figure that out?","labels":"Product Inquiry"}
+{"text":"Wow, I'm so impressed! This product makes my life so much easier. I'm telling all my friends about it!","labels":"Positive Feedback"}
+{"text":"Could you give me details on the color options available for this dress? I have a particular shade in mind before I commit to buying.","labels":"Product Inquiry"}
+{"text":"So disappointed! The book I ordered arrived with a torn cover and pages were wrinkled. I don't think I can read this now.","labels":"Negative Feedback"}
+{"text":"I used this skincare product for a month, and my skin feels incredible! It's glowing, and I've noticed a significant reduction in blemishes. So pleased with this find!","labels":"Positive Feedback"}
+{"text":"The coffee maker leaks every time I use it. I followed all the instructions, but it\u2019s making a mess on my counter.","labels":"Negative Feedback"}
+{"text":"Just wanted to say thank you for the incredible customer service. The item I purchased was fantastic, and the team was very helpful when I had a question!","labels":"Positive Feedback"}
+{"text":"My new sneakers are not only stylish but super comfy! I've already received so many compliments. Can't wait to wear them everywhere!","labels":"Positive Feedback"}
+{"text":"I'm trying to figure out how to use the new coffee maker I bought, but the guide is unclear. Can anyone provide tips or support?","labels":"Request for Support"}
+{"text":"I was really disappointed with the condition of the item I received. The packaging was damaged and it seems like the product was previously used.","labels":"Negative Feedback"}
+{"text":"I was super excited about this gadget, but it stopped working after two uses. I feel ripped off!","labels":"Negative Feedback"}
+{"text":"I'm having trouble resetting my account password, and I haven't received the reset email. Could someone assist me with this?","labels":"Request for Support"}
+{"text":"Wow, the delivery was faster than I expected! The product was exactly as described and works wonderfully. I'm really satisfied with my shopping experience!","labels":"Positive Feedback"}
+{"text":"I was really looking forward to this item based on the reviews, but it did not live up to expectations at all.","labels":"Negative Feedback"}
+{"text":"I was browsing through your website and I'm curious if you have any bundle deals for this item. Are there discounts for purchasing multiple?","labels":"Product Inquiry"}
+{"text":"I received my blender, but the instruction manual was missing! How can I get a new one? Thanks!","labels":"Request for Support"}
+{"text":"Can someone confirm if the size chart for these shoes is accurate? I usually wear a size 10.5 but am worried about the fit.","labels":"Product Inquiry"}
+{"text":"I recently purchased a table lamp, and I want to know if there are different light settings or just one?","labels":"Product Inquiry"}
+{"text":"I am really interested in this item but what are the dimensions? I want to make sure it fits in my space before I order.","labels":"Product Inquiry"}
+{"text":"Had a small issue with my initial order but the customer service was super helpful and resolved it quickly. Plus, the product is fantastic!","labels":"Positive Feedback"}
+{"text":"I ordered a set of kitchen knives, but one arrived damaged. Can you arrange a replacement for me?","labels":"Request for Support"}
+{"text":"I'm curious about the battery life of this device. How long does it usually last with regular use?","labels":"Product Inquiry"}
+{"text":"Excuse me, is there a way to track my order for this particular gaming console?","labels":"Product Inquiry"}
+{"text":"Can you tell me if this shirt is available in a size small?","labels":"Product Inquiry"}
+{"text":"I read that this blender can crush ice, but does it have a setting for smoothies specifically?","labels":"Product Inquiry"}
+{"text":"The blender I bought is making a weird noise when I use it. Is this normal or should it be checked?","labels":"Request for Support"}
+{"text":"I\u2019ve been trying to contact customer service about my refund, but I haven\u2019t heard back. Does anyone know how to expedite this?","labels":"Request for Support"}
+{"text":"Could you provide me with the dimensions of this rug? I'm trying to find the right size for my living room.","labels":"Product Inquiry"}
+{"text":"I'm looking at this gadget, but I can't find any user reviews. Can someone help me with that?","labels":"Product Inquiry"}
+{"text":"Can you tell me what the warranty is on this item?","labels":"Product Inquiry"}
+{"text":"I bought these headphones last week, and wow, the sound quality is amazing! They also fit perfectly, which is a plus for long listening sessions. Totally worth it!","labels":"Positive Feedback"}
+{"text":"Not happy with this blender. It leaks every time I try to use it, and I've only had it for a week!","labels":"Negative Feedback"}
+{"text":"Could you confirm if the tablets are gluten-free? I have dietary restrictions and need to check.","labels":"Product Inquiry"}
+{"text":"What are the dimensions of this table? I need to check if it will fit in my space.","labels":"Product Inquiry"}
+{"text":"I\u2019m thrilled with my purchase! The colors are vibrant, and the fabric feels soft and durable. Can\u2019t wait to wear it out!","labels":"Positive Feedback"}
+{"text":"The customer service was fantastic! They helped me choose the perfect gift for my sister's birthday, and she loved it! I will definitely make this my go-to store for gift shopping.","labels":"Positive Feedback"}
+{"text":"The blender I bought stopped working after just a week of use. What a waste of money! I won't be shopping here again unless this gets sorted out.","labels":"Negative Feedback"}
+{"text":"I\u2019m having issues with setting up my account. Can someone from support reach out to me? I really need assistance!","labels":"Request for Support"}
+{"text":"The battery I bought for my camera is already dead after just one week. Not impressed at all!","labels":"Negative Feedback"}
+{"text":"The item I ordered didn\u2019t fit as expected. What\u2019s the process for exchanges?","labels":"Request for Support"}
+{"text":"Can anyone tell me if this item is available in blue?","labels":"Product Inquiry"}
+{"text":"Do you have any information about the battery life on this laptop? I need it for work.","labels":"Product Inquiry"}
+{"text":"Is it possible to get a sample of this material before purchasing? I've heard great things but need to see it first!","labels":"Product Inquiry"}
+{"text":"The book arrived in perfect condition and the content is even better than I hoped. It has become my go-to resource!","labels":"Positive Feedback"}
+{"text":"I saw the pictures of this product, but I couldn't find the dimensions listed anywhere. Can someone provide those details?","labels":"Product Inquiry"}
+{"text":"The blouse I bought shrank after one wash and now it's unwearable. I can't believe I paid so much for something that didn't last!","labels":"Negative Feedback"}
+{"text":"I\u2019ve tried several times to reset my device, but nothing seems to work. Is there a tech support email I can reach out to?","labels":"Request for Support"}
+{"text":"I\u2019ve been using this skincare line for a month now and my skin has never felt better! The results are amazing, and I love the natural ingredients. Definitely a repeat customer!","labels":"Positive Feedback"}
+{"text":"The customer service was so helpful when I called to ask about my order. The item itself is even better than I imagined. Highly recommend this store!","labels":"Positive Feedback"}
+{"text":"Hi, I saw this shoe online and was wondering if you have it available in size 12?","labels":"Product Inquiry"}
+{"text":"The customer service was fantastic, and my order arrived even faster than I anticipated. This is my new go-to store!","labels":"Positive Feedback"}
+{"text":"Can anyone assist me with figuring out why my return hasn't been processed yet?","labels":"Request for Support"}
+{"text":"I have a question regarding the warranty on the vacuum cleaner I bought last month, it seems like something is off with it. Can you provide the details?","labels":"Request for Support"}
+{"text":"What\u2019s the weight limit on this weight bench? I want to make sure it\u2019s suitable for my needs before ordering.","labels":"Product Inquiry"}
+{"text":"The product I bought is not working as expected. Is there a way to get some assistance with this issue?","labels":"Request for Support"}
+{"text":"I\u2019ve been using this for a week and can totally see a difference! It\u2019s just as described and I\u2019m really pleased with the results.","labels":"Positive Feedback"}
+{"text":"I\u2019m having trouble accessing my account. It\u2019s been locked for some reason. What should I do next?","labels":"Request for Support"}
+{"text":"The delivery took way too long. I had to wait over two weeks for my order, and it was supposed to be here in 5 days.","labels":"Negative Feedback"}
+{"text":"The customer service was top-notch. They helped me pick the perfect item for my needs and it arrived quickly and in great condition. Highly recommend!","labels":"Positive Feedback"}
+{"text":"Can someone guide me on how to use the promo code I received in my email? It doesn't seem to work at checkout and I want to ensure I'm applying it correctly.","labels":"Request for Support"}
+{"text":"I followed the washing instructions, but the shirt shrank to half its size! This is the last time I buy clothes online without checking the return policy.","labels":"Negative Feedback"}
+{"text":"After I received my new shoes, I noticed a small tear in the fabric. Is there a way to get a replacement?","labels":"Request for Support"}
+{"text":"I accidentally ordered two of the same item instead of one. How can I cancel one of them? I need help!","labels":"Request for Support"}
+{"text":"I followed all the setup instructions for my new gadget, but it still won\u2019t connect. Can you guide me through troubleshooting?","labels":"Request for Support"}
+{"text":"I was wondering what materials are used in this jacket? It looks great but I'm curious about its durability.","labels":"Product Inquiry"}
+{"text":"There\u2019s a issue with my subscription; I was charged twice this month. I need guidance on how to resolve this, please!","labels":"Request for Support"}
+{"text":"Absolutely love this product! It works just as described, and I've already noticed a difference in my daily routine. Highly recommend!","labels":"Positive Feedback"}
+{"text":"I tried to redeem a promo code at checkout but it keeps saying it's invalid. I would appreciate your assistance with this.","labels":"Request for Support"}
+{"text":"I saw a blender on sale last week, but now I can't find it. Does anyone know if it\u2019s still available?","labels":"Product Inquiry"}
+{"text":"Can someone guide me on how to change my shipping address for an ongoing order? I realized I input the wrong one.","labels":"Request for Support"}
+{"text":"This is hands down the best purchase I\u2019ve made this year. The quality is top-notch, and it looks fantastic in my living room.","labels":"Positive Feedback"}
+{"text":"I was really hoping for a high-quality product, but what I received looks cheap and poorly made. Definitely not worth it.","labels":"Negative Feedback"}
+{"text":"I had high hopes for that skincare product, but it broke me out instead of improving my skin. What a waste of money!","labels":"Negative Feedback"}
+{"text":"Could you clarify the return policy for this product? I want to understand it better before making a purchase.","labels":"Product Inquiry"}
+{"text":"Do you have any specifications on the battery life of the smartwatch? I'm particularly interested in how long it lasts on a single charge.","labels":"Product Inquiry"}
+{"text":"I ordered the wrong size and tried to initiate a return, but the process was so complicated it\u2019s not even worth it anymore.","labels":"Negative Feedback"}
+{"text":"I received my order late and the customer service was unhelpful when I tried to get information about my shipment. Totally unacceptable!","labels":"Negative Feedback"}
+{"text":"The charger I purchased doesn't fit properly; could you let me know if there's a compatible one?","labels":"Request for Support"}
+{"text":"I\u2019m really impressed with the level of detail in the packaging. It felt like I was opening a gift! The item itself is high-quality and exactly what I needed.","labels":"Positive Feedback"}
+{"text":"I ordered a pair of shoes and they were the wrong size. I've tried contacting customer service but I'm getting no reply!","labels":"Negative Feedback"}
+{"text":"I bought this product a week ago and it started malfunctioning. Can someone help me figure out what\u2019s wrong?","labels":"Request for Support"}
+{"text":"Just wanted to say thank you for such an amazing shopping experience. Everything went smoothly, and I\u2019m thrilled with my purchase!","labels":"Positive Feedback"}
+{"text":"I was looking for more details on the materials used in this dress, is it polyester or something else?","labels":"Product Inquiry"}
+{"text":"This is the best phone case I've ever owned! It fits perfectly, offers great protection, and I love the color options. Highly recommend!","labels":"Positive Feedback"}
+{"text":"The coffee maker I bought stopped working after just a month of use. I expected more durability for the price I paid!","labels":"Negative Feedback"}
+{"text":"This coffee maker is the best! I've been using it every day, and it brews the perfect cup every time. So worth the investment, and it looks great on my countertop too!","labels":"Positive Feedback"}
+{"text":"I heard that this model has a newer version available, can you confirm?","labels":"Product Inquiry"}
+{"text":"I bought a hair dryer but the motor is so loud that I can't even hear myself think while using it. Totally regret this purchase.","labels":"Negative Feedback"}
+{"text":"Does this gadget support integration with smart home devices? I'm looking for compatibility info before buying.","labels":"Product Inquiry"}
+{"text":"Does this skincare product have any alcohol in the ingredients? I'm trying to avoid alcohol-based products for my sensitive skin.","labels":"Product Inquiry"}
+{"text":"My order hasn't arrived yet, and I'm really worried. I need an update on where it is, please! It's been longer than expected.","labels":"Request for Support"}
+{"text":"Absolutely love this product! It exceeded my expectations and has become an essential part of my daily routine. Highly recommend to anyone considering it!","labels":"Positive Feedback"}
+{"text":"I ordered this blender expecting it to be powerful, but it struggles with anything thicker than a smoothie. Very disappointed!","labels":"Negative Feedback"}
+{"text":"I ordered a pair of shoes two weeks ago and I still haven't received any shipping updates. Can someone please check on that?","labels":"Request for Support"}
+{"text":"I never thought I'd find a skincare product that actually works for my sensitive skin. After just a week, my complexion has improved significantly. Thank you for making such a great product!","labels":"Positive Feedback"}
+{"text":"I saw this item on sale but I am not sure if the promotion is still active. Can you confirm?","labels":"Product Inquiry"}
+{"text":"What is the difference between the standard and deluxe versions of this item?","labels":"Product Inquiry"}
+{"text":"Is this camera compatible with lenses from brand X? I already own a few and I'd like to know before buying.","labels":"Product Inquiry"}
+{"text":"I can't say enough good things about the coffee maker I just got. It brews such rich coffee and the features are just fantastic. Totally satisfied!","labels":"Positive Feedback"}
+{"text":"Just wanted to share my fantastic experience with this service! Everything went smoothly, and I loved how easy it was to navigate the website. Great job!","labels":"Positive Feedback"}
+{"text":"The selection of workout gear is amazing! I found exactly what I needed and the prices were reasonable. Plus, everything arrived on time, which is a big bonus!","labels":"Positive Feedback"}
+{"text":"Is this product compatible with the newer version of the software? I need to know before purchasing.","labels":"Product Inquiry"}
+{"text":"I'm interested in the details about this specific model. Is there a way to compare it with others you have?","labels":"Product Inquiry"}
+{"text":"I ordered a new phone case and it arrived way earlier than expected. It looks fantastic and fits my phone like a glove. Super happy with my purchase!","labels":"Positive Feedback"}
+{"text":"The delivery took way too long, and I had to keep following up with support. This is not the service I expected from you guys.","labels":"Negative Feedback"}
+{"text":"What are the dimensions of this bookshelf? I need it to fit a specific space in my room.","labels":"Product Inquiry"}
+{"text":"I recently purchased a smartwatch, and I'm thrilled with its performance. The battery life is impressive, and the fitness tracking features are super helpful for my workouts.","labels":"Positive Feedback"}
+{"text":"Is there a specific care instruction for this fabric? I really want to keep it looking new for as long as possible.","labels":"Product Inquiry"}
+{"text":"My last purchase didn\u2019t arrive as promised, and I\u2019d like to understand what happened. Any chance you could look into this for me?","labels":"Request for Support"}
+{"text":"I need help accessing the digital download I purchased. It seems like I can't find the link anywhere in my account.","labels":"Request for Support"}
+{"text":"I\u2019m looking at your running shoes, but I\u2019m unsure about the size. Do you have a sizing chart I could reference?","labels":"Product Inquiry"}
+{"text":"I'm curious about the materials used in your yoga mats. Are they eco-friendly?","labels":"Product Inquiry"}
+{"text":"The last order I received was missing items. I tried to contact customer support but couldn\u2019t get through. Very frustrating experience!","labels":"Negative Feedback"}
+{"text":"What is the return policy for this item? I want to make sure I'm covered if it doesn't meet my expectations.","labels":"Product Inquiry"}
+{"text":"I received the wrong color of the dress I ordered. I really wanted the blue one, not the red. How can I go about exchanging it?","labels":"Request for Support"}
+{"text":"Is this phone compatible with my carrier? I don't want to buy it if it won't work with my plan.","labels":"Product Inquiry"}
+{"text":"I saw this jacket online, but is it available in sizes larger than XL? Sometimes sizing runs small so just checking!","labels":"Product Inquiry"}
+{"text":"Could someone please advise me on the return process? I wasn't clear on the steps needed to send this back.","labels":"Request for Support"}
+{"text":"Hi, I want to know if this blender can crush ice effectively or if I should look for a more powerful model.","labels":"Product Inquiry"}
+{"text":"I ordered a pair of shoes and they arrived two weeks late. When they finally got here, they didn't fit at all. Totally disappointed!","labels":"Negative Feedback"}
+{"text":"Is this skincare product suitable for sensitive skin? I'm really cautious about what I put on my face!","labels":"Product Inquiry"}
+{"text":"Can I get more information on the shipping options available for this order?","labels":"Product Inquiry"}
+{"text":"Absolutely love this product! It exceeded my expectations in every way and I can't wait to buy more.","labels":"Positive Feedback"}
+{"text":"Can you provide more details on the warranty for the coffee machine? I\u2019d like to understand what it covers before purchasing.","labels":"Product Inquiry"}
+{"text":"Just realized my order was missing a crucial part. Could you help me figure out how to get that resolved?","labels":"Request for Support"}
+{"text":"I received my order today, but there's a mistake with the size I ordered. Can someone help me with this?","labels":"Request for Support"}
+{"text":"I can't believe how quickly my order arrived! The customer service was also top-notch. I'm really happy with my new phone case.","labels":"Positive Feedback"}
+{"text":"The size guide on your site doesn\u2019t match what I received. Could you clarify this for me?","labels":"Request for Support"}
+{"text":"Great customer service! I had a question about my order and the support team was super quick to respond and help me out. Will definitely shop here again!","labels":"Positive Feedback"}
+{"text":"I had such a delightful experience shopping at this store. The staff were super friendly, and I found exactly what I needed. Can't wait to come back!","labels":"Positive Feedback"}
+{"text":"The customer service was amazing! They answered all my questions and made sure I was happy with my purchase. I really appreciate the personal touch!","labels":"Positive Feedback"}
+{"text":"Hey, does this watch have a water resistance rating? I want to wear it while swimming and need to know how it holds up against water.","labels":"Product Inquiry"}
+{"text":"My blender stopped working after only a week, and I need to know if there\u2019s a way to get it replaced or repaired. Any guidance would be appreciated!","labels":"Request for Support"}
+{"text":"So happy with my purchase! The quality is incredible, and it looks just like the pictures. Will definitely be a returning customer!","labels":"Positive Feedback"}
+{"text":"Is this mat suitable for outdoor use or just for indoor yoga sessions? I need to know before purchasing.","labels":"Product Inquiry"}
+{"text":"Hi, does anyone know if the warranty covers accidental damage? I just want to be sure before purchasing.","labels":"Product Inquiry"}
+{"text":"Wow, just wow! This coffee maker has transformed my mornings. The taste is amazing, and it brews super fast. Totally worth the price!","labels":"Positive Feedback"}
+{"text":"I just received my order, and I couldn't be happier! Everything was exactly as described, and the quality is outstanding. Thank you for such a great experience!","labels":"Positive Feedback"}
+{"text":"Is this electronic item compatible with both iOS and Android devices? I'm planning to use it with my phone.","labels":"Product Inquiry"}
+{"text":"I got the wrong color for the dress I ordered. It\u2019s not even close to what I picked, and now I have to deal with returning it. So disappointing! ","labels":"Negative Feedback"}
+{"text":"Does this brand offer any additional accessories for the camera? I\u2019m hoping to enhance my photography skills.","labels":"Product Inquiry"}
+{"text":"I really appreciate how responsive the team was to my questions before I placed my order. The product is exactly what I was looking for, thanks!","labels":"Positive Feedback"}
+{"text":"I tried to get a refund for the faulty headphones, but the process was so complicated that I gave up. Extremely inconvenient!","labels":"Negative Feedback"}
+{"text":"This is my second purchase from this seller and I couldn't be happier! The quality is fantastic and shipping was super fast. Thank you!","labels":"Positive Feedback"}
+{"text":"Can you tell me if this item is eligible for international shipping?","labels":"Product Inquiry"}
+{"text":"I bought a gift for my friend but I need to change the delivery address. How can I make that happen without having to cancel the order?","labels":"Request for Support"}
+{"text":"Your skincare line has transformed my routine. My skin feels so much healthier and I\u2019ve noticed a real difference. I\u2019m thrilled with the results!","labels":"Positive Feedback"}
+{"text":"It seems like the charger I ordered is faulty. Can you advise on how I can exchange it?","labels":"Request for Support"}
+{"text":"Can you tell me if this backpack is waterproof? I've read mixed reviews and want to make sure before buying it.","labels":"Product Inquiry"}
+{"text":"This dress is nothing like the picture! It\u2019s way too big and the fabric feels cheap. I expected better quality for the price.","labels":"Negative Feedback"}
+{"text":"I\u2019m amazed at how well this blender works. It blends everything so smoothly and is easy to clean. I\u2019m so glad I bought it!","labels":"Positive Feedback"}
+{"text":"The delivery was super fast, and the product exceeded my expectations! The quality is way better than what I had anticipated. Truly impressed!","labels":"Positive Feedback"}
+{"text":"I love your products, but I seem to have an issue with my last purchase. The size I received doesn't match what I ordered. What should I do?","labels":"Request for Support"}
+{"text":"I received a faulty appliance that stopped working within a few days. I just want a refund, but it's been hard to get one.","labels":"Negative Feedback"}
+{"text":"I\u2019ve bought many similar products, but this one is by far the best. It really delivers on its promises!","labels":"Positive Feedback"}
+{"text":"I ordered the Bluetooth headphones and they stopped working after a week! I'm really disappointed because I expected better quality. ","labels":"Negative Feedback"}
+{"text":"Absolutely love this product! It's everything I was hoping for and more. Can't believe how well it works!","labels":"Positive Feedback"}
+{"text":"I\u2019ve been trying to access customer support but I keep getting a busy signal. Is there another way to get in touch?","labels":"Request for Support"}
+{"text":"Is there a way to find out if this item comes in different colors? Because I\u2019m a fan of blue but I don't see it listed here.","labels":"Product Inquiry"}
+{"text":"I had such high hopes for this skincare product, but it made my skin break out worse than before. Not what I was expecting!","labels":"Negative Feedback"}
+{"text":"I really love this item but I can't find the manual. Is there a way to download it online? I need it to set it up properly.","labels":"Request for Support"}
+{"text":"Beware! The electronic gadget I bought stopped working within a week, and the return process is such a hassle. Not happy at all!","labels":"Negative Feedback"}
+{"text":"I love my new blender, but the instruction manual wasn\u2019t included. Is there a way I can get a digital copy?","labels":"Request for Support"}
+{"text":"Could you clarify if this skincare product is cruelty-free? I've been trying to find more ethical brands.","labels":"Product Inquiry"}
+{"text":"I appreciate the quality of your items but the shipping took too long. Is this a common issue?","labels":"Request for Support"}
+{"text":"I placed an order but it seems like it never shipped. Can someone look into this for me?","labels":"Request for Support"}
+{"text":"I noticed the description says 'organic ingredients.' Could you provide a detailed list of what's included?","labels":"Product Inquiry"}
+{"text":"I read in the description that it has a one-year guarantee, but what exactly does that cover?","labels":"Product Inquiry"}
+{"text":"Is it possible to get a sample of this fabric before making a larger purchase? I just want to ensure it's the right match for my project.","labels":"Product Inquiry"}
+{"text":"Is there a way to find out if this item is compatible with my existing setup?","labels":"Product Inquiry"}
+{"text":"Do you have any information on the materials used for this clothing item? I want to make sure it's good for sensitive skin.","labels":"Product Inquiry"}
+{"text":"I\u2019m trying to return a product but I\u2019m not sure about your return policy. Could someone clarify that for me?","labels":"Request for Support"}
+{"text":"I bought the wireless earbuds and they are just brilliant! The sound quality is crisp, and they fit so comfortably. Best purchase I\u2019ve made this year!","labels":"Positive Feedback"}
+{"text":"I ordered a dress for an event and it arrived too late. I ended up missing the occasion, which was just disappointing.","labels":"Negative Feedback"}
+{"text":"I purchased a kitchen appliance that was advertised as being easy to clean, but it's impossible. I'm regretting my purchase and wish I had read the reviews first.","labels":"Negative Feedback"}
+{"text":"I recently purchased a new laptop and I'm thrilled with how well it performs. It\u2019s fast and sleek, just what I needed for my work. Very pleased!","labels":"Positive Feedback"}
+{"text":"Do you have any details about the warranty on this appliance? I'd like to know how long it lasts.","labels":"Product Inquiry"}
+{"text":"The service I received from your team was outstanding. Not only was my order quick, but the follow-up was also fantastic!","labels":"Positive Feedback"}
+{"text":"My order hasn\u2019t arrived yet, and it\u2019s already been a week. Can someone check the status for me?","labels":"Request for Support"}
+{"text":"This has been a game changer for me. The features are fantastic and it's so easy to use. I am very satisfied!","labels":"Positive Feedback"}
+{"text":"I've been using this product for a month now, and it's life-changing! The impact it's had on my workflow is incredible! Thumbs up from me!","labels":"Positive Feedback"}
+{"text":"I need help with a return; the item I received is damaged and I want to understand the process for getting a refund or replacement. Thanks in advance!","labels":"Request for Support"}
+{"text":"I can't believe I wasted my money on this gadget. It broke within a week, and the return process is a nightmare. I'm really frustrated with this purchase.","labels":"Negative Feedback"}
+{"text":"I ordered a product last week, but I haven't received a confirmation email yet. Is there a delay?","labels":"Request for Support"}
+{"text":"I\u2019m having an issue with my subscription plan. It seems like I\u2019ve been charged twice this month. Can someone look into that for me?","labels":"Request for Support"}
+{"text":"I ordered a pair of shoes and they arrived with a huge scratch on them. This is unacceptable for a brand like yours!","labels":"Negative Feedback"}
+{"text":"I thought the online description was clear, but the product turned out to be nothing like what I expected. I'm very let down.","labels":"Negative Feedback"}
+{"text":"I love the product I purchased, but I didn\u2019t receive the warranty information. How can I get that?","labels":"Request for Support"}
+{"text":"I was charged twice for the same purchase. Who should I contact to sort this out?","labels":"Request for Support"}
+{"text":"I ordered this phone case and it arrived just in time. The quality is amazing and it fits my phone perfectly. I can't recommend it enough!","labels":"Positive Feedback"}
+{"text":"Can you tell me if this item comes in different colors?","labels":"Product Inquiry"}
+{"text":"I bought a new laptop but it has a persistent buzzing sound. I tried to troubleshoot, but nothing worked. Feeling let down by this purchase.","labels":"Negative Feedback"}
+{"text":"I bought this coffee maker and it has stopped working after just a month. I can't believe I wasted my money on this!","labels":"Negative Feedback"}
+{"text":"I bought this blender and it started making weird noises just after a week of use. Not happy with my purchase at all.","labels":"Negative Feedback"}
+{"text":"I was really looking forward to using the new coffee maker, but it doesn\u2019t even brew properly. Very frustrating experience.","labels":"Negative Feedback"}
+{"text":"I ordered this last week, and it arrived in perfect condition. The quality is amazing, far better than I expected for the price! I will definitely be buying more soon!","labels":"Positive Feedback"}
+{"text":"Can anyone tell me if this blender comes with a recipe book? I would love to try some new smoothies!","labels":"Product Inquiry"}
+{"text":"Just wanted to say thank you for the amazing customer service! The staff helped me pick out the right size for my shoes, and they\u2019re just perfect!","labels":"Positive Feedback"}
+{"text":"This tablet exceeded my expectations! The display is vibrant and the battery life is fantastic. I\u2019d definitely recommend it to friends looking for a good deal!","labels":"Positive Feedback"}
+{"text":"Does this kitchen appliance include any additional attachments or accessories? I'd like to know before I order.","labels":"Product Inquiry"}
+{"text":"Could you assist me with my refund request? I sent it back last week but haven't heard back yet.","labels":"Request for Support"}
+{"text":"I\u2019ve placed multiple orders and half of them have come late! This last shipment was delayed for over a week and I needed it for an event. Extremely frustrating!","labels":"Negative Feedback"}
+{"text":"The user manual was missing from the package, and I can\u2019t get the product to work. It's really disappointing that I have to deal with this issue.","labels":"Negative Feedback"}
+{"text":"Fantastic experience overall! The website was easy to navigate, and the checkout process was seamless. I\u2019ll definitely shop here again soon!","labels":"Positive Feedback"}
+{"text":"Just wanted to drop a quick note to say how satisfied I am with my recent order. Everything arrived on time and in perfect condition!","labels":"Positive Feedback"}
+{"text":"My gift card isn\u2019t being accepted at checkout, and I have no idea why. Any chance you can help me figure this out?","labels":"Request for Support"}
+{"text":"I can't believe how long it took for my order to arrive. I was told it would be here in three days, but it took more than two weeks!","labels":"Negative Feedback"}
+{"text":"Does this blender have a warranty? I'm considering purchasing but want to be covered if something goes wrong.","labels":"Product Inquiry"}
+{"text":"The product I bought was supposed to come with a warranty, but I can't find the information anywhere. Could someone assist me with that?","labels":"Request for Support"}
+{"text":"Hey, I\u2019m interested in this smartwatch. Does it work with both Android and iOS?","labels":"Product Inquiry"}
+{"text":"I had to return the phone case I ordered because it doesn\u2019t fit my phone model at all! I can\u2019t believe I wasted my time and money on this.","labels":"Negative Feedback"}
+{"text":"I don't understand how this product has good reviews. It broke after using it twice and I can't even get a refund.","labels":"Negative Feedback"}
+{"text":"There\u2019s a missing part in the DIY furniture kit I received. Who do I contact to get the replacement piece?","labels":"Request for Support"}
+{"text":"The product did not match the description at all, it was much smaller than I thought. I won't be buying from this seller again.","labels":"Negative Feedback"}
+{"text":"I noticed this phone model has a few different versions; what are the main differences between them?","labels":"Product Inquiry"}
+{"text":"The quality of this kitchen appliance is top-notch. It works like a charm and has made my cooking experience much easier. Highly recommend!","labels":"Positive Feedback"}
+{"text":"I would like to know if the warranty on my product covers the issues I\u2019m facing. Is there someone I can talk to about this?","labels":"Request for Support"}
+{"text":"I tried contacting support over the faulty item I received, but I haven't heard back. I need help with this!","labels":"Negative Feedback"}
+{"text":"The quality of the item I received is poor. I expected more based on the description, but I'm disappointed.","labels":"Negative Feedback"}
+{"text":"The last pair of shoes I bought was defective; the sole came off after wearing them only twice. This shouldn't happen with a reputable brand! ","labels":"Negative Feedback"}
+{"text":"I'm curious about the warranty for this product. Does it cover damages if I accidentally drop it?","labels":"Product Inquiry"}
+{"text":"The packaging was damaged when it arrived, and the item inside was broken. I can't believe this passed quality checks.","labels":"Negative Feedback"}
+{"text":"Wow, just wow! The book arrived in pristine condition and it was such a captivating read. I finished it in two days! Highly recommend!","labels":"Positive Feedback"}
+{"text":"I can't believe the shirt I received was way smaller than the size chart suggested. Disappointed and frustrated!","labels":"Negative Feedback"}
+{"text":"Every time I shop here, I\u2019m amazed at the selection. The discounts make it even better! Always my go-to place for new clothes.","labels":"Positive Feedback"}
+{"text":"I\u2019m considering purchasing this skincare set but would like to know if there's any scent in the products. Is it suitable for sensitive skin?","labels":"Product Inquiry"}
+{"text":"What are the dimensions of this table? I\u2019m trying to find something that will fit in my small apartment, and I need to be sure.","labels":"Product Inquiry"}
+{"text":"I received my order but the size is wrong. Could you assist me in getting the correct one?","labels":"Request for Support"}
+{"text":"I received the wrong item, and after contacting customer service, I still haven\u2019t heard back. This is frustrating!","labels":"Negative Feedback"}
+{"text":"I ordered a pair of shoes in size 10, but they sent me size 8 instead! Now I have to go through the hassle of returning them.","labels":"Negative Feedback"}
+{"text":"I had some doubts before purchasing this, but it turned out to be the best decision. The quality is unmatched, and I\u2019ve told all my friends about it.","labels":"Positive Feedback"}
+{"text":"I had a wonderful shopping experience! The website was easy to navigate and my order arrived ahead of schedule. Will definitely shop again!","labels":"Positive Feedback"}
+{"text":"I followed the instructions to set up the product, but it just won\u2019t work. This is so annoying, I need help!","labels":"Negative Feedback"}
+{"text":"My experience with your website has been really poor. It kept crashing while I was trying to check out, which made me give up on my purchase.","labels":"Negative Feedback"}
+{"text":"Ordered a set of kitchen tools, and I'm thrilled with the durability and design. It makes cooking so much easier and more enjoyable!","labels":"Positive Feedback"}
+{"text":"I see this product comes with different accessories. Can you tell me which ones are included in the purchase?","labels":"Product Inquiry"}
+{"text":"I reached out for help regarding my faulty blender, but I've yet to receive a reply. It's been over a week!","labels":"Negative Feedback"}
+{"text":"This was my first purchase from them, and it went so smoothly. The item is just as described, and I couldn't be happier!","labels":"Positive Feedback"}
+{"text":"I received my order yesterday, but the item seems to be defective. Can someone assist me with the return process?","labels":"Request for Support"}
+{"text":"This is honestly the best gadget I've ever used. It works flawlessly and has made my life so much easier. Can't imagine living without it now!","labels":"Positive Feedback"}
+{"text":"My package was supposed to arrive last week, but now it's marked as delayed with no updates. What's going on?","labels":"Negative Feedback"}
+{"text":"The quality of this cookware set exceeded my expectations. They cook evenly and clean up like a dream. Definitely a five-star product in my kitchen!","labels":"Positive Feedback"}
+{"text":"I received my shoes in the wrong size, and now I have to deal with a return process that seems overly complicated. Not what I expected when I bought them online.","labels":"Negative Feedback"}
+{"text":"Could you please send me the details on how to track my shipment? I haven\u2019t received any updates yet.","labels":"Request for Support"}
+{"text":"Just wanted to say how happy I am with my recent purchase of the home gym equipment. It has everything I need for my workouts, and it's sturdy. Five stars!","labels":"Positive Feedback"}
+{"text":"The packaging was delightful, and the quality is top-notch! Every detail was well thought out, making it a joy to use!","labels":"Positive Feedback"}
+{"text":"Hey, I noticed a missing item from my package. How can I get it sorted out?","labels":"Request for Support"}
+{"text":"There\u2019s a charge on my credit card that I don\u2019t recognize. Can you please assist with this issue?","labels":"Request for Support"}
+{"text":"I love the look of this appliance, but can someone tell me about the energy efficiency ratings? I want to be eco-friendly in my purchases.","labels":"Product Inquiry"}
+{"text":"The item broke after just one week of use. I thought I was getting a high-quality product, but it's turned out to be total junk. I won't be buying here again.","labels":"Negative Feedback"}
+{"text":"I recently purchased these shoes and I must say, they are incredibly comfortable. I've been getting so many compliments, too!","labels":"Positive Feedback"}
+{"text":"This was my first purchase from this store, and I couldn't be happier! The customer service was exceptional, and the product is top-notch. Thank you!","labels":"Positive Feedback"}
+{"text":"Wow, just wow! The meal kit was so easy to prepare and tasted delicious. I can\u2019t believe how fun cooking is now! Thank you!","labels":"Positive Feedback"}
+{"text":"Hey, I'm looking for details on how to assemble this furniture piece. Is there an instruction manual available online?","labels":"Product Inquiry"}
+{"text":"Hi, I'm curious about the warranty on this laptop. How long is it covered for, and what does it include?","labels":"Product Inquiry"}
+{"text":"I was hesitant at first, but after using this product, I\u2019m really impressed! It works better than described and I can\u2019t get enough of it!","labels":"Positive Feedback"}
+{"text":"I was super excited about this gadget, but it doesn't even work as advertised. I feel like I wasted my money on it.","labels":"Negative Feedback"}
+{"text":"I bought a new blender and it works like a charm! Blends everything smoothly, and I love the different speed settings. Highly recommend!","labels":"Positive Feedback"}
+{"text":"I've been trying to use the coupon I got, but it doesn't seem to work at checkout. What should I do?","labels":"Request for Support"}
+{"text":"The product arrived without some important parts missing, and I can't use it at all! This is unacceptable.","labels":"Negative Feedback"}
+{"text":"I bought a phone case that was advertised as durable, but it cracked after just a few drops. Very disappointed in its quality!","labels":"Negative Feedback"}
+{"text":"I was skeptical at first, but after using this product, I'm a believer! It really does what it claims to do. Highly satisfied!","labels":"Positive Feedback"}
+{"text":"Tried using the product for the first time and it stopped working after just a few minutes. This is not what I expected from such a well-rated brand.","labels":"Negative Feedback"}
+{"text":"The delivery was super fast, and the item was packaged well. I\u2019m really impressed with how effective it is. Will spread the word!","labels":"Positive Feedback"}
+{"text":"Does this shampoo have any sulfates in it? I have sensitive skin and need to be careful with the products I use.","labels":"Product Inquiry"}
+{"text":"I\u2019d like to know if there\u2019s a way to expedite my delivery since it\u2019s been delayed. Help needed!","labels":"Request for Support"}
+{"text":"I received my coffee maker, but it doesn't brew properly... it just drips water instead of actually brewing coffee. Too much hassle! ","labels":"Negative Feedback"}
+{"text":"I ordered a set of kitchen knives, and they arrived sharp and ready to use. The quality is fantastic, and I've already noticed how much easier they make cooking.","labels":"Positive Feedback"}
+{"text":"What a fantastic experience shopping here! The website is easy to navigate, and I found exactly what I needed without hassle. Will be returning for future purchases!","labels":"Positive Feedback"}
+{"text":"I think there's something wrong with the item I bought. It doesn't seem to be working as expected. Need assistance, please!","labels":"Request for Support"}
+{"text":"Just received my order and I'm thrilled! The packaging was secure, and the product is even better than I expected. Will be back for more soon!","labels":"Positive Feedback"}
+{"text":"The product I ordered arrived damaged, and I\u2019m really hoping to get a replacement. Who should I talk to about this?","labels":"Request for Support"}
+{"text":"The best part about this product is how easy it is to use. I\u2019ve recommended it to all my friends and family already!","labels":"Positive Feedback"}
+{"text":"Do you have any information on the battery life of this robotic vacuum? I'm curious how long it lasts on a single charge.","labels":"Product Inquiry"}
+{"text":"I thought the product would be better based on the description, but it's really just a cheap knockoff. Not worth the money at all!","labels":"Negative Feedback"}
+{"text":"The product arrived damaged, and I can\u2019t believe I paid so much for it. Very disappointed!","labels":"Negative Feedback"}
+{"text":"The wireless headphones I bought keep disconnecting and the sound quality is subpar. I'm really not happy with my experience this time.","labels":"Negative Feedback"}
+{"text":"I'm so happy with this purchase! The color is exactly what I wanted, and it matches perfectly with my existing decor. It really brings the room together. Thanks!","labels":"Positive Feedback"}
+{"text":"Can someone tell me if this item comes in different sizes?","labels":"Product Inquiry"}
+{"text":"The delivery was supposed to be today, but I haven\u2019t seen any updates. Can you help me figure out what's happened?","labels":"Request for Support"}
+{"text":"My payment was declined, but I have sufficient funds. Can you help me figure out why this happened?","labels":"Request for Support"}
+{"text":"I saw on another site that this product has a different price. Can anyone explain why? Is it the same item?","labels":"Product Inquiry"}
+{"text":"Hi, I'm facing an issue while trying to check out my order and I keep getting an error message. Any idea on what I should do next?","labels":"Request for Support"}
+{"text":"Absolutely love this dress! The fit is perfect and the fabric feels high quality. I've received so many compliments every time I wear it!","labels":"Positive Feedback"}
+{"text":"I love your products, but I'm having issues with the app on my phone. Is there a way to get some help?","labels":"Request for Support"}
+{"text":"Tried the new skincare product, and wow, my skin feels amazing! I've noticed such a difference in just a few days. I'm hooked!","labels":"Positive Feedback"}
+{"text":"I\u2019m confused about the shipping options available. Can someone help me understand which one would be the fastest for my order?","labels":"Request for Support"}
+{"text":"I bought this skincare set and I can\u2019t stop raving about it. My skin feels amazing, and I\u2019ve noticed such a difference. Highly recommend!","labels":"Positive Feedback"}
+{"text":"I bought a kitchen appliance and it was missing a crucial part. How am I supposed to use it now? Really frustrated right now.","labels":"Negative Feedback"}
+{"text":"I received my order yesterday, and I couldn't be more thrilled! The packaging was secure, and the product is fantastic. Thank you for such a wonderful experience!","labels":"Positive Feedback"}
+{"text":"Could someone explain how the warranty process works? I need to understand my options for a recent purchase.","labels":"Request for Support"}
+{"text":"I noticed some customer reviews mentioned issues with the charging. Is this a common problem, and what should I keep in mind?","labels":"Product Inquiry"}
+{"text":"My order was delayed by over two weeks, and when it finally arrived, part of it was missing. This is not the level of service I expect from your store.","labels":"Negative Feedback"}
+{"text":"This blender is fantastic! I\u2019ve tried many brands before and this one blends smoothies to perfection without any lumps. Super satisfied with my choice!","labels":"Positive Feedback"}
+{"text":"I bought this gadget a week ago, and I have to say, it\u2019s a game-changer for my daily routine. It\u2019s stylish, functional, and durable. 10\/10!","labels":"Positive Feedback"}
+{"text":"The phone case I bought didn\u2019t fit my model properly. I was really looking forward to using it, but now it's useless.","labels":"Negative Feedback"}
+{"text":"This is one of the best purchases I've made all year! The quality and performance are just superior to other brands.","labels":"Positive Feedback"}
+{"text":"Received my order today - the quality is exceptional! I will definitely be shopping here again, thank you for a great product!","labels":"Positive Feedback"}
+{"text":"I\u2019m curious if this skincare cream is vegan and not tested on animals. Could you verify that?","labels":"Product Inquiry"}
+{"text":"The product I received was not at all as described. It looked different and the quality was much poorer than I expected. Not satisfied with my purchase.","labels":"Negative Feedback"}
+{"text":"Can you tell me if this blender is dishwasher safe? I want to make sure I can clean it easily after use.","labels":"Product Inquiry"}
+{"text":"Does this backpack come with a warranty? I want to know if I can return it if it doesn't fit my needs.","labels":"Product Inquiry"}
+{"text":"Fantastic service! I had a small issue with my order, but the customer support was so helpful and resolved it quickly. Really impressed with how they handled my concerns!","labels":"Positive Feedback"}
+{"text":"My recent purchase arrived with a damaged part. I would appreciate some guidance on how to get this resolved quickly.","labels":"Request for Support"}
+{"text":"What kind of battery does this camera use? I'm not sure if I need to buy extra ones. Thank you!","labels":"Product Inquiry"}
+{"text":"Is there a size chart available for this item? I want to make sure I order the right one.","labels":"Product Inquiry"}
+{"text":"I received the wrong item and it took way too long to get any help from customer service. Totally frustrated!","labels":"Negative Feedback"}
+{"text":"Can anyone tell me if this cookware is induction compatible? I just bought a new stove and want to make sure it works.","labels":"Product Inquiry"}
+{"text":"Is this camera compatible with lenses from another brand, or do I need to stick to the original ones?","labels":"Product Inquiry"}
+{"text":"Are there any reviews from other customers regarding the durability of this outdoor furniture? I want to make sure it lasts.","labels":"Product Inquiry"}
+{"text":"I noticed this camera has different lens options. Can you explain what lenses are recommended for landscape photography?","labels":"Product Inquiry"}
+{"text":"I purchased a set of towels last month and I\u2019m so impressed with how soft and absorbent they are. Definitely worth the price!","labels":"Positive Feedback"}
+{"text":"Can someone explain how the return policy works for this item? I'd like to understand my options before making a purchase.","labels":"Product Inquiry"}
+{"text":"Is this phone compatible with my carrier? I see it has a different band than what I'm used to.","labels":"Product Inquiry"}
+{"text":"Very upset with my experience. The website didn\u2019t mention that the size was out of stock, and now I\u2019m left waiting indefinitely. Would\u2019ve appreciated better communication.","labels":"Negative Feedback"}
+{"text":"Can\u2019t believe I spent so much on a gaming chair that squeaks with every movement. I expected better quality for that price!","labels":"Negative Feedback"}
+{"text":"Hi, I recently purchased a laptop but it hasn't arrived yet, and the tracking says it's still in processing. Can someone help me find out what's going on?","labels":"Request for Support"}
+{"text":"I can't believe how flimsy this bookshelf is; it wobbles even when it's fully assembled. Definitely not worth the price!","labels":"Negative Feedback"}
+{"text":"I bought this jacket last month and it\u2019s become my go-to for all occasions. Great fit and stylish! I\u2019ve recommended it to my friends!","labels":"Positive Feedback"}
+{"text":"Is there any way to find out if the shoes fit true to size? I've heard different opinions.","labels":"Product Inquiry"}
+{"text":"My product is not performing as expected, and I\u2019d like some advice on troubleshooting it. Who can I talk to?","labels":"Request for Support"}
+{"text":"I just received my new kitchen mixer and it's a game changer! I never thought I'd enjoy baking this much. Thank you for such an awesome product!","labels":"Positive Feedback"}
+{"text":"I thought this skincare product would help with my acne, but it made my skin break out even more. I'm really frustrated with this purchase.","labels":"Negative Feedback"}
+{"text":"My new blender stopped working after just a few uses. I'm not sure what to do about it; any guidance?","labels":"Request for Support"}
+{"text":"I\u2019m really happy with my purchase. The color is just like the pictures and it fits perfectly. It really brightens up my room!","labels":"Positive Feedback"}
+{"text":"I was blown away by the customer service! I had a question about my order, and the representative was super helpful and friendly. Such a great experience!","labels":"Positive Feedback"}
+{"text":"Can you tell me what the warranty period is for this device?","labels":"Product Inquiry"}
+{"text":"I have a coupon code that doesn\u2019t seem to be working at checkout. Is there someone who can help me resolve this?","labels":"Request for Support"}
+{"text":"The tracking link for my shipment isn\u2019t working. Can someone provide me with an update on where it is?","labels":"Request for Support"}
+{"text":"My order was supposed to arrive last week, but I haven't seen it yet. What should I do about this delay?","labels":"Request for Support"}
+{"text":"I want to return my item but the instructions were not clear. Can someone guide me through the process?","labels":"Request for Support"}
+{"text":"The variety of products available on this site is incredible! I found exactly what I was looking for, and the checkout process was seamless. This is my new favorite shopping destination!","labels":"Positive Feedback"}
+{"text":"The product description mentioned features that I didn\u2019t find in the item I received. Can I get some clarification on that?","labels":"Request for Support"}
+{"text":"This shirt fits perfectly and the material feels fantastic. I've gotten so many compliments wearing it! Will definitely buy more.","labels":"Positive Feedback"}
+{"text":"Absolutely love this product! It has exceeded my expectations and I will definitely be recommending it to my friends.","labels":"Positive Feedback"}
+{"text":"My new shoes arrived today, and I can\u2019t stop wearing them! Comfortable fit, stylish design, and they go with everything. Will buy more!","labels":"Positive Feedback"}
+{"text":"Is this jacket waterproof? I need it for a hiking trip and it\u2019s important to know!","labels":"Product Inquiry"}
+{"text":"The jeans I received were not at all like the picture on the website. The color is completely different, and they feel cheap. Not what I expected!","labels":"Negative Feedback"}
+{"text":"I noticed that this product has multiple sizes available, but I'm not sure which one would fit me best. Do you have any size charts?","labels":"Product Inquiry"}
+{"text":"Just wanted to say thank you for the awesome product! It works as described and has made my daily routine so much easier. Love it!","labels":"Positive Feedback"}
+{"text":"Great service! I had a question before ordering and customer support was so helpful. This brand really cares about its customers!","labels":"Positive Feedback"}
+{"text":"I tried using the discount code, but it didn\u2019t work at checkout. Can you help me figure this out?","labels":"Request for Support"}
+{"text":"I have a question about the return policy for the headphones I bought last month. There's conflicting info on the website.","labels":"Request for Support"}
+{"text":"I\u2019m having trouble with my smart speaker not responding, any chance support can walk me through some steps?","labels":"Request for Support"}
+{"text":"Do you have any information on the materials used in this sofa? I want to avoid anything with harmful chemicals.","labels":"Product Inquiry"}
+{"text":"I accidentally ordered the wrong product. Is it possible to change my order before it ships?","labels":"Request for Support"}
+{"text":"What\u2019s the estimated delivery time for this table? I need it for my new apartment.","labels":"Product Inquiry"}
+{"text":"I attempted to contact support regarding my order, but they haven\u2019t gotten back to me in over a week. Really let down by the service!","labels":"Negative Feedback"}
+{"text":"I bought a set of kitchen knives, and one of them was all nicked up. I expected better quality from this brand.","labels":"Negative Feedback"}
+{"text":"Does this item qualify for any discounts or promotions right now? I\u2019d love to know before I make a purchase.","labels":"Product Inquiry"}
+{"text":"I found this product, but I see that it's backordered. Is there any way to know when it will be available again?","labels":"Product Inquiry"}
+{"text":"I\u2019m really interested in this watch, but does it have a warranty?","labels":"Product Inquiry"}
+{"text":"Wow, I just received my order and it\u2019s perfect! Everything was as described, and the shipping was faster than I thought!","labels":"Positive Feedback"}
+{"text":"The headphones I bought started making a weird static noise after just a week of use. Not impressed at all!","labels":"Negative Feedback"}
+{"text":"Can you tell me what materials this jacket is made from?","labels":"Product Inquiry"}
+{"text":"I received my order today and the size is completely off. Can you help me figure out how to exchange it?","labels":"Request for Support"}
+{"text":"My order was supposed to be delivered yesterday, but it hasn't shown up yet. Can I get assistance in tracking it?","labels":"Request for Support"}
+{"text":"This dress is nothing like what was shown in the picture. The color is way off and the fabric feels cheap.","labels":"Negative Feedback"}
+{"text":"This blender has revolutionized my mornings! Smoothies come out perfectly every time, and it's so easy to clean. Wish I'd bought it sooner!","labels":"Positive Feedback"}
+{"text":"The sizing guide on the website is way off. I followed it and my shirt is way too small. Why even have a guide if it's not accurate?","labels":"Negative Feedback"}
+{"text":"These headphones are amazing! The sound quality is incredible, and they\u2019re super comfortable to wear for long periods. I\u2019m really impressed!","labels":"Positive Feedback"}
+{"text":"Is this jacket waterproof? I live in a rainy area and need to know how it will hold up in wet conditions.","labels":"Product Inquiry"}
+{"text":"This was my first time shopping here, and I'm honestly impressed! Everything from the browsing to checkout was smooth. Great job!","labels":"Positive Feedback"}
+{"text":"Just received my order and I couldn't be happier! The packaging was delightful and the product exceeded my expectations. Thank you so much!","labels":"Positive Feedback"}
+{"text":"Could you tell me what materials are used in making this jacket? I'm looking for something that's eco-friendly.","labels":"Product Inquiry"}
+{"text":"I tried to reach out about my missing order, but nobody responded to my emails. Extremely frustrating experience!","labels":"Negative Feedback"}
+{"text":"Hi, I love the dress I bought but noticed a small tear. What should I do? Is there a way to return it?","labels":"Request for Support"}
+{"text":"I was trying to set up my new smartphone, but I\u2019m having trouble with the setup process. Any guidance would be appreciated.","labels":"Request for Support"}
+{"text":"I noticed that the sizing chart for these shoes is different from others I\u2019ve seen. Can you confirm which size I should order?","labels":"Product Inquiry"}
+{"text":"Thank you for the quick response regarding my order! The item I received was perfect and I couldn't be happier with it. Will shop here again!","labels":"Positive Feedback"}
+{"text":"I love your products, but I can't find how to track my latest order. Any advice?","labels":"Request for Support"}
+{"text":"Hey, I was wondering if there's a way to return an item that arrived damaged? It's really frustrating.","labels":"Request for Support"}
+{"text":"I can't believe how small the dress is compared to the size chart! I'm really upset that I spent so much on something that doesn't fit.","labels":"Negative Feedback"}
+{"text":"I need clarification on whether this phone is compatible with my service provider. Can you help?","labels":"Product Inquiry"}
+{"text":"I was looking for a specific item and the description said it was in stock. However, I was later informed it was backordered, which is really annoying.","labels":"Negative Feedback"}
+{"text":"I tried to contact customer service about my order, but I received no response. This is really frustrating. What a waste!","labels":"Negative Feedback"}
+{"text":"I bought a set of pots and pans and I can't believe the quality for the price. They heat evenly and are a joy to cook with. Highly impressed!","labels":"Positive Feedback"}
+{"text":"Hi, does the smart watch track heart rate and sleep patterns? I have some specific requirements for my fitness goals.","labels":"Product Inquiry"}
+{"text":"The description said the item was in stock when I ordered, but now it shows as backordered. Is there a way to expedite shipping once it becomes available?","labels":"Request for Support"}
+{"text":"I bought a smartwatch from your site and it doesn't sync with my phone. The instructions are confusing and I need help!","labels":"Negative Feedback"}
+{"text":"After my last purchase, I noticed a charge I don\u2019t recognize. Can someone explain this to me?","labels":"Request for Support"}
+{"text":"The product I received is not what I expected. How can I initiate a return?","labels":"Request for Support"}
+{"text":"I tried using a discount code during checkout, but it didn\u2019t apply correctly. Can someone tell me what happened?","labels":"Request for Support"}
+{"text":"I found this watch on your site and would like to know if it\u2019s water-resistant for swimming?","labels":"Product Inquiry"}
+{"text":"Can someone please tell me how to change my shipping address for my recent order? It's urgent!","labels":"Request for Support"}
+{"text":"Is there any chance that this specific size of the dress will be restocked? It\u2019s sold out everywhere!","labels":"Product Inquiry"}
+{"text":"I reached out to customer service about my damaged item but haven't received a response. This is so frustrating!","labels":"Negative Feedback"}
+{"text":"I received an email about a product recall but I'm not sure if my item is affected. Would appreciate some help on this!","labels":"Request for Support"}
+{"text":"Just received my new backpack, and it\u2019s even better than I thought! The pockets are so handy, and it\u2019s really comfortable to carry around. Two thumbs up!","labels":"Positive Feedback"}
+{"text":"Do you offer any guarantee if the product doesn't meet my expectations? I want to be cautious before buying it.","labels":"Product Inquiry"}
+{"text":"I received the wrong item after waiting for over a week. I ordered a phone case, but they sent me a charger instead. I'm really annoyed!","labels":"Negative Feedback"}
+{"text":"Could you confirm if the shipping is free for this item if I order today? Just want to be sure before I finalize my cart.","labels":"Product Inquiry"}
+{"text":"Quick question! How long does shipping usually take for this item? I need it for a birthday gift next week.","labels":"Product Inquiry"}
+{"text":"I absolutely love this dress! The fit is perfect and the fabric feels so soft against my skin. Highly recommend it!","labels":"Positive Feedback"}
+{"text":"I've been trying to return an item but I'm not clear on the return policy. Can someone help clarify that for me?","labels":"Request for Support"}
+{"text":"I specifically bought this phone case for its durability claims, but it scratched within days. Not worth the money I spent, in my opinion.","labels":"Negative Feedback"}
+{"text":"I've heard this refrigerator is energy efficient, but can anyone confirm how much energy it actually saves? I want to make a sustainable choice.","labels":"Product Inquiry"}
+{"text":"Do you have any information on the warranty for this product? I'm thinking of making a purchase but want to know about return policies.","labels":"Product Inquiry"}
+{"text":"This is a game changer! I've tried several similar products, but nothing compares to this one. It's easy to use and delivers great results every time.","labels":"Positive Feedback"}
+{"text":"This sweater is so cozy and warm! I've been getting compliments all day long. Definitely worth the money I spent!","labels":"Positive Feedback"}
+{"text":"I was excited to use this product, but it didn't work as advertised. I'm really let down. Might return it.","labels":"Negative Feedback"}
+{"text":"I just saw this product on sale. Is there any information on when the sale ends? Don't want to miss it if I decide to buy!","labels":"Product Inquiry"}
+{"text":"I noticed this vacuum cleaner has a lot of features but can someone explain what the self-cleaning mode does?","labels":"Product Inquiry"}
+{"text":"I'm interested in the features of this gadget. Does it come with a warranty, and what kind of battery life can I expect?","labels":"Product Inquiry"}
+{"text":"I\u2019m extremely disappointed. The shirt I ordered was not only late but also the wrong size!","labels":"Negative Feedback"}
+{"text":"The dress I received didn't match the color shown on the website. I feel cheated!","labels":"Negative Feedback"}
+{"text":"I\u2019ve bought multiple items from this store and they never disappoint! Everything is high quality and exactly as described. Would give more than 5 stars if I could!","labels":"Positive Feedback"}
+{"text":"The delivery took way too long, and when it finally arrived, it was the wrong item! What a hassle!","labels":"Negative Feedback"}
+{"text":"I absolutely love this vacuum cleaner! It picks up everything and is super easy to navigate around the house. Best purchase I've made in a while!","labels":"Positive Feedback"}
+{"text":"I tried reaching out to customer service about a stain on the shirt I received, but they haven\u2019t responded in over a week. Really frustrating experience.","labels":"Negative Feedback"}
+{"text":"My order confirmation email never came through, and I\u2019m worried about my purchase. Can you confirm my order details?","labels":"Request for Support"}
+{"text":"The delivery was late and the packaging was damaged when it arrived, which really put a damper on my excitement for the product.","labels":"Negative Feedback"}
+{"text":"Could you tell me if this particular model is waterproof? I've been looking for a good one for my outdoor activities.","labels":"Product Inquiry"}
+{"text":"The dress I received was completely different from the picture on the website. The colors were off, and the cut was not flattering at all. Very disappointed!","labels":"Negative Feedback"}
+{"text":"I think I was charged incorrectly for my last order. Is it possible to get this looked into?","labels":"Request for Support"}
+{"text":"There's an issue with my billing info, and I don\u2019t know how to fix it. Any help would be appreciated!","labels":"Request for Support"}
+{"text":"I can't seem to track my shipment, and the tracking number doesn't work. Can you assist me with this issue? I really need the items soon!","labels":"Request for Support"}
+{"text":"Is this chair suitable for outdoor use or is it strictly for indoor? Trying to make sure I get the right one for my patio.","labels":"Product Inquiry"}
+{"text":"I love your products but I have a question about the shipping options. Can you provide more details about express delivery?","labels":"Request for Support"}
+{"text":"The dress I ordered was supposed to be a size medium, but it fits like a small. I can't even wear it!","labels":"Negative Feedback"}
+{"text":"I can\u2019t say enough about this coffee maker \u2013 it brews the best coffee I\u2019ve ever had. Plus, it\u2019s so easy to use! Worth every penny!","labels":"Positive Feedback"}
+{"text":"I thought I was getting a great deal on that camera, but it stopped working just a week after I received it. Very unhappy!","labels":"Negative Feedback"}
+{"text":"I saw online that this camera has good reviews, but does it really perform well in low light conditions?","labels":"Product Inquiry"}
+{"text":"Before I buy these shoes, can you confirm if they run true to size? I've had issues with sizing before.","labels":"Product Inquiry"}
+{"text":"I read that this air fryer has a non-stick coating, but is it free of PFOA? Just being cautious about the materials used!","labels":"Product Inquiry"}
+{"text":"I expected more from this product based on the reviews. It didn\u2019t even meet my basic needs; really disappointed in its performance.","labels":"Negative Feedback"}
+{"text":"I ordered a pair of shoes and they arrived damaged. I'd like a refund but I'm not sure how to start the process.","labels":"Negative Feedback"}
+{"text":"Can you tell me what the maximum load capacity of this item is? I'm looking to use it for a specific purpose.","labels":"Product Inquiry"}
+{"text":"I\u2019ve been using this app for a week, and it\u2019s fantastic! It\u2019s user-friendly and has made my shopping so much easier. Totally recommend it to everyone!","labels":"Positive Feedback"}
+{"text":"I found exactly what I was looking for at a great price. The customer service was also really helpful when I had questions.","labels":"Positive Feedback"}
+{"text":"Hey, I've noticed an extra charge on my statement for my last order. Can someone explain what that was for?","labels":"Request for Support"}
+{"text":"Can you tell me if this backpack is water-resistant?","labels":"Product Inquiry"}
+{"text":"I\u2019ve been charged twice for my last purchase and I can\u2019t find where to dispute this. Is there a way you can assist me?","labels":"Request for Support"}
+{"text":"Could you provide more details about the return policy for this vacuum cleaner? I'm thinking of purchasing it soon.","labels":"Product Inquiry"}
+{"text":"The product description was misleading. I thought I was getting a larger quantity based on the pictures, but what I got was tiny!","labels":"Negative Feedback"}
+{"text":"I've been using this blender for a few weeks now and it's fantastic! Blends smoothies to perfection and cleans up easily. Highly recommend to anyone who loves making breakfast!","labels":"Positive Feedback"}
+{"text":"Hey, I just ordered a pair of shoes and I realized I might need to exchange them for a different size. What\u2019s the process for that?","labels":"Request for Support"}
+{"text":"Ordering was a breeze, and the tracking updates kept me informed every step of the way. The t-shirt is so comfy and fits like a dream! Loving it!","labels":"Positive Feedback"}
+{"text":"Could you please assist me with the return process? I am not sure how to send back the item I received.","labels":"Request for Support"}
+{"text":"I heard you have a sale on shoes, can you confirm if this specific model is included?","labels":"Product Inquiry"}
+{"text":"I've been using this skincare product for a month now, and my skin has never felt better. It's like magic!","labels":"Positive Feedback"}
+{"text":"I tried to contact customer service about my order and nobody got back to me. This is so frustrating!","labels":"Negative Feedback"}
+{"text":"The delivery took way longer than expected, and when it finally arrived, the item was damaged. I can't believe how careless the handling was.","labels":"Negative Feedback"}
+{"text":"Hi! Does this product require batteries or is it rechargeable?","labels":"Product Inquiry"}
+{"text":"Do you have any information on the battery life of this smartwatch? I'm considering buying it as a gift.","labels":"Product Inquiry"}
+{"text":"Is there a user manual available online for this product? I prefer to read instructions before using anything.","labels":"Product Inquiry"}
+{"text":"Absolutely love this backpack! The quality is top-notch, and it fits everything I need for my daily commute. Highly recommend it to anyone looking for a durable and stylish bag!","labels":"Positive Feedback"}
+{"text":"I've been using this skincare line for a month, and the results are just amazing. My skin feels so fresh and rejuvenated! Definitely buying again!","labels":"Positive Feedback"}
+{"text":"I can't figure out how to apply the discount code at checkout. Is there a trick to it or is it not working?","labels":"Request for Support"}
+{"text":"This blender has already broken down twice in just a month. I wish I had read the reviews before purchasing it.","labels":"Negative Feedback"}
+{"text":"Does this coffee maker come with a warranty? I've heard mixed things about its durability, and I want to make sure I won't have any issues.","labels":"Product Inquiry"}
+{"text":"This phone case broke within a week of use. I thought it would offer better protection, but it\u2019s just cheap plastic that can\u2019t stand up to daily wear.","labels":"Negative Feedback"}
+{"text":"I love your products but my order has not arrived yet. Could you check the shipping status for me?","labels":"Request for Support"}
+{"text":"The item I received was damaged when it arrived. What steps do I need to take to return it?","labels":"Request for Support"}
+{"text":"So happy with my purchase! The design is beautiful and it came in perfect condition. I can't wait to show it off to my friends!","labels":"Positive Feedback"}
+{"text":"I ordered a dress in size medium but it arrived too small. I can\u2019t even zip it up! Not happy with this purchase at all.","labels":"Negative Feedback"}
+{"text":"Is there a size guide available for the shoes? I've ordered similar styles before, and sizing can be tricky.","labels":"Product Inquiry"}
+{"text":"I've purchased a few items from this store, and I am consistently impressed with the quality. Their customer service is also top-notch!","labels":"Positive Feedback"}
+{"text":"Is the mattress you sell compatible with an adjustable bed frame? I want to make sure before making a purchase.","labels":"Product Inquiry"}
+{"text":"I\u2019m trying to understand the return policy better. Can anyone clarify how long I have to make a return?","labels":"Request for Support"}
+{"text":"Absolutely hate this blender! It leaks every time I use it, and customer support was no help at all. I wish I never purchased it.","labels":"Negative Feedback"}
+{"text":"I've bought several items from this store, and every one has been high quality. They really put effort into their products!","labels":"Positive Feedback"}
+{"text":"Tried to reach out to customer service about a missing item from my order but got no response. Very annoying.","labels":"Negative Feedback"}
+{"text":"I bought a smartwatch last month, but I can't seem to sync it with my phone. What can I do to solve this problem?","labels":"Request for Support"}
+{"text":"Absolutely love this product! It has exceeded my expectations and works great!","labels":"Positive Feedback"}
+{"text":"I tried to use the coupon code at checkout, but it didn\u2019t work. Can you let me know if there's a system error?","labels":"Request for Support"}
+{"text":"I\u2019m really frustrated with my order. I paid for express shipping but it arrived late and the item was damaged when I opened the box. What a mess! ","labels":"Negative Feedback"}
+{"text":"After using this phone case for a few weeks, it started peeling off. I thought it was supposed to be durable, but it doesn't seem like it.","labels":"Negative Feedback"}
+{"text":"I got the wrong charger in my order, and now I can't use my device. Customer service was no help either. Really disappointed.","labels":"Negative Feedback"}
+{"text":"I had such high hopes for this skincare product, but it caused a terrible breakout on my skin. I'm really upset and won't be buying from you again!","labels":"Negative Feedback"}
+{"text":"Can someone clarify if this kitchen gadget can handle both hot and cold liquids? I\u2019m a bit confused!","labels":"Product Inquiry"}
+{"text":"I think there's been a mistake with my order. I ordered a blue shirt but got a red one instead. What's the next step?","labels":"Request for Support"}
+{"text":"Hey, I saw your ad but I'm not sure if this blender can crush ice?","labels":"Product Inquiry"}
+{"text":"The customer service is terrible. I called three times and never got a proper answer about my order status. Very unprofessional!","labels":"Negative Feedback"}
+{"text":"I can't believe how quickly my order arrived! Plus the packaging was cute and environmentally friendly. Totally impressed with this store!","labels":"Positive Feedback"}
+{"text":"Could you explain the difference between these two models of headphones? I'm trying to decide which one is better suited for my needs.","labels":"Product Inquiry"}
+{"text":"I have a problem with one of the items I bought. It\u2019s not functioning as expected. Please let me know how I can resolve this issue quickly.","labels":"Request for Support"}
+{"text":"I saw that you have a promotion, but I can\u2019t find the details on how to apply it to my purchase. Can someone assist me with this?","labels":"Request for Support"}
+{"text":"I purchased the Bluetooth headphones and they are fantastic! The sound quality is amazing, and they connect effortlessly to my devices. Best purchase I've made in a while!","labels":"Positive Feedback"}
+{"text":"How often do the filters need to be replaced for this air purifier?","labels":"Product Inquiry"}
+{"text":"I'm not sure how to set up the product I bought. Is there a guide or any customer service number I can call?","labels":"Request for Support"}
+{"text":"I had a fantastic experience with my order! The communication was clear and delivery was ahead of schedule. This is a stellar company!","labels":"Positive Feedback"}
+{"text":"I just wanted to double-check the warranty on my new laptop, as I'm not sure if I registered it correctly. Is there a way to confirm this?","labels":"Request for Support"}
+{"text":"I just received my first order, and the packaging was adorable! Everything feels so personalized, which makes me feel valued as a customer. Excellent touch!","labels":"Positive Feedback"}
+{"text":"Can you tell me if this backpack has a lifetime warranty? I want to make sure it will last through my college years.","labels":"Product Inquiry"}
+{"text":"The laptop I bought has a faulty battery. I shouldn\u2019t have to deal with this after spending so much.","labels":"Negative Feedback"}
+{"text":"Is this vacuum cleaner suitable for pet hair removal? I need one that can handle that well.","labels":"Product Inquiry"}
+{"text":"My account locked me out and I can't access my orders. Could someone help me reset it?","labels":"Request for Support"}
+{"text":"I\u2019m really impressed with how well this item performs. It\u2019s a total game changer for me, and I\u2019ve recommended it to all my coworkers!","labels":"Positive Feedback"}
+{"text":"I received the wrong item in my last order. Is there a way to get the correct one sent to me?","labels":"Request for Support"}
+{"text":"Does the coffee maker have a built-in grinder? I'm trying to get the best flavor out of my beans!","labels":"Product Inquiry"}
+{"text":"Tried using the face cream for a week and instead of improving my skin, it caused breakouts! Not happy at all with this purchase. ","labels":"Negative Feedback"}
+{"text":"I'm having trouble logging into my account. It keeps saying my password is incorrect. What should I do?","labels":"Request for Support"}
+{"text":"Could you clarify if this coffee maker uses pods or ground coffee? I want to ensure it fits my brewing style.","labels":"Product Inquiry"}
+{"text":"The customer service was awful. I tried to reach out multiple times and no one responded to my emails. Very frustrated!","labels":"Negative Feedback"}
+{"text":"I heard great things about this running shoe, but can anyone tell me about the sizing? I usually wear a size 10.","labels":"Product Inquiry"}
+{"text":"The phone case I received was not what I expected. The color was completely different from the pictures displayed on the website.","labels":"Negative Feedback"}
+{"text":"I bought this blender and it stopped working after two weeks. I can't believe I wasted my money on this.","labels":"Negative Feedback"}
+{"text":"I tried to use the discount code during checkout, but it seems like it was expired. Can you check that for me?","labels":"Request for Support"}
+{"text":"The quality of the shoes is poor; they started falling apart after just one week of use. Very disappointed!","labels":"Negative Feedback"}
+{"text":"Hello, I tried to use a discount code at checkout but it didn't apply. What should I do?","labels":"Request for Support"}
+{"text":"I love your products, but I need help with installation instructions for the smart home device I bought. Can you send me the details?","labels":"Request for Support"}
+{"text":"This is the second time I've purchased this item, and it never disappoints. It performs exceptionally well, and I appreciate how quickly it arrived. Couldn't be happier!","labels":"Positive Feedback"}
+{"text":"I\u2019m wondering if this product has a return policy? I'm a bit hesitant to buy without knowing I can return it if needed.","labels":"Product Inquiry"}
+{"text":"I bought a blender, but it stopped working after just two uses. I expected much better quality for the price I paid. Not what I anticipated at all!","labels":"Negative Feedback"}
+{"text":"Great value for money! I was pleasantly surprised by how well this works. It really does what it claims, and I'm completely satisfied with my purchase.","labels":"Positive Feedback"}
+{"text":"The product I bought is not working as expected. I need guidance on how to troubleshoot it. Please assist!","labels":"Request for Support"}
+{"text":"I absolutely love this product! It has exceeded all my expectations and I can't recommend it enough!","labels":"Positive Feedback"}
+{"text":"I\u2019ve been trying to log into my account, but it keeps saying my password is incorrect. What should I do next?","labels":"Request for Support"}
+{"text":"Purchased this dress and it looked nothing like the photos online. The color was completely off, and the fit was awkward. Not happy at all!","labels":"Negative Feedback"}
+{"text":"I tried to return a pair of shoes but the process was a nightmare. The return label didn\u2019t work, and I\u2019m still waiting for a resolution.","labels":"Negative Feedback"}
+{"text":"I've been trying to track my package, but the tracking number doesn't work. What should I do next?","labels":"Request for Support"}
+{"text":"I'm considering the smart home system, but can someone clarify if it connects to Apple HomeKit? I have a lot of Apple devices.","labels":"Product Inquiry"}
+{"text":"I ordered a laptop, and it arrived with a broken screen. I really expected better from this store.","labels":"Negative Feedback"}
+{"text":"I am thinking about purchasing the gaming console but I\u2019m curious if it supports VR headsets. What can you tell me about compatibility?","labels":"Product Inquiry"}
+{"text":"I had a great experience with customer service. They were prompt and helpful when I had a question about my order. Happy with my purchase!","labels":"Positive Feedback"}
+{"text":"Absolutely love this product! It exceeded my expectations and I can't believe how well it works. 10\/10 would recommend!","labels":"Positive Feedback"}
+{"text":"Received my new shoes yesterday, and I have to say, they are so comfortable! I wore them all day, and my feet felt great. Thank you for such a wonderful product!","labels":"Positive Feedback"}
+{"text":"Just wanted to drop a note to say how impressed I am with the customer service. They were super helpful and made the whole experience a breeze. Thanks!","labels":"Positive Feedback"}
+{"text":"I recently bought a gaming chair from your store, and it's been a game changer for my setup. Super comfy and supportive during long sessions. Love it!","labels":"Positive Feedback"}
+{"text":"Not only did my shirt arrive on time, but it also exceeded my expectations in terms of quality. The fabric is soft and breathable, perfect for summer!","labels":"Positive Feedback"}
+{"text":"I was wondering about the dimensions of the coffee table before I make a purchase.","labels":"Product Inquiry"}
+{"text":"I just received my order, and I\u2019m thrilled! The packaging was neat, and the item works perfectly. Will definitely recommend to friends!","labels":"Positive Feedback"}
+{"text":"I was so excited for my new phone but it stopped working after just a week. I'm really disappointed and now I have to deal with returns.","labels":"Negative Feedback"}
+{"text":"The last order I received had items missing, and when I contacted support, I got no helpful response. This is my second bad experience and I\u2019m really upset.","labels":"Negative Feedback"}
+{"text":"I was excited to try this product but it broke within a week. Totally unsatisfied with the quality and will not be buying again.","labels":"Negative Feedback"}
+{"text":"I ordered a pair of shoes and they came in the wrong size. I\u2019m so frustrated!","labels":"Negative Feedback"}
+{"text":"Wow! The performance of this blender is impressive! It makes the smoothest smoothies in seconds. I\u2019m totally satisfied with this buy and I'm using it every day!","labels":"Positive Feedback"}
+{"text":"Wow, I\u2019m so impressed! The skincare set has worked wonders for my complexion. I\u2019ve seen a noticeable difference in just a few days!","labels":"Positive Feedback"}
+{"text":"Can you tell me if this item is available in a larger size? I've seen it advertised but I'm not sure if I can get one that fits well.","labels":"Product Inquiry"}
+{"text":"My order tracking says it was delivered, but I never received it! This is really frustrating! Can you check on this for me?","labels":"Request for Support"}
+{"text":"The customer service was unhelpful when I called about my faulty product. I'm really unhappy with how my issue was treated.","labels":"Negative Feedback"}
+{"text":"These shoes are incredible! They are comfortable and stylish. I\u2019ve gotten so many compliments since I started wearing them!","labels":"Positive Feedback"}
+{"text":"Just wanted to share how impressed I am with this laptop. It's fast, lightweight, and the battery life is phenomenal. Thank you for offering such a great product!","labels":"Positive Feedback"}
+{"text":"How do I update my payment information? I want to make sure my next order goes smoothly.","labels":"Request for Support"}
+{"text":"Is there a way to know the origin of the materials used in this product?","labels":"Product Inquiry"}
+{"text":"The customer service chat isn\u2019t working for me. Is there another way to get assistance with my order?","labels":"Request for Support"}
+{"text":"The coffee maker I received was missing parts. I've tried to reach out for help but no one replies.","labels":"Negative Feedback"}
+{"text":"Does this skincare product have any specific precautions for sensitive skin?","labels":"Product Inquiry"}
+{"text":"Hey, my payment didn't go through, and I\u2019m unsure why. Could someone check on this for me?","labels":"Request for Support"}
+{"text":"Is this item available in different colors? I would love to know if there are more options before I make a decision.","labels":"Product Inquiry"}
+{"text":"I saw a different model that seemed similar but had more features. Can you explain what the main differences are?","labels":"Product Inquiry"}
+{"text":"I was sent the wrong item, and now it's such a hassle to return it. This needs to be fixed!","labels":"Negative Feedback"}
+{"text":"I\u2019m interested in buying a gaming chair but need to know if it\u2019s compatible with my setup. Can you provide more information?","labels":"Request for Support"}
+{"text":"Wow! This was the perfect addition to my home. I\u2019m so impressed by the quality and overall design. Thank you for such a lovely product!","labels":"Positive Feedback"}
+{"text":"My package was delivered late and when it finally arrived, the item was damaged. I won't be ordering again!","labels":"Negative Feedback"}
+{"text":"The delivery took way too long, and when I finally got my order, it was missing an item. This is unacceptable!","labels":"Negative Feedback"}
+{"text":"The item was advertised as waterproof, but it didn't withstand even a light rain. I feel cheated. This is not what was promised!","labels":"Negative Feedback"}
+{"text":"Wow! This item is a game changer for my daily routine. I can\u2019t believe I waited so long to purchase it. Totally worth it!","labels":"Positive Feedback"}
+{"text":"I received the wrong item and I\u2019ve been trying to contact support for days. Why is it so hard to get help?","labels":"Negative Feedback"}
+{"text":"Could someone assist me with a refund process? I just want to make sure I'm doing it right.","labels":"Request for Support"}
+{"text":"Hey, I just opened my package and one of the items is broken. What steps should I follow to get a replacement?","labels":"Request for Support"}
+{"text":"I purchased a phone case but it doesn't fit my phone model. Can someone guide me on how to exchange it? Thanks in advance!","labels":"Request for Support"}
+{"text":"I received my order, but I think one of the items is missing. Can someone help me verify the order details to see what's going on?","labels":"Request for Support"}
+{"text":"Do you have any recommendations for accessories to pair with this smartphone? I'm considering buying it, but want to make sure I have everything I need.","labels":"Product Inquiry"}
+{"text":"Could you please confirm if this running shoe has a wider fit option? I have trouble with narrow shoes.","labels":"Product Inquiry"}
+{"text":"I\u2019m really disappointed with the quality of the blender I bought. It broke after only a couple of uses!","labels":"Negative Feedback"}
+{"text":"The organic skincare line I tried has transformed my skin! Not only do they smell amazing, but my complexion has never looked better. Will be back for more!","labels":"Positive Feedback"}
+{"text":"I noticed that the item I bought is now on sale. Is there any chance I can get a price adjustment?","labels":"Request for Support"}
+{"text":"The scent of the perfume was not at all what I expected. It doesn\u2019t smell anything like the description on the website.","labels":"Negative Feedback"}
+{"text":"Why does this item have such positive reviews? It\u2019s nothing like I expected, and now I feel cheated.","labels":"Negative Feedback"}
+{"text":"I love the product, but I\u2019ve noticed a slight defect. What should I do to get a replacement? I want to love it even more!","labels":"Request for Support"}
+{"text":"Could you clarify if this dress fits true to size? I usually wear a medium, but sizing can vary a lot.","labels":"Product Inquiry"}
+{"text":"I received the wrong item instead of what I ordered. What should I do to get this sorted out?","labels":"Request for Support"}
+{"text":"I\u2019m having trouble connecting my new smart thermostat to Wi-Fi\u2014any chance I could get some technical support?","labels":"Request for Support"}
+{"text":"Received my order within two days, and I just want to say how impressed I am with the quality! The fabric feels soft yet durable. Definitely worth the price!","labels":"Positive Feedback"}
+{"text":"I was expecting a larger size for the dress based on the measurements provided, but it turned out to be way too small for me.","labels":"Negative Feedback"}
+{"text":"I recently bought a kitchen gadget from this site and it\u2019s a game changer. Super easy to use and clean. Totally worth it!","labels":"Positive Feedback"}
+{"text":"Is this a limited edition item? I want to know how long I have to decide before it sells out.","labels":"Product Inquiry"}
+{"text":"Can you tell me how to reset my account password? I\u2019ve tried a few times and still can\u2019t get in. Thanks!","labels":"Request for Support"}
+{"text":"The product arrived damaged and didn't work as advertised. I really expected better quality.","labels":"Negative Feedback"}
+{"text":"Hi, my package arrived today, but it looks like one of the products is damaged. What should I do?","labels":"Request for Support"}
+{"text":"Is there a way to change my shipping address after placing an order? I realized I made a mistake and need assistance.","labels":"Request for Support"}
+{"text":"I had high hopes for this gadget, but it simply doesn\u2019t work as advertised. I regret my purchase and wished I had read more reviews before buying.","labels":"Negative Feedback"}
+{"text":"Can you tell me if there\u2019s a way to track my order? I feel like it\u2019s been a long time since I placed it.","labels":"Request for Support"}
+{"text":"Can you please help me with the installation process? The instructions weren't clear and I have some concerns.","labels":"Request for Support"}
+{"text":"I received the wrong item in my order and it took forever to get a response from customer support. This has been such a frustrating experience!","labels":"Negative Feedback"}
+{"text":"This wireless speaker is fantastic! The sound quality is incredible, and the battery lasts forever. I've been using it every day since it arrived!","labels":"Positive Feedback"}
+{"text":"This water bottle doesn\u2019t keep drinks cold as advertised. I thought it would be perfect for hiking, but it\u2019s just a gimmick.","labels":"Negative Feedback"}
+{"text":"I saw this product advertised but I'm not quite sure how it works. Does it have a user manual?","labels":"Product Inquiry"}
+{"text":"The customer service was really unhelpful when I reached out about my late order. I won't be shopping here again if this is how you handle issues!","labels":"Negative Feedback"}
+{"text":"I just received my order and I couldn\u2019t be happier! The colors are vibrant and the fit is perfect. Thank you for such an amazing product!","labels":"Positive Feedback"}
+{"text":"I just received my new camera, and it exceeded all my expectations! The picture quality is phenomenal and the autofocus is lightning fast. Can't wait to start taking photos!","labels":"Positive Feedback"}
+{"text":"I was really excited about this gadget, but it stopped working after just a week. I want a refund or a replacement.","labels":"Negative Feedback"}
+{"text":"The size chart was misleading, and now I have a shirt that doesn't fit at all. This has been a huge waste of time and money.","labels":"Negative Feedback"}
+{"text":"I saw your sneakers online and I'm curious about available sizes. Do you have them in 10.5?","labels":"Product Inquiry"}
+{"text":"I tried to return an item, but the return process was a nightmare! I kept getting automated responses instead of real help. So disappointed!","labels":"Negative Feedback"}
+{"text":"Never buying again! The headphones I received only worked in one ear, and I\u2019m still waiting for a response after my complaint.","labels":"Negative Feedback"}
+{"text":"Hey, I received my order but one item was missing. Can you please assist me in sorting this out? Thanks!","labels":"Request for Support"}
+{"text":"I tried contacting customer service about my missing order, but no one got back to me. This is frustrating and disappointing!","labels":"Negative Feedback"}
+{"text":"The jacket I received was not the color I ordered. It's frustrating because the picture online looked completely different. I want a refund!","labels":"Negative Feedback"}
+{"text":"I'm really interested in this blender, but does it come with a warranty or guarantee?","labels":"Product Inquiry"}
+{"text":"I\u2019ve been trying to reach customer service for days about my missing order but no one is getting back to me. This is really frustrating!","labels":"Negative Feedback"}
+{"text":"I'm loving my new gadget! The design is sleek and it works perfectly. Definitely worth the investment!","labels":"Positive Feedback"}
+{"text":"I saw a video on your website showing the features of this blender, but I didn\u2019t catch if it comes with any additional attachments. Can you help?","labels":"Product Inquiry"}
+{"text":"I'm really interested in this camera, but what is the battery life like? I need something that lasts long for outdoor shoots.","labels":"Product Inquiry"}
+{"text":"I received my order yesterday and the shoes are perfect! They are so comfortable and stylish that I want to wear them every day. Best purchase ever!","labels":"Positive Feedback"}
+{"text":"Can someone assist me with the return process? I got the wrong size and need it swapped out as soon as possible.","labels":"Request for Support"}
+{"text":"The shirt shrank way too much after I washed it. It\u2019s practically unwearable now! What a waste of money.","labels":"Negative Feedback"}
+{"text":"Hi! I ordered a blender last week and it hasn't arrived yet. Can you check the status for me?","labels":"Request for Support"}
+{"text":"I'm curious about the warranty for this product, does it cover accidental damage too?","labels":"Product Inquiry"}
+{"text":"The best purchase I made this year without a doubt! The customer service was amazing and they even followed up to make sure I was satisfied. Highly recommend!","labels":"Positive Feedback"}
+{"text":"Can I get help with changing the billing address on my recent order? I need to fix this before it ships!","labels":"Request for Support"}
+{"text":"I recently bought a laptop and I'm so happy with its performance. It runs smoothly and is perfect for my work tasks. Great value!","labels":"Positive Feedback"}
+{"text":"I am looking for a specific color of these shoes. Do you have any in stock or know when they might be available?","labels":"Product Inquiry"}
+{"text":"Wow, this blender is a game changer! It blends everything so smoothly, making my morning smoothies a breeze. Highly recommend to anyone who needs a reliable kitchen gadget!","labels":"Positive Feedback"}
+{"text":"I received the wrong item in my order and I can't find a way to return it. Can someone help me with this?","labels":"Request for Support"}
+{"text":"What colors does the wireless mouse come in? I\u2019m thinking about buying it, but I want to match it with my laptop.","labels":"Product Inquiry"}
+{"text":"This was my first time shopping with you guys, and I'm really impressed! The shipping was fast and the item was just as described. Will recommend to all my friends!","labels":"Positive Feedback"}
+{"text":"I bought this phone and it keeps freezing. I can\u2019t return it because I already threw away the box. What a waste of money!","labels":"Negative Feedback"}
+{"text":"Just want to say thanks! The bracelet I ordered is even more beautiful in person, and the quality is fantastic. I love it!","labels":"Positive Feedback"}
+{"text":"The quality of the shoes I received is far below what was advertised. They started to fall apart after just a few uses.","labels":"Negative Feedback"}
+{"text":"Brought the headphones that were supposed to have great sound quality, but they sound terrible. I want my money back!","labels":"Negative Feedback"}
+{"text":"I came across this product, but what are the specific features that set it apart from competitors? A breakdown would help me decide.","labels":"Product Inquiry"}
+{"text":"I wanted to love this kitchen gadget, but it broke after just one use. I'm really upset about it and feel cheated.","labels":"Negative Feedback"}
+{"text":"I ordered this phone case in blue, but I received it in red. Totally not what I wanted, now I'm stuck with it.","labels":"Negative Feedback"}
+{"text":"I received my order much sooner than expected! The packaging was secure and everything arrived without any damage. Will definitely order again!","labels":"Positive Feedback"}
+{"text":"The headphones I received only work on one side. I expected them to be high quality, but I'm really upset with this order.","labels":"Negative Feedback"}
+{"text":"I had high hopes for this skincare product, but it caused an allergic reaction and I\u2019m now dealing with rashes. Not impressed at all.","labels":"Negative Feedback"}
+{"text":"Are the materials used in this item eco-friendly? Sustainability is important to me!","labels":"Product Inquiry"}
+{"text":"I was really hoping this blender would work as described, but it just doesn't blend well. I'm really unsatisfied with my purchase.","labels":"Negative Feedback"}
+{"text":"I'm really unhappy with the customer service I received. I called 5 times about my order, and every time I was put on hold for 20 minutes! No resolution at all.","labels":"Negative Feedback"}
+{"text":"I tried to reach customer service about my faulty product but couldn't get through. Can anyone assist?","labels":"Request for Support"}
+{"text":"Can someone explain why my order was cancelled? I didn't receive any notifications and I was really looking forward to it.","labels":"Request for Support"}
+{"text":"Can you tell me if this backpack has a laptop compartment? It's a must-have feature for me.","labels":"Product Inquiry"}
+{"text":"Wow, this skincare product is a game changer! My skin feels so much smoother and hydrated after only a week of use. I'm telling all my friends about it!","labels":"Positive Feedback"}
+{"text":"What is the return policy on these headphones if they don't fit well? I want to make sure before purchasing.","labels":"Product Inquiry"}
+{"text":"What is the return policy for this item? If the size doesn\u2019t fit, can I exchange it easily?","labels":"Product Inquiry"}
+{"text":"I\u2019m having trouble accessing my account to check my order history. Is there a support page for that?","labels":"Request for Support"}
+{"text":"Absolutely love this product! It exceeded my expectations in every way\u2014great quality and super easy to use!","labels":"Positive Feedback"}
+{"text":"This blender is a total letdown. It makes a weird noise and doesn't blend well at all. I expected better from this brand!","labels":"Negative Feedback"}
+{"text":"I'm confused about the return policy for my last purchase. Can someone clarify how long I have to send it back?","labels":"Request for Support"}
+{"text":"I read about this new gadget but I\u2019m not clear on how it works. Can you provide more details on its features?","labels":"Product Inquiry"}
+{"text":"The purchase was super smooth, and the product itself is just great! I've already referred my friends to your site. Keep up the good work!","labels":"Positive Feedback"}
+{"text":"I can\u2019t find the tracking number for my latest shipment. Can you help me figure out where my package is?","labels":"Request for Support"}
+{"text":"I was really looking forward to this book, but when it arrived, the cover was damaged. Such a letdown, and I couldn't even get through to customer support for help!","labels":"Negative Feedback"}
+{"text":"These shoes are incredible! They fit like a glove, and the comfort level is out of this world. I\u2019m planning to buy another pair in a different color.","labels":"Positive Feedback"}
+{"text":"Can you tell me if this model comes in different colors?","labels":"Product Inquiry"}
+{"text":"I\u2019ve been using this skincare product for a month now, and my skin has never looked better! Totally worth the investment!","labels":"Positive Feedback"}
+{"text":"I want to buy this product, but I can't find it in the store. Do you have any idea when it will be back in stock?","labels":"Request for Support"}
+{"text":"My recent purchase arrived on time and was wrapped beautifully. It made for a great gift. Thank you for the excellent service!","labels":"Positive Feedback"}
+{"text":"Quick question \u2013 does this laptop come with pre-installed software or do I need to buy that separately?","labels":"Product Inquiry"}
+{"text":"Wow, what a great experience! The item was exactly as described, and the quality is top-notch. I\u2019ll be back for more soon!","labels":"Positive Feedback"}
+{"text":"What type of batteries does this camera use? I want to make sure I can find replacements easily before I order it.","labels":"Product Inquiry"}
+{"text":"Bought this kitchen gadget based on the hype but it doesn't work as advertised. Totally regret spending my money on it!","labels":"Negative Feedback"}
+{"text":"After using this product for a few days, I've noticed that it's just not working as promised. I feel like I've been misled by the advertisement.","labels":"Negative Feedback"}
+{"text":"I really liked the dress I ordered, but it didn't fit right. Can someone guide me through the exchange process?","labels":"Request for Support"}
+{"text":"I\u2019m not sure if my payment went through correctly. How can I verify that it was successful?","labels":"Request for Support"}
+{"text":"I ordered a pair of shoes last week and they haven't arrived yet. Can anyone help me track the shipment?","labels":"Request for Support"}
+{"text":"I loved the last pair of shoes I got, but I'm curious if they have them in a size 11?","labels":"Product Inquiry"}
+{"text":"I can\u2019t seem to find the warranty information for my purchase. Can someone guide me?","labels":"Request for Support"}
+{"text":"Does this skincare product have any fragrances? I have sensitive skin and want to be careful about what I use.","labels":"Product Inquiry"}
+{"text":"This phone case is amazing! It fits perfectly and protects my phone from drops. The colors are vibrant too. Just what I needed!","labels":"Positive Feedback"}
+{"text":"My package was supposed to arrive yesterday and I haven't seen it yet. What's going on with the shipping?","labels":"Request for Support"}
+{"text":"I was wondering, does the blender come with a warranty? I've seen some people say it breaks easily after a few months.","labels":"Product Inquiry"}
+{"text":"I ordered a pair of shoes and they arrived with a scratch on them. Really disappointed because I expected better quality.","labels":"Negative Feedback"}
+{"text":"I received my watch yesterday and it doesn't even work. This is unacceptable! How do I get a refund?","labels":"Negative Feedback"}
+{"text":"The customer service team was wonderful when I had a question about my order. They were so helpful and friendly!","labels":"Positive Feedback"}
+{"text":"My recent order has not yet arrived, and I am concerned about the delay. What should I do next?","labels":"Request for Support"}
+{"text":"The laptop I received has a battery issue, it doesn't hold a charge for more than an hour. Totally disappointed with this purchase!","labels":"Negative Feedback"}
+{"text":"Customer service didn't help me at all when I reached out about my order being delayed. I won't be purchasing again.","labels":"Negative Feedback"}
+{"text":"The last package I received was damaged, and I was really disappointed. I expected better quality control from your company.","labels":"Negative Feedback"}
+{"text":"The website keeps crashing when I try to submit my order. It\u2019s really frustrating! Can you help fix this?","labels":"Request for Support"}
+{"text":"Just received my new kitchen gadgets and I'm thrilled! They make cooking so much easier, and I love the sleek design. Will be ordering more soon!","labels":"Positive Feedback"}
+{"text":"I\u2019m interested in the ingredients of this skincare product. Are there any harsh chemicals I should know about?","labels":"Product Inquiry"}
+{"text":"I can't find my order confirmation email and I'm worried my purchase didn't go through. Can someone assist me?","labels":"Request for Support"}
+{"text":"I was charged twice for my last order! This isn\u2019t right, and I need help resolving this issue. Can someone assist?","labels":"Request for Support"}
+{"text":"The shoes I bought are incredibly comfortable and stylish. I wore them all day without any discomfort. 10\/10 would recommend to friends!","labels":"Positive Feedback"}
+{"text":"I'm having trouble logging into my account. I thought I had the right password but now it's blocked me. What should I do?","labels":"Request for Support"}
+{"text":"I'm really unhappy with the quality of the laptop sleeve I ordered. It's falling apart at the seams after a couple of uses.","labels":"Negative Feedback"}
+{"text":"Just received my order and I\u2019m thrilled! It\u2019s exactly what I was looking for. Highly recommend it to anyone on the fence!","labels":"Positive Feedback"}
+{"text":"Wow, this is hands-down the best gadget I've bought in years! It exceeded my expectations, and I can't recommend it enough!","labels":"Positive Feedback"}
+{"text":"I never thought I\u2019d enjoy this as much as I do. The quality is stellar and it works perfectly. Perfect for my needs!","labels":"Positive Feedback"}
+{"text":"I was really impressed with how quickly my order arrived. The packaging was great and the item works perfectly. Will order again!","labels":"Positive Feedback"}
+{"text":"I had a great experience shopping online. The website is user-friendly, and my order arrived much faster than I anticipated. Bravo!","labels":"Positive Feedback"}
+{"text":"My order arrived late, and the packaging was damaged. I\u2019d appreciate any guidance on how to address this. Thanks!","labels":"Request for Support"}
+{"text":"After using this kitchen appliance, I noticed it makes a weird noise and doesn't operate as advertised. Not happy with my purchase.","labels":"Negative Feedback"}
+{"text":"Hey, I bought a smart speaker and it won\u2019t connect to my Wi-Fi. I\u2019ve tried all the troubleshooting steps but nothing seems to work. Can you assist me?","labels":"Request for Support"}
+{"text":"My package was supposed to arrive yesterday, but it hasn't shown up yet. Can you look into this?","labels":"Request for Support"}
+{"text":"I\u2019ve had a terrible experience with my last order. It took forever to get here, and when it did, there were pieces missing!","labels":"Negative Feedback"}
+{"text":"Hi, I'm having issues with my order not being delivered and I really need assistance in tracking it down.","labels":"Request for Support"}
+{"text":"This was supposed to be a gift, but it came damaged and now I can't give it to my friend. Super disappointed with this experience.","labels":"Negative Feedback"}
+{"text":"Just wanted to say how much I appreciate this company's commitment to sustainability. The product is not only awesome but also eco-friendly! Two thumbs up!","labels":"Positive Feedback"}
+{"text":"I was amazed by how well this kitchen gadget works. It has made cooking so much easier for me. Totally worth every penny!","labels":"Positive Feedback"}
+{"text":"I received my order but the item is damaged. Can someone please assist me with this?","labels":"Request for Support"}
+{"text":"Could someone clarify the return policy on my last order? I need to know how to proceed with a return if needed.","labels":"Request for Support"}
+{"text":"I need help with my order status; it\u2019s been over a week and there\u2019s no update. Can someone check on this?","labels":"Request for Support"}
+{"text":"The shoes I received are not what I ordered at all and they don't fit well. Totally disappointed!","labels":"Negative Feedback"}
+{"text":"I have a question about the warranty on my recent purchase. Is there a contact I can reach out to for more details?","labels":"Request for Support"}
+{"text":"So impressed with the customer service! They went out of their way to answer my questions promptly. I feel valued as a customer!","labels":"Positive Feedback"}
+{"text":"The quality of the headphones I bought is disappointing. They started to crackle within a week, and I can't even use them anymore!","labels":"Negative Feedback"}
+{"text":"Hello, I tried to reach out last week about an issue I\u2019m experiencing with the product. I really need assistance as it\u2019s not functioning as expected.","labels":"Request for Support"}
+{"text":"The item I received is not working as expected. Please advise me on how to get a replacement or a refund.","labels":"Request for Support"}
+{"text":"I received my order late, and I can't find a tracking number anywhere. Can someone help me figure this out?","labels":"Request for Support"}
+{"text":"I need assistance with my return process. I followed the instructions but I\u2019m still confused about how to send it back. Any tips?","labels":"Request for Support"}
+{"text":"Hey, I have an issue with the charger I ordered, it doesn\u2019t seem to fit my device. Could you provide some guidance?","labels":"Request for Support"}
+{"text":"I'm having trouble entering my promo code at checkout. Can you guide me on how to apply it correctly?","labels":"Request for Support"}
+{"text":"I ordered a personalized gift for my friend and it came out perfect! The engraving was beautiful and it really made their day special. Thank you for such great craftsmanship!","labels":"Positive Feedback"}
+{"text":"I bought these shoes last week, and they are incredibly comfortable. I\u2019ve received so many compliments already, thank you!","labels":"Positive Feedback"}
+{"text":"I bought a pair of headphones that are supposed to be noise-canceling, but they don't work as advertised. It's like they don't even block out background noise!","labels":"Negative Feedback"}
+{"text":"The delivery was a mess. My order arrived late and the packaging was damaged. I won't be shopping here again.","labels":"Negative Feedback"}
+{"text":"I'm having trouble with the website while trying to complete my order. Is there a customer service number I can call?","labels":"Request for Support"}
+{"text":"Can you clarify if the vitamins are non-GMO? I'm really particular about that aspect when choosing supplements.","labels":"Product Inquiry"}
+{"text":"I was wondering about the warranty for this product. How long is it valid?","labels":"Product Inquiry"}
+{"text":"Is the color on the screen accurate for the couch? I want to make sure it matches my living room.","labels":"Product Inquiry"}
+{"text":"I received the wrong item and now I can't even get a hold of anyone to return it. This has been such a hassle!","labels":"Negative Feedback"}
+{"text":"I ordered these shoes and they arrived ahead of schedule! They are super comfortable and stylish. Best purchase I've made in a while!","labels":"Positive Feedback"}
+{"text":"I tried to find the warranty info for my recent purchase but I couldn't locate it anywhere. Could someone assist me with that?","labels":"Request for Support"}
+{"text":"Hello, I\u2019m interested in knowing whether this gadget is compatible with older models. I\u2019ve got the version from last year.","labels":"Product Inquiry"}
+{"text":"I was really looking forward to using the gadget I bought, but it stopped working after just two days. Very frustrating!","labels":"Negative Feedback"}
+{"text":"Can you tell me if this jacket comes in other colors? I'm really interested but only see it in red. ","labels":"Product Inquiry"}
+{"text":"Can someone please explain the return process? I\u2019m really confused about what to do with the item that doesn\u2019t fit.","labels":"Request for Support"}
+{"text":"The customer service was no help when I reported the issue with my order being incomplete. I won't be shopping here again.","labels":"Negative Feedback"}
+{"text":"I found this coffee maker online, but I\u2019m not sure if it brews cold brew as well. Can anyone confirm?","labels":"Product Inquiry"}
+{"text":"My experience with this online store has been nothing short of excellent. The checkout was smooth, and my items arrived much sooner than I anticipated. 100% satisfied!","labels":"Positive Feedback"}
+{"text":"I\u2019m curious if there\u2019s an option for bulk buying this particular item. Are there discounts for larger orders or more information on that?","labels":"Product Inquiry"}
+{"text":"Just received my order, and it was packaged perfectly. The item itself is fantastic and works like a charm. Will buy from this seller again!","labels":"Positive Feedback"}
+{"text":"I was charged twice for my purchase and I need clarification on how to resolve this issue. Thanks!","labels":"Request for Support"}
+{"text":"My recent order didn't arrive on time, and I'm really worried about it. Is there a way to check on the status?","labels":"Request for Support"}
+{"text":"I\u2019ve had to return the blender three times because it keeps malfunctioning. This has been such a hassle!","labels":"Negative Feedback"}
+{"text":"I was wondering about the material used in this clothing. Is it 100% cotton, or mixed with other fabrics?","labels":"Product Inquiry"}
+{"text":"Is there a warranty available for this appliance? I want to make sure I'm covered just in case.","labels":"Product Inquiry"}
+{"text":"Is there a way to check if this item is in stock at my local store? I'm really interested in picking it up instead of waiting for shipping.","labels":"Product Inquiry"}
+{"text":"The size chart is way off! I ordered an XL based on your measurements, but it fits like a medium. Definitely returning this product. ","labels":"Negative Feedback"}
+{"text":"The colors are even more vibrant in person! Really pleased with how everything turned out. This will make a perfect gift for my friend!","labels":"Positive Feedback"}
+{"text":"Do you have any recommendations for accessories that go well with this phone case? I want to maximize my purchase.","labels":"Product Inquiry"}
+{"text":"I\u2019m really frustrated because the item I received is not what I ordered. How can I go about fixing this?  Please let me know what steps to take.","labels":"Request for Support"}
+{"text":"I thought I was getting a great deal, but the quality is terrible. I regret this purchase.","labels":"Negative Feedback"}
+{"text":"The book I received was torn and had pages missing. I expected much better quality. It's not what I paid for at all!","labels":"Negative Feedback"}
+{"text":"The sizing chart is completely off. I ordered a medium but it fits like an extra small. Now I have to deal with returning it.","labels":"Negative Feedback"}
+{"text":"Can anyone tell me how to reset the device? I lost the manual and it\u2019s not working right now.","labels":"Request for Support"}
+{"text":"Can you tell me if this electronic device is compatible with the latest software updates? I'm hesitant to buy without knowing.","labels":"Product Inquiry"}
+{"text":"I can't believe how well this product works! It's made my routine so much easier, and I\u2019m really pleased with the outcome. Just amazing!","labels":"Positive Feedback"}
+{"text":"I ordered a gift for my friend, and it arrived damaged. Now I have to go through the hassle of returning it and finding something else. What a headache!","labels":"Negative Feedback"}
+{"text":"My package has been marked as delivered, but I haven't received it. I'm really concerned and need assistance. Please let me know what to do!","labels":"Request for Support"}
+{"text":"The dress I bought was nothing like the picture, the color was off and the fabric feels cheap. I wish I could return it without hassle.","labels":"Negative Feedback"}
+{"text":"Is the camera on this phone compatible with older Apple models?","labels":"Product Inquiry"}
+{"text":"This dress looked amazing online, but when it arrived, the color was completely different and the fabric felt cheap. What a letdown!","labels":"Negative Feedback"}
+{"text":"Do you offer any discounts for bulk purchases? I\u2019m planning to buy several items at once!","labels":"Product Inquiry"}
+{"text":"There seems to be an issue with my promo code not applying at checkout. Can someone fix this for me?","labels":"Request for Support"}
+{"text":"I have been trying to reach customer service for days about my missing shipment. Can someone please update me on the status of my order?","labels":"Request for Support"}
+{"text":"Do you know if this phone is compatible with my carrier? I want to make sure before purchasing.","labels":"Product Inquiry"}
+{"text":"I can't find the tracking information for my recent purchase. Can someone guide me on how to get that?","labels":"Request for Support"}
+{"text":"Your delivery was super fast and the quality of the shoes I ordered is outstanding. I\u2019m so happy with my purchase!","labels":"Positive Feedback"}
+{"text":"The blender I purchased is making a funny noise. I'm not sure if it's functioning properly. Can I get some advice?","labels":"Request for Support"}
+{"text":"Hey, I'm really interested in this gadget! Does it come with a warranty and what are the specifics on that?","labels":"Product Inquiry"}
+{"text":"Honestly, this was not worth the money. It broke after just one use and I'm really unhappy.","labels":"Negative Feedback"}
+{"text":"I bought a set of kitchen knives that were supposed to be high quality, but they're already rusting after just a few washes. Totally unacceptable!","labels":"Negative Feedback"}
+{"text":"Could someone clarify the return process for me? I\u2019m not sure what steps to follow and I want to avoid any hassles.","labels":"Request for Support"}
+{"text":"I need guidance on how to use a feature in my new kitchen appliance. Is there a manual available or should I reach out for help?","labels":"Request for Support"}
+{"text":"I paid extra for fast shipping and it took longer than expected. This is not what I signed up for and I feel cheated!","labels":"Negative Feedback"}
+{"text":"I\u2019m considering buying this camera, but can you confirm if it supports 4K video recording?","labels":"Product Inquiry"}
+{"text":"Can someone explain the difference between the blue and the red model of this vacuum? I\u2019m trying to decide which one to buy.","labels":"Product Inquiry"}
+{"text":"I received a faulty item and the process to get a replacement is taking forever. This has been a nightmare experience.","labels":"Negative Feedback"}
+{"text":"I tried the new coffee maker and it brews the best coffee I've ever tasted. I can't believe I waited so long to buy it!","labels":"Positive Feedback"}
+{"text":"I\u2019ve used this item only a few times and it\u2019s already showing signs of wear. I thought it was supposed to be more durable than this.","labels":"Negative Feedback"}
+{"text":"The laptop I ordered had several scratches on it. How can you sell a refurbished item in such condition?","labels":"Negative Feedback"}
+{"text":"There seems to be an issue with my order where I was charged for two items but only received one. How can I get this sorted out?","labels":"Request for Support"}
+{"text":"I rarely leave reviews, but I felt the need to share my experience. The product arrived quickly and is exactly what I wanted! Thanks for a great service!","labels":"Positive Feedback"}
+{"text":"This is the best skincare product I've ever used! My face feels so smooth and hydrated, it's been a game changer for my routine!","labels":"Positive Feedback"}
+{"text":"This book was a fantastic read! I couldn\u2019t put it down. The story just pulls you in from the first page. A must-have for any library!","labels":"Positive Feedback"}
+{"text":"Just wanted to express my appreciation for your quick delivery. The item arrived earlier than expected, and it was neatly packaged. Great service!","labels":"Positive Feedback"}
+{"text":"Can you tell me if this shirt comes in a larger size? I want to make sure it fits before ordering.","labels":"Product Inquiry"}
+{"text":"Is there any way to change my shipping address now that my order is placed? I really need to make sure it goes to the right place!","labels":"Request for Support"}
+{"text":"The scent of this candle is divine! It fills my living room with warmth and coziness. I will be ordering more to try different fragrances.","labels":"Positive Feedback"}
+{"text":"I\u2019ve been looking for a phone case that also supports wireless charging. Does this one work with that?","labels":"Product Inquiry"}
+{"text":"I am thinking of buying this but I need to know how long it typically lasts with regular use. Can you provide any insight?","labels":"Product Inquiry"}
+{"text":"I saw this item online, but I have questions about the dimensions. Can someone clarify?","labels":"Product Inquiry"}
+{"text":"I ordered a pair of shoes and they arrived with a noticeable tear. Completely unacceptable for the price I paid!","labels":"Negative Feedback"}
+{"text":"Can you tell me if this jacket is waterproof? I've been looking for a good winter coat that can handle rain.","labels":"Product Inquiry"}
+{"text":"This is my first time shopping here, and it was a fantastic experience! The website was easy to navigate and my shoes arrived quickly, fitting perfectly!","labels":"Positive Feedback"}
+{"text":"The delivery was fast, and the item was just as described. I'm really happy with my purchase and will order again soon!","labels":"Positive Feedback"}
+{"text":"Absolutely love this product! It arrived on time and exceeded my expectations. Will definitely buy again!","labels":"Positive Feedback"}
+{"text":"Just received my order, and wow, I'm blown away by how good it is! The material feels luxurious, and it fits like a glove. Worth every penny!","labels":"Positive Feedback"}
+{"text":"I noticed a new model of this device has been released. What improvements does it offer compared to the previous version?","labels":"Product Inquiry"}
+{"text":"I was really looking forward to using this blender, but it stopped working after just one week. How do I get a replacement?","labels":"Negative Feedback"}
+{"text":"I recently purchased a blender, but it seems to have a manufacturing defect. What steps should I take to resolve this?","labels":"Request for Support"}
+{"text":"How many servings does this protein powder provide? I need to plan my meals around it and just want to confirm before I order.","labels":"Product Inquiry"}
+{"text":"The product I bought came with a missing part. Can someone from customer service reach out to provide a solution? I\u2019ve looked everywhere for help with this.","labels":"Request for Support"}
+{"text":"I absolutely loved the shoes I ordered, but I noticed they are a bit too tight. Is there a way to exchange them for a larger size?","labels":"Request for Support"}
+{"text":"This blender is a powerhouse! I\u2019ve tried making smoothies and soups, and it handles everything like a champ. So glad I bought this!","labels":"Positive Feedback"}
+{"text":"I ordered a shirt in size medium but I got a large instead. How can I get this fixed?","labels":"Request for Support"}
+{"text":"I\u2019m thrilled with my new shoes! They fit perfectly and are super comfortable for all-day wear. Plus, the color is just like the picture. Couldn't be happier!","labels":"Positive Feedback"}
+{"text":"This shirt fits perfectly and the fabric feels high quality. I\u2019ll be ordering more in different colors. Very happy with my purchase!","labels":"Positive Feedback"}
+{"text":"I noticed there are multiple colors for this backpack. Which options are currently in stock?","labels":"Product Inquiry"}
+{"text":"I am having trouble accessing my account. Every time I try to log in, it says my password is incorrect. Can you assist me with that?","labels":"Request for Support"}
+{"text":"I ordered the blue shirt in size L, but I received a medium instead. This is really frustrating because I needed it for an event this weekend!","labels":"Negative Feedback"}
+{"text":"I received the wrong item and it took forever to get it sorted. I won't be shopping here again if this is the service I can expect.","labels":"Negative Feedback"}
+{"text":"These headphones stopped working after just a week. I expected way more durability for the price.","labels":"Negative Feedback"}
+{"text":"I noticed a charge on my account that I didn\u2019t authorize. This isn\u2019t great, and I need some support to figure this out as soon as possible.","labels":"Request for Support"}
+{"text":"I absolutely love this new blender! It blends smoothies so smoothly and cleans up in no time. Best kitchen purchase I've made in a while!","labels":"Positive Feedback"}
+{"text":"I can't believe how long it's taking to get a refund for my returned item. It's been weeks and still nothing!","labels":"Negative Feedback"}
+{"text":"I followed the instructions for setting up the device, but it\u2019s still malfunctioning. Any tips on what I should do next?","labels":"Request for Support"}
+{"text":"I noticed that my promo code didn't apply at checkout. Can someone please explain how I can get it to work?","labels":"Request for Support"}
+{"text":"Absolutely thrilled with my purchase! The quality is fantastic and it arrived sooner than I expected. Will definitely buy again!","labels":"Positive Feedback"}
+{"text":"Quick question: What is the warranty period for this refrigerator?","labels":"Product Inquiry"}
+{"text":"The customer service was unhelpful when I tried to return the blender. They wouldn't listen to my concerns about it being defective.","labels":"Negative Feedback"}
+{"text":"I\u2019m looking for a pair of headphones with noise cancellation. Is this model good for that? I've seen mixed reviews.","labels":"Product Inquiry"}
+{"text":"These sneakers are so comfortable! They fit like a dream, and I can wear them all day without any discomfort. I've already recommended them to my friends.","labels":"Positive Feedback"}
+{"text":"The item I ordered arrived damaged, and I don\u2019t know how to proceed with a return or exchange. What should I do?","labels":"Request for Support"}

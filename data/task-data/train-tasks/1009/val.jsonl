@@ -1,0 +1,100 @@
+{"text":"I can\u2019t find the file I just saved; I think I might've put it in the wrong folder when I tried to organize my documents. Just not sure where I went wrong.","labels":"User Error"}
+{"text":"The external hard drive I purchased isn't being recognized by my system. Tried different USB ports but still no luck. It's brand new, and I'm not sure what to do next.","labels":"Hardware Issue"}
+{"text":"Since the last software update, my connection drops every few minutes and it\u2019s making it hard for me to participate in video conferences. Is there any fix to this?","labels":"Network Issue"}
+{"text":"The signal strength of our Wi-Fi is dropping in different areas of the house. Any suggestions on how to boost it?","labels":"Network Issue"}
+{"text":"I'm unable to save any changes to my document. It says the file is read-only, but I've checked the properties and it\u2019s not. What can I do?","labels":"Software Issue"}
+{"text":"There\u2019s a persistent error message about the keyboard not being detected when I start my PC. I\u2019ve tried multiple keyboards, but the issue remains.","labels":"Hardware Issue"}
+{"text":"The audio on my headset is not working and I believe I may have muted it without realizing. Can someone help me check the settings?","labels":"User Error"}
+{"text":"I noticed that my desktop computer crashes whenever I try to use the external hard drive. Is there a possibility that the USB ports are not functioning correctly?","labels":"Hardware Issue"}
+{"text":"I've been using your platform for a while now, and I believe that integrating a calendar sync feature would really enhance user experience and productivity.","labels":"Feature Request"}
+{"text":"My email isn't syncing, and I just realized I might have entered the password incorrectly during setup. How do I fix this?","labels":"User Error"}
+{"text":"I\u2019ve been thinking about how useful it would be to have a built-in chat feature for quick communication between team members directly in the app.","labels":"Feature Request"}
+{"text":"It would be awesome if we could get some templates for reports. I think it would save a lot of time for everyone if we had pre-defined formats to work with.","labels":"Feature Request"}
+{"text":"My keyboard is acting weird \u2013 some keys don\u2019t register when pressed. I think it might be time for a replacement, but I want to confirm before I buy a new one.","labels":"Hardware Issue"}
+{"text":"I was playing an online game and suddenly got disconnected. My friend, who is in another state, mentioned they're facing the same issue. Could this be related to something beyond my setup?","labels":"Network Issue"}
+{"text":"I think it would be really beneficial to have more detailed tutorials or walkthroughs for new users, especially in the onboarding process. It can be overwhelming!","labels":"Feature Request"}
+{"text":"After I updated my editing software, some of my project files aren't opening properly. This is quite frustrating because I need them for a deadline soon.","labels":"Software Issue"}
+{"text":"My smartphone keeps indicating 'No Internet Connection' while all other devices in the house work perfectly fine. What could be the cause of this?","labels":"Network Issue"}
+{"text":"Could you please consider adding keyboard shortcuts for frequently used functions? It could significantly speed up the navigation process.","labels":"Feature Request"}
+{"text":"I think it would be great if you could integrate voice commands for the software\u2014using it hands-free would improve my workflow a ton!","labels":"Feature Request"}
+{"text":"It would be great to have a notification feature that reminds users about upcoming deadlines or important events. Without it, we tend to miss important dates.","labels":"Feature Request"}
+{"text":"My computer has been running slow since I installed that new software. Are there ways to optimize its performance or is there something wrong?","labels":"Software Issue"}
+{"text":"I can't seem to connect to the internet, and I'm getting a DNS error on my laptop.","labels":"Network Issue"}
+{"text":"The charging port on my tablet feels loose, and the device doesn't charge unless I position the cable just right. Is this a sign I need to replace it?","labels":"Hardware Issue"}
+{"text":"After installing the new router, I can't seem to get any devices connected to the internet. They all just say 'no internet access'.","labels":"Network Issue"}
+{"text":"I can't seem to open the application on my computer; it crashes every time I try to launch it.","labels":"Software Issue"}
+{"text":"The guest Wi-Fi isn't displaying on any devices. I tried rebooting the router, but it's still not appearing. Is there a way to troubleshoot this?","labels":"Network Issue"}
+{"text":"My external hard drive is not being recognized by my computer anymore. I\u2019ve tried different cables and ports, but no luck!","labels":"Hardware Issue"}
+{"text":"The app crashes every time I try to open it, and I don't know why. I have tried reinstalling it, but that didn't help either.","labels":"Software Issue"}
+{"text":"I logged in to the application today and all my settings were reset to default. I don\u2019t know how to restore my previous configurations. Can anyone assist?","labels":"Software Issue"}
+{"text":"The application I need for my job won't load. It just sits there with a spinning wheel. I've cleared the cache, but still no luck.","labels":"Software Issue"}
+{"text":"There are several users in the office reporting that they can't access the company portal. It seems like a problem on our end rather than with their devices.","labels":"Network Issue"}
+{"text":"We've installed a new firewall, and now no one can access the internet. Could that be causing the connection issues?","labels":"Network Issue"}
+{"text":"The search functionality in the app isn't working properly; it's either returning too many results or none at all. This is causing a delay in my work.","labels":"Software Issue"}
+{"text":"It would be awesome if we could get some kind of notification system for when updates are available instead of having to check manually every time.","labels":"Feature Request"}
+{"text":"I noticed that I'm unable to join video calls, and my coworkers mentioned they're having trouble seeing me too. It seems all of this started after the recent updates. What could the cause be?","labels":"Network Issue"}
+{"text":"It would be great if we could integrate the app with third-party services. That would really enhance its usability for our team.","labels":"Feature Request"}
+{"text":"Having a mobile app would be a great addition so that we can manage our tasks on the go, especially when we are traveling.","labels":"Feature Request"}
+{"text":"I've tried resetting the modem multiple times, but I still can't maintain a stable connection to the VPN. Any suggestions on what else I might check?","labels":"Network Issue"}
+{"text":"I've been trying to log into my account but I keep entering the wrong password. I thought I had reset it yesterday, but it's still not working. What should I do?","labels":"User Error"}
+{"text":"The email client I am using isn\u2019t syncing with my server. I\u2019ve tried restarting the app and my device, but nothing seems to work. What are the possible fixes for this?","labels":"Software Issue"}
+{"text":"I think my browser is acting up since I updated it yesterday. Pages aren't loading properly and it seems to be a problem with the new version, right?","labels":"Software Issue"}
+{"text":"I think there's a bug in the latest release. It keeps disconnecting from the server unexpectedly. It's affecting my productivity!","labels":"Software Issue"}
+{"text":"My laptop is making a weird clicking noise every time I try to boot it up, and I'm worried it might be a disk failure.","labels":"Hardware Issue"}
+{"text":"For some reason, my printer won't connect to the Wi-Fi network. It worked fine last week, but now it just keeps saying it's offline. What should I do?","labels":"Network Issue"}
+{"text":"I recently noticed that my laptop has started overheating, especially when I run heavy applications. Is this a sign that I need to replace the cooling fan?","labels":"Hardware Issue"}
+{"text":"The fan on my desktop keeps running at full speed, and it's quite loud. I think there's something wrong because it wasn't like this before. Can this be fixed?","labels":"Hardware Issue"}
+{"text":"Can you help me? My monitor is displaying weird colors and I can't seem to adjust the settings to fix it.","labels":"Hardware Issue"}
+{"text":"My monitor keeps flickering every time I try to open a new application, could it be a problem with the screen?","labels":"Hardware Issue"}
+{"text":"My external hard drive is detected but doesn't show any files. Is there a way to recover my data before considering a replacement?","labels":"Hardware Issue"}
+{"text":"I'm trying to install the new update on my application, but it keeps giving me an error code. I restarted my computer, but the problem persists.","labels":"Software Issue"}
+{"text":"I tried to log into my account, but I can\u2019t remember my password. Can you help me reset it?","labels":"User Error"}
+{"text":"I typed my password in wrong three times, and now my account is locked out. How do I unlock it?","labels":"User Error"}
+{"text":"Can we get an updated version of the user manual that includes examples for the latest functionalities? The current documentation doesn't cover a lot of new stuff. It makes it hard for new users.","labels":"Feature Request"}
+{"text":"My smartphone\u2019s screen is completely cracked and the touch functionality is erratic. I'm not sure if it can be repaired or if I need a new device.","labels":"Hardware Issue"}
+{"text":"The printer keeps jamming every time I try to print anything, no matter what I do it refuses to work properly. I've replaced the ink, but it still doesn't help.","labels":"Hardware Issue"}
+{"text":"I'm facing a problem with my computer's hard drive; it makes a weird clicking noise, and sometimes it doesn't boot up. It started happening after I dropped my laptop.","labels":"Hardware Issue"}
+{"text":"My laptop is showing an error message when I try to access any website. It says 'Connection Timed Out', but I'm not sure why.","labels":"Network Issue"}
+{"text":"I'm using a VPN for work, and lately, my connection drops unexpectedly. I think it might be something with how the VPN interacts with our internet.","labels":"Network Issue"}
+{"text":"Could we possibly have an option to export data into different formats? That would make sharing information way easier for our team!","labels":"Feature Request"}
+{"text":"My mouse isn't responding, and I realized I just forgot to charge it last night. Can you believe it?","labels":"User Error"}
+{"text":"I can't seem to find the print option in the software, can you help me? I think I might be missing something obvious.","labels":"User Error"}
+{"text":"I can't log into my email client since the last update. It keeps saying 'authentication failed', even though my credentials are correct!","labels":"Software Issue"}
+{"text":"I'm having trouble installing the new version of the application on my laptop; it keeps crashing every time I try to run the setup.","labels":"Software Issue"}
+{"text":"I noticed that my laptop's fan is making a loud noise, and it's getting really hot. Is this a sign that I need to get it serviced?","labels":"Hardware Issue"}
+{"text":"I clicked the wrong option during the setup process and now I can't access my files. What do I do?","labels":"User Error"}
+{"text":"I\u2019ve been noticing that my mouse lags sometimes, especially when I\u2019m using certain applications. Can I do something about it?","labels":"Hardware Issue"}
+{"text":"I was executing a script in the IDE, but I received a syntax error that I can't figure out. What do you suggest?","labels":"Software Issue"}
+{"text":"I'm looking for a way to customize the dashboard layout in the application; it would be great to have more flexibility in arranging widgets.","labels":"Feature Request"}
+{"text":"I accidentally deleted an important document from my desktop, and I can\u2019t find it in the recycle bin. I thought I had backup, but I guess I didn't save it?","labels":"User Error"}
+{"text":"I accidentally clicked on a suspicious link in an email, and now my software isn't working right. Programs keep crashing, and I don't know how to fix this.","labels":"Software Issue"}
+{"text":"I recently changed my Wi-Fi password, and now my smart TV won't connect. I think I entered the new password incorrectly when I set it up again.","labels":"User Error"}
+{"text":"Can you look into adding a tutorial mode that guides new users through the essential features? This could improve onboarding significantly.","labels":"Feature Request"}
+{"text":"Can someone put in a request to get more extensive user guides or tutorial videos? I believe that would help new users understand the product much better!","labels":"Feature Request"}
+{"text":"Every time I try to save my document, it just disappears. I must be doing something wrong!","labels":"User Error"}
+{"text":"The new feature in the application doesn't seem to work right. Whenever I try to use it, it gives me an unexpected error code. What should I do?","labels":"Software Issue"}
+{"text":"I recently spilled water on my keyboard and now some keys are unresponsive. What steps should I take to fix it?","labels":"Hardware Issue"}
+{"text":"I've noticed that the keyboard on my laptop has some keys that are unresponsive. I think it might need a replacement, but how can I be sure?","labels":"Hardware Issue"}
+{"text":"I wish there was a built-in tutorial or help guide that walks new users through the software. It can be overwhelming to get started without proper guidance!","labels":"Feature Request"}
+{"text":"I accidentally deleted my important files and I have no idea how to recover them. Can you help?","labels":"User Error"}
+{"text":"I'm having trouble with the application crashing every time I try to save my work, and I've already tried reinstalling it twice.","labels":"Software Issue"}
+{"text":"Why does my video call keep freezing? I'm hardwired to the internet, so I'm confused about why the connection is so unreliable during meetings.","labels":"Network Issue"}
+{"text":"Can someone explain why I can't access certain features in the app? It used to work fine, but now everything is glitching out.","labels":"Software Issue"}
+{"text":"I tried to install the new printer but it just won't connect. I think I need to check if I plugged it in right, right?","labels":"User Error"}
+{"text":"I noticed after a recent update that the application freezes when I attempt to open certain files. Is there a patch for this issue?","labels":"Software Issue"}
+{"text":"My external hard drive isn\u2019t being detected by my computer anymore. I\u2019ve plugged it into different USB ports but still no luck. Any ideas?","labels":"Hardware Issue"}
+{"text":"It seems like my Internet is too slow. I ran a speed test, and it\u2019s way below the expected limit. Could there be interference or something else happening?","labels":"Network Issue"}
+{"text":"I can't connect my laptop to the internet, it keeps saying 'no connection available'.","labels":"Network Issue"}
+{"text":"I'm having trouble updating the app on my phone, I think I might not have enough storage but I'm not sure how to check that. Can somebody guide me?","labels":"User Error"}
+{"text":"Is there any chance we could get more options for report generation? Having the ability to merge data from different sources would be super helpful.","labels":"Feature Request"}
+{"text":"Another thing I'd like to see is an integration with the calendar app to manage dates more effectively. That way I won't have to switch between apps as often.","labels":"Feature Request"}
+{"text":"I\u2019ve tried multiple times to upload my images to the platform, but it keeps telling me the format is wrong. I might be using the wrong file types.","labels":"User Error"}
+{"text":"Since yesterday, my connection drops intermittently while I'm on video calls. It gets really frustrating. Please advise on what I can do to fix this.","labels":"Network Issue"}
+{"text":"I accidentally deleted the file I was working on, and now I can't find it in the recycle bin. Is there a way to recover it?","labels":"User Error"}
+{"text":"The printer's not working, but I just realized I forgot to turn it on. What should I do?","labels":"User Error"}
+{"text":"I tried to log into my account, but I keep entering the wrong password. Can you help me reset it?","labels":"User Error"}
+{"text":"I've noticed that my VoIP calls are choppy and drop frequently. It's impacting my ability to communicate effectively during meetings. Can you assist?","labels":"Network Issue"}
+{"text":"I turned on my computer, but it's stuck on the startup screen. I think I hit the wrong button during the BIOS setup, but I'm not completely sure what I did.","labels":"User Error"}
+{"text":"I'm unable to access any cloud services at all. I've checked my connection and my device, but everything seems fine. Is there a known outage in my area?","labels":"Network Issue"}
+{"text":"Can you add the option to customize the dashboard layout? I've noticed that many users would benefit from having more control over their interface.","labels":"Feature Request"}
+{"text":"I love the software, but I think it needs a tagging system for better organization of tasks. That would make it much easier to track everything.","labels":"Feature Request"}

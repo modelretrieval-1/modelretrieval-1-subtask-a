@@ -1,0 +1,15 @@
+[project]
+name = "modelretrieval-1-subtask-a"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "datasets>=3.6.0",
+    "huggingface-hub>=0.35.3",
+    "ipykernel>=7.2.0",
+    "numpy>=2.4.4",
+    "pandas>=3.0.2",
+    "scikit-learn>=1.8.0",
+    "typer>=0.25.0",
+]
