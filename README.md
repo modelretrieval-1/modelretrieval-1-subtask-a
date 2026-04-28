@@ -26,6 +26,12 @@ Sub Task A focuses on Pre-trained BERT Model Retrieval for text classification t
 
 ## Quick Start
 
+1. Clone this repo
+
+   ```bash
+   git clone https://github.com/modelretrieval-1/modelretrieval-1-subtask-a.git
+   ```
+
 1. Install uv:
    https://docs.astral.sh/uv/getting-started/installation/
 2. Sync dependencies:
@@ -33,37 +39,7 @@ Sub Task A focuses on Pre-trained BERT Model Retrieval for text classification t
    ```bash
    uv sync
    ```
-
-
-
-3. Download models from `data/models.csv`:
-
-   Run command help:
-
-   ```bash
-   uv run python main.py download_models --help
-   ```
-
-   Download selected model IDs (repeat `--model-id`):
-
-   ```bash
-   uv run python main.py download_models --model-id 1 --model-id 2 --model-id 20
-   ```
-
-   Download all models listed in `data/models.csv`:
-
-   ```bash
-   uv run python main.py download_models --all
-   ```
-
-   Rules:
-
-   - Use either `--all` or `--model-id` (not both).
-   - One of them is required.
-
-   Downloaded files are stored under `data/models/{model_id}` with zero-padded folder names (for example: `01`, `02`, ..., `20`).
-
-4. Download test tasks from `data/tasks.csv`:
+3. Download test tasks from `data/tasks.csv`:
 
    Download all test tasks listed in `data/tasks.csv`:
 
@@ -94,7 +70,40 @@ Sub Task A focuses on Pre-trained BERT Model Retrieval for text classification t
 
 
 
-5. (Optional) Open the baseline notebook:
+4. Download models from `data/models.csv`:
+
+   ```bash
+   uv run python main.py download_models --all
+   ```
+
+   - Optional
+
+      Run command help:
+
+      ```bash
+      uv run python main.py download_models --help
+      ```
+
+      Download selected model IDs (repeat `--model-id`):
+
+      ```bash
+      uv run python main.py download_models --model-id 1 --model-id 2 --model-id 20
+      ```
+
+      Download all models listed in `data/models.csv`:
+
+
+
+      Note:
+
+      - Use either `--all` or `--model-id` (not both).
+
+      Downloaded files are stored under `data/models/{model_id}` with zero-padded folder names (for example: `01`, `02`, ..., `20`).
+
+
+
+
+5. Open the baseline notebook:
 
    ```text
    notebooks/baseline-avg-ranking.ipynb
