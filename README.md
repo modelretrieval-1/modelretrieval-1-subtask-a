@@ -37,6 +37,7 @@ Sub Task A focuses on Pre-trained BERT Model Retrieval for text classification t
 2. Sync dependencies:
 
    ```bash
+   cd modelretrieval-1-subtask-a
    uv sync
    ```
 3. Download test tasks from `data/tasks.csv`:
