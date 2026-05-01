@@ -312,9 +312,14 @@ def download_test_tasks(
         raise typer.BadParameter(f"Unknown or non-test task_id(s): {missing_ids}")
 
     for task_id in requested_ids:
-        row = df_test_tasks[df_test_tasks["task_id"] == task_id].iloc[0]
-        logger.info("Downloading task_id=%s -> %s", task_id, output_root / _format_task_id(task_id))
-        _process_single_task(row, output_root)
+        try:
+            row = df_test_tasks[df_test_tasks["task_id"] == task_id].iloc[0]
+            logger.info("Downloading task_id=%s -> %s", task_id, output_root / _format_task_id(task_id))
+            _process_single_task(row, output_root)
+
+        except Exception as e:
+            logger.error("Error occurred while downloading task_id=%s: %s", task_id, str(e))
+            continue
 
     logger.info("Done")
 
