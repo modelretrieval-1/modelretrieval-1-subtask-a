@@ -34,13 +34,15 @@ Sub Task A focuses on Pre-trained BERT Model Retrieval for text classification t
 
 1. Install uv:
    https://docs.astral.sh/uv/getting-started/installation/
-2. Sync dependencies:
+
+1. Sync dependencies:
 
    ```bash
    cd modelretrieval-1-subtask-a
    uv sync
    ```
-3. Download test tasks from `data/tasks.csv`:
+
+1. Download test tasks from `data/tasks.csv`:
 
    Download all test tasks listed in `data/tasks.csv`:
 
@@ -71,11 +73,15 @@ Sub Task A focuses on Pre-trained BERT Model Retrieval for text classification t
 
 
 
-4. Download models from `data/models.csv`:
+1. (Optional) Download models from `data/models.csv`:
+
+   **Note:** You can either download models using the script below, or just use them with `transformers` library. For example: `model = AutoModel.from_pretrained(model_name)`
 
    ```bash
    uv run python main.py download_models --all
    ```
+
+   Downloaded files are stored under `data/models/{model_id}` with zero-padded folder names (for example: `01`, `02`, ..., `20`).
 
    - Optional
 
@@ -99,7 +105,7 @@ Sub Task A focuses on Pre-trained BERT Model Retrieval for text classification t
 
       - Use either `--all` or `--model-id` (not both).
 
-      Downloaded files are stored under `data/models/{model_id}` with zero-padded folder names (for example: `01`, `02`, ..., `20`).
+
 
 
 
