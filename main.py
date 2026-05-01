@@ -355,13 +355,18 @@ def download_models(
     id_width = max(2, len(str(max(csv_model_ids))))
 
     for model_id in requested_ids:
-        model_row = model_rows.loc[model_id]
-        model_hf_url = str(model_row["model_hf_url"])
-        repo_id = parse_model_repo_id(model_hf_url)
-        model_output_dir = output_root / str(model_id).zfill(id_width)
+        try:
+            model_row = model_rows.loc[model_id]
+            model_hf_url = str(model_row["model_hf_url"])
+            repo_id = parse_model_repo_id(model_hf_url)
+            model_output_dir = output_root / str(model_id).zfill(id_width)
 
-        logger.info("Downloading model_id=%s (%s) -> %s", model_id, repo_id, model_output_dir)
-        snapshot_download(repo_id=repo_id, repo_type="model", local_dir=str(model_output_dir))
+            logger.info("Downloading model_id=%s (%s) -> %s", model_id, repo_id, model_output_dir)
+            snapshot_download(repo_id=repo_id, repo_type="model", local_dir=str(model_output_dir))
+
+        except Exception as e:
+            logger.error("Error occurred while downloading model_id=%s: %s", model_id, str(e))
+            continue
 
     logger.info("Done")
 
